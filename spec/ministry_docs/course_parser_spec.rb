@@ -1,8 +1,8 @@
 require 'spec_helper'
 
-describe MinistryDocs::Math::CourseParser do
+describe MinistryDocs::CourseParser do
   let(:course_txt){get_txt 'course_parser/course'}
-  subject(:course){MinistryDocs::Math::CourseParser.new(course_txt)}
+  subject(:course){MinistryDocs::CourseParser.new(course_txt)}
 
   describe '#parse' do
     let(:title){'Functions'}
@@ -11,7 +11,8 @@ describe MinistryDocs::Math::CourseParser do
     }
     let(:grade){'Grade 11'}
     let(:preReq){'Principles of Mathematics, Grade 10, Academic'}
-
+    let(:strand_parser){double}
+    
     it 'parse code' do
       expect(course.parse.code).to eq  'MCR3U'
     end
@@ -35,9 +36,16 @@ describe MinistryDocs::Math::CourseParser do
     it 'parse level of course'
 
     it 'parse creditValue of course'
+
+    it 'invoke strand_parser' do
+      course.strand_parser = strand_parser
+      allow(strand_parser).to receive(:parse).and_return(strands=double)
+
+      expect(course.parse.strands).to eq strands
+    end
   end
 
   def get_txt(name)
-    File.read(File.dirname(__FILE__) + "/../../fixtures/math/#{name}.txt")
+    File.read(File.dirname(__FILE__) + "/../fixtures/math/#{name}.txt")
   end
 end

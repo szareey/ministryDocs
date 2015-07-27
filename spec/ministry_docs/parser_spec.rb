@@ -1,7 +1,7 @@
 require 'spec_helper'
 
-describe MinistryDocs::Math::Parser do
-  let(:parser) {MinistryDocs::Math::Parser.new}
+describe MinistryDocs::Parser do
+  let(:parser) {MinistryDocs::Parser.new}
   let(:full_txt) {get_txt 'math1112currb'}
   let(:courses_section) {get_txt 'courses_section'}
 
@@ -29,6 +29,6 @@ describe MinistryDocs::Math::Parser do
   end
 
   def get_txt(name)
-    File.read(File.dirname(__FILE__) + "/../../fixtures/math/#{name}.txt")
+    File.read(File.dirname(__FILE__) + "/../fixtures/math/#{name}.txt")
   end
 end
