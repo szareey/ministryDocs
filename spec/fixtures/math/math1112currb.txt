@@ -1,0 +1,1298 @@
+Ministry of Education 
+
+The Ontario Curriculum, Grades 11 and 12
+
+Mathematics (Revised)
+
+2007 
+
+INTRODUCTION 
+
+This document replaces The Ontario Curriculum, Grade 11: Mathematics, 2006, and the Grade 12 courses in The Ontario Curriculum, Grades 11 and 12: Mathematics, 2000. Beginning in September 2007, all Grade 11 and Grade 12 mathematics courses will be based on the expectations outlined in this document. 
+
+SECONDARY SCHOOLS FOR THE TWENTY-FIRST CENTURY 
+
+The goal of Ontario secondary schools is to support high-quality learning while giving individual students the opportunity to choose programs that suit their skills and interests. The updated Ontario curriculum, in combination with a broader range of learning options outside traditional classroom instruction, will enable students to better customize their high school education and improve their prospects for success in school and in life. 
+
+THE IMPORTANCE OF MATHEMATICS IN THE CURRICULUM 
+
+This document provides a framework outlining what students are expected to know and be able to do by the end of each of the courses in the Grade 11–12 mathematics curriculum. The required knowledge and skills include not only important mathematical facts and procedures but also the mathematical concepts students need to understand and the mathematical processes they must learn to apply. 
+
+The principles underlying this curriculum are shared by educators dedicated to the success of all students in learning mathematics. Those principles can be stated as follows:1 
+• Curriculum expectations must be coherent, focused, and well-articulated across the grades.  
+• Learning mathematics involves the meaningful acquisition of concepts, skills, and processes and the active involvement of students in building new knowledge from prior knowledge and experience. 
+• Learning tools such as manipulatives and technologies are important supports for teaching and learning mathematics. 
+• Effective teaching of mathematics requires that the teacher understand the mathematical concepts, procedures, and processes that students need to learn, and use a variety of instructional strategies to support meaningful learning. 
+• Assessment and evaluation must support learning, recognizing that students learn and demonstrate learning in various ways. 
+• Equity of opportunity for student success in mathematics involves meeting the diverse learning needs of students and promoting excellence for all students. 
+• Equity is achieved when curriculum expectations are grade- and destination-appropriate, when teaching and learning strategies meet a broad range of student needs, and when a variety of pathways through the mathematics curriculum are made available to students. 
+
+1. Adapted from Principles and Standards for School Mathematics, developed by the National Council of Teachers of Mathematics (Reston, VA: NCTM, 2000). 
+
+The Ontario mathematics curriculum must serve a number of purposes. It must engage all students in mathematics and equip them to thrive in a society where mathematics is increasingly relevant in the workplace. It must engage and motivate as broad a group of students as possible, because early abandonment of the study of mathematics cuts students off from many career paths and postsecondary options. 
+
+The unprecedented changes that are taking place in today's world will profoundly affect the future of today's students. To meet the demands of the world in which they live, students will need to adapt to changing conditions and to learn independently. They will require the ability to use technology effectively and the skills for processing large amounts of quantitative information. Today's mathematics curriculum must prepare students for their future roles in society. It must equip them with an understanding of important mathematical ideas; essential mathematical knowledge and skills; skills of reasoning, problem solving, and communication; and, most importantly, the ability and the incentive to continue learning on their own. This curriculum provides a framework for accomplishing these goals. 
+
+The development of mathematical knowledge is a gradual process. A coherent and continuous program is necessary to help students see the "big pictures", or underlying principles, of mathematics. The fundamentals of important skills, concepts, processes, and attitudes are initiated in the primary grades and fostered throughout elementary school. The links between Grade 8 and Grade 9 and the transition from elementary school mathematics to secondary school mathematics are very important in developing the student's confidence and competence. 
+
+The secondary courses are based on principles that are consistent with those that underpin the elementary program, facilitating the transition from elementary school. These courses reflect the belief that students learn mathematics effectively when they are given opportunities to investigate new ideas and concepts, make connections between new learning and prior knowledge, and develop an understanding of the abstract mathematics involved. Skill acquisition is an important part of the learning; skills are embedded in the contexts offered by various topics in the mathematics program and should be introduced as they are needed. The mathematics courses in this curriculum recognize the importance of not only focusing on content, but also of developing the thinking processes that underlie mathematics. By studying mathematics, students learn how to reason logically, think critically, and solve problems – key skills for success in today's workplaces. 
+
+Mathematical knowledge becomes meaningful and powerful in application. This curriculum embeds the learning of mathematics in the solving of problems based on real-life situations. Other disciplines are a ready source of effective contexts for the study of mathematics. Rich problem-solving situations can be drawn from related disciplines, such as computer science, business, recreation, tourism, biology, physics, and technology, as well as from subjects historically thought of as distant from mathematics, such as geography and art. It is important that these links between disciplines be carefully explored, analysed, and discussed to emphasize for students the pervasiveness of mathematical concepts and mathematical thinking in all subject areas. 
+
+The choice of specific concepts and skills to be taught must take into consideration new applications and new ways of doing mathematics. The development of sophisticated yet easy-to-use calculators and computers is changing the role of procedure and technique in mathematics. Operations that were an essential part of a procedures-focused curriculum for decades can now be accomplished quickly and effectively using technology, so that students can now solve problems that were previously too time-consuming to attempt, and can focus on underlying concepts. "In an effective mathematics program, students learn in the presence of technology. Technology should influence the mathematics content taught and how it is taught. Powerful assistive and enabling computer and handheld technologies should be used seamlessly in teaching, learning, and assessment."2 This curriculum integrates appropriate technologies into the learning and doing of mathematics, while recognizing the continuing importance of students' mastering essential numeric and algebraic skills. 
+
+2. Expert Panel on Student Success in Ontario, Leading Math Success: Mathematical Literacy, Grades 7–12 – The Report of the Expert Panel on Student Success in Ontario, 2004 (Toronto: Ontario Ministry of Education, 2004), p. 47. (Referred to hereafter as Leading Math Success.) 
+
+ROLES AND RESPONSIBILITIES IN MATHEMATICS PROGRAMS 
+
+Students 
+
+Students have many responsibilities with regard to their learning. Students who make the effort required to succeed in school and who are able to apply themselves will soon discover that there is a direct relationship between this effort and their achievement, and will therefore be more motivated to work. There will be some students, however, who will find it more difficult to take responsibility for their learning because of special challenges they face. The attention, patience, and encouragement of teachers and family can be extremely important to these students' success. However, taking responsibility for their own progress and learning is an important part of education for all students, regardless of their circumstances. 
+
+Mastery of concepts and skills in mathematics requires a sincere commitment to work and study. Students are expected to develop strategies and processes that facilitate learning and understanding in mathematics. Students should also be encouraged to actively pursue opportunities to apply their problem-solving skills outside the classroom and to extend and enrich their understanding of mathematics. 
+
+Parents 
+
+Parents3 have an important role to play in supporting student learning. Studies show that students perform better in school if their parents are involved in their education. By becoming familiar with the curriculum, parents can find out what is being taught in the courses their children are taking and what their children are expected to learn. This awareness will enhance parents' ability to discuss their children's work with them, to communicate with teachers, and to ask relevant questions about their children's progress. 
+
+Knowledge of the expectations in the various courses also helps parents to interpret teachers' comments on student progress and to work with them to improve student learning. 
+
+Effective ways for parents to support their children's learning include attending parent-teacher interviews, participating in parent workshops, becoming involved in school council activities (including becoming a school council member), and encouraging their children to complete their assignments at home. 
+
+The mathematics curriculum promotes lifelong learning. In addition to supporting regular school activities, parents can encourage their children to apply their problem-solving skills to other disciplines and to real-world situations. 
+
+3. The word parents is used throughout this document to stand for parent(s) and guardian(s). 
+
+Teachers 
+
+Teachers and students have complementary responsibilities. Teachers are responsible for developing appropriate instructional strategies to help students achieve the curriculum expectations for their courses, as well as for developing appropriate methods for assessing and evaluating student learning. Teachers also support students in developing the reading, writing, and oral communication skills needed for success in their mathematics courses. Teachers bring enthusiasm and varied teaching and assessment approaches to the classroom, addressing different student needs and ensuring sound learning opportunities for every student. 
+
+Recognizing that students need a solid conceptual foundation in mathematics in order to further develop and apply their knowledge effectively, teachers endeavour to create a classroom environment that engages students' interest and helps them arrive at the understanding of mathematics that is critical to further learning. 
+
+Using a variety of instructional, assessment, and evaluation strategies, teachers provide numerous opportunities for students to develop skills of inquiry, problem solving, and communication as they investigate and learn fundamental concepts. The activities offered should enable students not only to make connections among these concepts throughout the course but also to relate and apply them to relevant societal, environmental, and economic contexts. Opportunities to relate knowledge and skills to these wider contexts – to the goals and concerns of the world in which they live – will motivate students to learn and to become lifelong learners. 
+
+Principals 
+
+The principal works in partnership with teachers and parents to ensure that each student has access to the best possible educational experience. To support student learning, principals ensure that the Ontario curriculum is being properly implemented in all classrooms through the use of a variety of instructional approaches. They also ensure that appropriate resources are made available for teachers and students. To enhance teaching and learning in all subjects, including mathematics, principals promote learning teams and work with teachers to facilitate participation in professional-development activities. 
+
+Principals are also responsible for ensuring that every student who has an Individual Education Plan (IEP) is receiving the modifications and/or accommodations described in his or her plan – in other words, for ensuring that the IEP is properly developed, implemented, and monitored. 
+
+THE PROGRAM IN MATHEMATICS 
+
+OVERVIEW OF THE PROGRAM 
+
+The senior mathematics courses build on the Grade 9 and 10 program, relying on the same fundamental principles on which that program was based. Both are founded on the premise that students learn mathematics most effectively when they build a thorough understanding of mathematical concepts and procedures. Such understanding is achieved when mathematical concepts and procedures are introduced through an investigative approach and connected to students' prior knowledge in meaningful ways. This curriculum is designed to help students prepare for university, college, or the workplace by building a solid conceptual foundation in mathematics that will enable them to apply their knowledge and skills in a variety of ways and further their learning successfully. 
+
+An important part of every course in the mathematics program is the process of inquiry, in which students develop methods for exploring new problems or unfamiliar situations. Knowing how to learn mathematics is the underlying expectation that every student in every course needs to achieve. An important part of the inquiry process is that of taking the conditions of a real-world situation and representing them in mathematical form. A mathematical representation can take many different forms – for example, it can be a physical model, a diagram, a graph, a table of values, an equation, or a computer simulation. It is important that students recognize various mathematical representations of given relationships and that they become familiar with increasingly sophisticated representations as they progress through secondary school. 
+
+The prevalence in today's society and classrooms of sophisticated yet easy-to-use calculators and computer software accounts in part for the inclusion of certain concepts and skills in this curriculum. The curriculum has been designed to integrate appropriate technologies into the learning and doing of mathematics, while equipping students with the manipulation skills necessary to understand other aspects of the mathematics that they are learning, to solve meaningful problems, and to continue to learn mathematics with success in the future. Technology is not used to replace skill acquisition; rather, it is treated as a learning tool that helps students explore concepts. Technology is required when its use represents either the only way or the most effective way to achieve an expectation. 
+
+Like the earlier curriculum experienced by students, the senior secondary curriculum adopts a strong focus on the processes that best enable students to understand mathematical concepts and learn related skills. Attention to the mathematical processes is  considered to be essential to a balanced mathematics program. The seven mathematical processes identified in this curriculum are problem solving, reasoning and proving, reflecting, selecting tools and computational strategies, connecting, representing, and communicating. Each of the senior mathematics courses includes a set of expectations – referred to in this document as the "mathematical process expectations" – that outline the knowledge and skills involved in these essential processes. The mathematical processes apply to student learning in all areas of a mathematics course. 
+
+A balanced mathematics program at the secondary level also includes the development of algebraic skills. This curriculum has been designed to equip students with the algebraic skills needed to solve meaningful problems, to understand the mathematical concepts they are learning, and to successfully continue their study of mathematics in the future. The algebraic skills required in each course have been carefully chosen to support the topics included in the course. Calculators and other appropriate technologies will be used when the primary purpose of a given activity is the development of concepts or the solving of problems, or when situations arise in which computation or symbolic manipulation is of secondary importance. 
+
+Courses in Grade 11 and Grade 12 
+
+Four types of courses are offered in the senior mathematics program: university preparation, university/college preparation, college preparation, and workplace preparation. Students choose course types on the basis of their interests, achievement, and postsecondary goals. 
+The course types are defined as follows:  
+• University preparation courses are designed to equip students with the knowledge and skills they need to meet the entrance requirements for university programs. 
+• University/college preparation courses are designed to equip students with the knowledge and skills they need to meet the entrance requirements for specific programs offered at universities and colleges. 
+• College preparation courses are designed to equip students with the knowledge and skills they need to meet the requirements for entrance to most college programs or for admission to specific apprenticeship or other training programs. 
+• Workplace preparation courses are designed to equip students with the knowledge and skills they need to meet the expectations of employers, if they plan to enter the workplace directly after graduation, or the requirements for admission to many apprenticeship or other training programs. 
+
+Courses in Mathematics, Grades 11 and 12 
+Grade 11 
+Course Name: Functions 
+Course Type: University 
+Course Code: MCR3U 
+Prerequisite: Grade 10 Principles of Mathematics, Academic 
+
+Grade 11 
+Course Name: Functions and Applications 
+Course Type: University/College 
+Course Code: MCF3M 
+Prerequisite: Grade 10 Principles of Mathematics, Academic, or Grade 10 Foundations of Mathematics, Applied 
+
+Grade 11 
+Course Name: Foundations for College Mathematics 
+Course Type: College 
+Course Code: MBF3C 
+Prerequisite: Grade 10 Foundations of Mathematics, Applied Mathematics
+ 
+Grade 11 
+Course Name: Mathematics for Work and Everyday Life 
+Course Type: Workplace 
+Course Code: MEL3E 
+Prerequisite: Grade 9 Principles of Mathematics, Academic, or Grade 9 Foundations of Mathematics, Applied, or a Grade 10 Mathematics LDCC (locally developed compulsory credit) course 
+
+Grade 12 
+Course Name: Advanced Functions  
+Course Type: University 
+Course Code: MHF4U 
+Prerequisite: Grade 11 Functions, University 
+
+Grade 12 
+Course Name: Calculus and Vectors 
+Course Type: University 
+Course Code: MCV4U 
+Prerequisite: Grade 12 Advanced Functions, University, must be taken prior to or concurrently with Calculus and Vectors. 
+
+Grade 12 
+Course Name: Mathematics of Data Management 
+Course Type: University 
+Course Code: MDM4U 
+Prerequisite: Grade 11 Functions, University, or Grade 11 Functions and Applications, University/College 
+
+Grade 12 
+Course Name: Mathematics for College Technology 
+Course Type: College 
+Course Code: MCT4C 
+Prerequisite: Grade 11 Functions and Applications, University/College, or Grade 11 Functions, University 
+
+Grade 12 
+Course Name: Foundations for College Mathematics 
+Course Type: College 
+Course Code: MAP4C 
+Prerequisite: Grade 11 Foundations for College Mathematics, College, or Grade 11 Functions and Applications, University/College 
+
+Grade 12 
+Course Name: Mathematics for Work and Everyday Life 
+Course Type: Workplace 
+Course Code: MEL4E 
+Prerequisite: Grade 11 Mathematics for Work and Everyday Life, Workplace 
+
+Note: Each of the courses listed above is worth one credit. 
+
+Prerequisite Chart for Mathematics, Grades 9 12  (omitted chart on page 10)
+This chart maps out all the courses in the discipline and shows the links between courses and the possible prerequisites for them. It does not attempt to depict all possible movements from course to course. 
+
+Notes: 
+• T – transfer course 
+• LDCC – locally developed compulsory credit course (LDCC courses are not outlined in this document.) 
+
+Half-Credit Courses 
+
+The courses outlined in this document are designed to be offered as full-credit courses. However, with the exception of the Grade 12 university preparation courses, they may also be delivered as half-credit courses. 
+
+Half-credit courses, which require a minimum of fifty-five hours of scheduled instructional time, must adhere to the following conditions: 
+• The two half-credit courses created from a full course must together contain all of the expectations of the full course. The expectations for each half-credit course must be divided in a manner that best enables students to achieve the required knowledge and skills in the allotted time.  
+• A course that is a prerequisite for another course in the secondary curriculum may be offered as two half-credit courses, but students must successfully complete both parts of the course to fulfil the prerequisite. (Students are not required to complete both parts unless the course is a prerequisite for another course they wish to take.) 
+• The title of each half-credit course must include the designation Part 1 or Part 2. A half credit (0.5) will be recorded in the credit-value column of both the report card and the Ontario Student Transcript. 
+
+Boards will ensure that all half-credit courses comply with the conditions described above, and will report all half-credit courses to the ministry annually in the School October Report. 
+
+CURRICULUM EXPECTATIONS 
+
+The expectations identified for each course describe the knowledge and skills that students are expected to acquire, demonstrate, and apply in their class work, on tests, and in various other activities on which their achievement is assessed and evaluated. 
+
+Two sets of expectations are listed for each strand, or broad curriculum area, of each course. 
+• The overall expectations describe in general terms the knowledge and skills that students are expected to demonstrate by the end of each course.  
+• The specific expectations describe the expected knowledge and skills in greater detail. The specific expectations are arranged under numbered subheadings that relate to the overall expectations and that may serve as a guide for teachers as they plan learning activities for their students. The specific expectations are also numbered to indicate the overall expectation to which they relate (e.g., specific expectation 3.2 is related to overall expectation 3 in a given strand). The organization of expectations in subgroupings is not meant to imply that the expectations in any subgroup are achieved independently of the expectations in the other subgroups. The subheadings are used merely to help teachers focus on particular aspects of knowledge and skills as they develop and use various lessons and learning activities with their students. 
+
+In addition to the expectations outlined within each strand, a list of seven "mathematical process expectations" precedes the strands in all mathematics courses. These specific expectations describe the knowledge and skills that constitute processes essential to the effective study of mathematics. These processes apply to all areas of course content, and students' proficiency in applying them must be developed in all strands of a mathematics course. Teachers should ensure that students develop their ability to apply these processes in appropriate ways as they work towards meeting the expectations outlined in the strands. 
+
+When developing detailed courses of study from this document, teachers are expected to weave together related expectations from different strands, as well as the relevant process expectations, in order to create an overall program that integrates and balances concept development, skill acquisition, the use of processes, and applications. 
+
+Many of the specific expectations are accompanied by examples and/or sample problems. These examples and sample problems are meant to illustrate the kind of skill, the specific area of learning, the depth of learning, and/or the level of complexity that the expectation entails. Some examples and sample problems may also be used to emphasize the importance of diversity or multiple perspectives. The examples and sample problems are intended only as suggestions for teachers. Teachers may incorporate the examples and sample problems into their lessons, or they may choose other topics, approaches, or problems that are relevant to the expectation. 
+
+COURSES AND STRANDS 
+
+The courses in the Grade 11–12 mathematics curriculum are briefly described below, by course type. The strands in each course are listed in the graphic provided in each section, and their focus is discussed in the following text. 
+
+University Preparation Courses (chart omitted from page 12, but content available)
+
+Grade 11 FUNCTIONS (MCR3U)
+A. Characteristics of Functions
+B. Exponential Functions
+C. Discrete Functions
+D. Trigonometric Functions
+
+Grade 12
+ADVANCED FUNCTIONS (MHF4U)
+A. Exponential and Logarithmic Functions
+B. Trigonometric Functions 
+C. Polynomial and Rational Functions
+D. Characteristics of Functions
+
+Grade 12
+CALCULUS AND VECTORS (MCV4U)
+A. Rate of Change
+B. Derivatives and Their Applications
+C. Geometry and Algebra of Vectors
+
+Grade 12 
+MATHEMATICS  OF DATA MANAGEMENT (MDM4U)
+A. Counting and Probability
+B. Probability Distributions
+C. Organization of Data for Analysis
+D. Statistical Analysis
+E. Culminating Data Management Investigation
+
+The Grade 11 university preparation course, Functions, builds on the concepts and skills developed in the Grade 9 and 10 academic mathematics courses. The course is designed to prepare students for Grade 12 mathematics courses that lead to one of many university programs, including science, engineering, social sciences, liberal arts, and education. The concept of functions is introduced in the Characteristics of Functions strand of this course and extended through the investigation of two new types of relationships in the Exponential Functions and Trigonometric Functions strands. The Discrete Functions strand allows students, through the study of different representations of sequences and series, to revisit patterning and algebra concepts introduced in elementary school and make connections to financial applications involving compound interest and ordinary simple annuities. 
+
+The Grade 12 university preparation course Advanced Functions satisfies the mathematical prerequisite for some universities in areas that include business, social science, and health science programs. The strands in this course help students deepen their understanding of functions by revisiting the exponential and trigonometric functions introduced in Grade 11 to address related concepts such as radian measure and logarithmic functions and by extending prior knowledge of quadratic functions to explore polynomial and rational functions. The Characteristics of Functions strand addresses some of the general features of functions through the examination of rates of change and methods of combining functions. 
+
+The Grade 12 university preparation course Calculus and Vectors is designed to prepare students for university programs, such as science, engineering, and economics, that include a calculus or linear algebra course in the first year. Calculus is introduced in the Rate of Change strand by extending the numeric and graphical representation of rates of change introduced in the Advanced Functions course to include more abstract algebraic representations. The Derivatives and Their Applications strand provides students with the opportunity to develop the algebraic and problem-solving skills needed to solve problems associated with rates of change. Prior knowledge of geometry and trigonometry is used in the Geometry and Algebra of Vectors strand to develop vector concepts that can be used to solve interesting problems, including those arising from real-world applications. 
+
+The Grade 12 university preparation course Mathematics of Data Management is designed to satisfy the prerequisites for a number of university programs that may include statistics courses, such as those found in the social sciences and the humanities. The expectations in the strands of this course require students to apply mathematical process skills developed in prerequisite courses, such as problem solving, reasoning, and communication, to the study of probability and statistics. The Counting and Probability strand extends the basic probability concepts learned in the elementary school program and introduces counting techniques such as the use of permutations and combinations; these techniques are applied to both counting and probability problems. The Probability Distributions strand introduces the concept of probability distributions; these include the normal distribution, which is important in the study of statistics. In the Organization of Data for Analysis strand, students examine, use, and develop methods for organizing large amounts of data, while in the Statistical Analysis strand, students investigate and develop an understanding of powerful concepts used to analyse and interpret large amounts of data. These concepts are developed with the use of technological tools such as spreadsheets and Fathom, a ministry-licensed dynamic statistical program. The Culminating Data Management Investigation strand requires students to undertake a culminating investigation dealing with a significant issue that will require the application of the skills from the other strands of the course. 
+
+University/College Preparation and College Preparation Courses (chart omitted from page 14, but content available)
+
+Grade 11
+FUNCTIONS AND APPLICATIONS (MCF3M)
+A. Quadratic Functions
+B. Exponential Functions
+C. Trigonometric Functions
+
+Grade 12
+MATHEMATICS FOR COLLEGE TECHNOLOGY (MCT4C)
+A. Exponential Functions
+B. Polynomial Functions
+C. Trigonometric Functions
+D. Applications of Geometry
+
+The Grade 11 university/college preparation course, Functions and Applications, provides preparation for students who plan to pursue technology-related programs in college, while also leaving the option open for some students to pursue postsecondary programs that require the Grade 12 university preparation course Mathematics of Data Management. The Functions and Applications course explores functions by revisiting key concepts from the Grade 10 mathematics curriculum and by using a more applied approach with less emphasis on abstract concepts than in the Grade 11 university preparation course, Functions. The first strand, Quadratic Functions, extends knowledge and skills related to quadratics for students who completed the Grade 10 applied mathematics course and reviews this topic for students entering from the Grade 10 academic course. The strand also introduces some of the properties of functions. The other two strands, Exponential Functions and Trigonometric Functions, emphasize real-world applications and help students develop the knowledge and skills needed to solve problems related to these applications. 
+
+The Grade 12 college preparation course Mathematics for College Technology provides excellent preparation for success in technology-related programs at the college level. It extends the understanding of functions developed in the Grade 11 university/college preparation course, Functions and Applications, using a more applied approach, and may help students who decide to pursue certain university programs to prepare for the Grade 12 university preparation course Advanced Functions. Exponential and trigonometric functions are revisited, developing algebraic skills needed to solve problems involving exponential equations and extending the skills associated with graphical representations of trigonometric functions. The Polynomial Functions strand extends to polynomial functions concepts that connect graphs and equations of quadratic functions. Finally, students apply geometric relationships to solve problems involving composite shapes and figures and investigate the properties of circles and their applications. 
+
+(Chart from page 15 omitted, but content available)
+Grade 11 
+FOUNDATIONS FOR COLLEGE MATHEMATICS (MBF3C)
+A. Mathematical Models
+B. Personal Finance
+C. Geometry and Trigonometry
+D. Data Management
+
+Grade 12 
+FOUNDATIONS FOR COLLEGE MATHEMATICS (MAP4C)
+A. Mathematical Models
+B. Personal Finance
+C. Geometry and Trigonometry 
+D. Data Management
+ 
+The Grade 11 college preparation course, Foundations for College Mathematics, includes a blend of topics needed by students who plan to pursue one of a broad range of college programs. The course has been designed with four strands that address different areas of mathematics. The Mathematical Models strand uses the concepts connected to linear and quadratic relations developed in the Grade 9 and 10 applied mathematics courses to revisit quadratic relations and introduce exponential relations. The Personal Finance strand focuses on compound interest and applications related to investing and borrowing money and owning and operating a vehicle. Applications requiring spatial reasoning are addressed in the Geometry and Trigonometry strand. The fourth strand, Data Management, explores practical applications of one-variable statistics and probability. 
+
+The Grade 12 college preparation course Foundations for College Mathematics satisfies the mathematical prerequisites for many college programs, including programs in business, human services, hospitality and tourism, and some of the health sciences. The four strands of this course focus on the same areas of mathematics addressed in the Grade 11 college preparation course, Foundations for College Mathematics. The Mathematical Models strand extends the concepts and skills that related to exponential relations introduced in Grade 11 and provides students with an opportunity to revisit all of the relations they have studied in the secondary mathematics program by using a graphical and algebraic approach. The Personal Finance strand focuses on annuities and mortgages, renting or owning accommodation, and designing budgets. Problem solving in the Geometry and Trigonometry strand reinforces the application of relationships associated with a variety of shapes and figures. The fourth strand, Data Management, addresses practical applications of two-variable statistics and examines applications of data management. 
+
+Workplace Preparation Courses (Chart from page 15 omitted, but content available)
+
+Grade 11 
+MATHEMATICS FOR WORKAND EVERYDAY LIFE (MEL3E)
+A. Earning and Purchasing
+B. Saving, Investing, and Borrowing
+C. Transportation and Travel 
+
+Grade 12 
+MATHEMATICS FOR WORKAND EVERYDAY LIFE (MEL4E)
+A. Reasoning With Data
+B. Personal Finance
+C. Applications of Measurement
+
+The Grade 11 workplace preparation course, Mathematics for Work and Everyday Life, is designed to help students consolidate the basic knowledge and skills of mathematics used in the workplace and in everyday life. This course is ideal for students who would like to take the Grade 12 workplace preparation course before graduating from high school and entering the workplace. The course also meets the needs of students who wish to fulfill the senior mathematics graduation requirement but do not plan to take any further courses in mathematics. All three strands, Earning and Purchasing; Saving, Investing, and Borrowing; and Transportation and Travel, provide students with the opportunity to use proportional reasoning to solve a variety of problems. 
+
+The Grade 12 workplace preparation course, Mathematics for Work and Everyday Life, extends the knowledge and skills developed in Grade 11. The gathering, interpretation, and display of one-variable data and the investigation of probability concepts are the main components of the Reasoning With Data strand. Topics in the Personal Finance strand address owning or renting accommodation, designing a budget, and filing an income tax return. A variety of problems involving metric and imperial measurement are presented in the Applications of Measurement strand. The expectations support the use of hands-on projects and other experiences that make the mathematics more meaningful for students. 
+
+THE MATHEMATICAL PROCESSES 
+
+Presented at the start of every course in this curriculum document are seven mathematicalprocess expectations that describe a set of skills that support lifelong learning in mathe-matics and that students need to develop on an ongoing basis, as they work to achievethe expectations outlined within each course. In the 2000 mathematics curriculum, expec-tations that addressed the mathematical processes were present within individual strandsto varying degrees. Here, the mathematical processes are highlighted in each course toensure that students are actively engaged in developing their skills to apply themthroughout the course, rather than only in specific strands.
+
+The mathematical processes are as follows: 
+• problem solving 
+• reasoning and proving 
+• reflecting 
+• selecting tools and computational strategies 
+• connecting 
+• representing 
+• communicating 
+
+Each course presents students with rich problem-solving experiences through a variety of approaches, including investigation. These experiences provide students with opportunities to develop and apply the mathematical processes. 
+
+The mathematical processes are interconnected. Problem solving and communicating have strong links to all the other processes. The problem-solving process can be thought of as the motor that drives the development of the other processes. It allows students to make conjectures and to reason as they pursue a solution or a new understanding. Problem solving provides students with the opportunity to make connections to their prior learning and to make decisions about the representations, tools, and computational strategies needed to solve the problem. Teachers should encourage students to justify their solutions, communicate them orally and in writing, and reflect on alternative solutions. By seeing how others solve a problem, students can begin to think about their own thinking (metacognition) and the thinking of others, and to consciously adjust their own strategies in order to make their solutions as efficient and accurate as possible.  
+
+The mathematical processes cannot be separated from the knowledge and skills that students acquire throughout the course. Students who problem solve, communicate, reason, reflect, and so on, as they learn mathematics, will develop the knowledge, the understanding of concepts, and the skills required in the course in a more meaningful way. 
+
+PROBLEM SOLVING 
+
+Problem solving is central to learning mathematics. It forms the basis of effective mathematics programs and should be the mainstay of mathematical instruction. It is considered an essential process through which students are able to achieve the expectations in mathematics, and is an integral part of the mathematics curriculum in Ontario, for the following reasons. Problem solving: 
+• helps students become more confident mathematicians; 
+• allows students to use the knowledge they bring to school and helps them connect mathematics with situations outside the classroom; 
+• helps students develop mathematical understanding and gives meaning to skills and concepts in all strands; 
+• allows students to reason, communicate ideas, make connections, and apply knowledge and skills; 
+• offers excellent opportunities for assessing students' understanding of concepts, ability to solve problems, ability to apply concepts and procedures, and ability to communicate ideas; 
+• promotes collaborative sharing of ideas and strategies, and promotes talking about mathematics; 
+• helps students find enjoyment in mathematics; 
+• increases opportunities for the use of critical-thinking skills (e.g., estimating, classifying, assuming, recognizing relationships, hypothesizing, offering opinions with reasons, evaluating results, and making judgements). 
+
+Not all mathematics instruction, however, can take place in a problem-solving context. Certain aspects of mathematics must be explicitly taught. Conventions, including the use of mathematical symbols and terms, are one such aspect, and they should be introduced to students as needed, to enable them to use the symbolic language of mathematics. 
+
+Selecting Problem-Solving Strategies 
+
+Problem-solving strategies are methods that can be used to solve various types of problems. Common problem-solving strategies include: making a model, picture, or diagram; looking for a pattern; guessing and checking; making assumptions; creating an organized list; making a table or chart; solving a simpler problem; working backwards; and using logical reasoning. 
+
+Teachers who use problem solving as a focus of their mathematics teaching help students develop and extend a repertoire of strategies and methods that they can apply when solving various kinds of problems – instructional problems, routine problems, and non-routine problems. Students develop this repertoire over time, as their problem-solving skills mature. By secondary school, students will have learned many problem-solving strategies that they can flexibly use to investigate mathematical concepts or can apply when faced with unfamiliar problem-solving situations. 
+
+REASONING AND PROVING 
+
+Reasoning helps students make sense of mathematics. Classroom instruction in mathematics should foster critical thinking – that is, an organized, analytical, well-reasoned approach to learning mathematical concepts and processes and to solving problems. 
+
+As students investigate and make conjectures about mathematical concepts and relationships, they learn to employ inductive reasoning, making generalizations based on specific findings from their investigations. Students also learn to use counter-examples to disprove conjectures. Students can use deductive reasoning to assess the validity of conjectures and to formulate proofs. 
+
+REFLECTING 
+
+Good problem-solvers regularly and consciously reflect on and monitor their own thought processes. By doing so, they are able to recognize when the technique they are using is not fruitful, and to make a conscious decision to switch to a different strategy, rethink the problem, search for related content knowledge that may be helpful, and so forth. Students' problem-solving skills are enhanced when they reflect on alternative ways to perform a task even if they have successfully completed it. Reflecting on the reasonableness of an answer by considering the original question or problem is another way in which students can improve their ability to make sense of problems. 
+
+SELECTING TOOLS AND COMPUTATIONAL STRATEGIES 
+
+The primary role of learning tools such as calculators, manipulatives, graphing technologies, computer algebra systems, dynamic geometry software, and dynamic statistical software is to help students develop a deeper understanding of mathematics through the use of a variety of tools and strategies. Students need to develop the ability to select the appropriate learning tools and computational strategies to perform particular mathematical tasks, to investigate mathematical ideas, and to solve problems. 
+
+Calculators, Computers, Communications Technology 
+
+Various types of technology are useful in learning and doing mathematics. Students can use calculators and computers to extend their capacity to investigate and analyse mathematical concepts and to reduce the time they might otherwise spend on purely mechanical activities. 
+
+Technology helps students perform operations, make graphs, manipulate algebraic expressions, and organize and display data that are lengthier or more complex than those addressed in curriculum expectations suited to a paper-and-pencil approach. It can be used to investigate number and graphing patterns, geometric relationships, and different representations; to simulate situations; and to extend problem solving. Students also need to recognize when it is appropriate to apply their mental computation, reasoning, and estimation skills to predict results and check answers. 
+
+Technologies must be seen as important problem-solving tools. Computers and calculators are tools of mathematicians, and students should be given opportunities to select and use the learning tools that may be helpful to them as they search for their own solutions to problems. 
+
+It is important that teachers introduce the use of technology in ways that build students' confidence and contribute to their understanding of the concepts being investigated, especially when students may not be familiar with the use of some of the technologies suggested in the curriculum. Students' use of technology should not be laborious or restricted to inputting and learning algorithmic steps. For example, when using spreadsheets and statistical software (e.g., Fathom), teachers could supply students with prepared data sets, and when using dynamic geometry software (e.g., The Geometer's Sketchpad), pre-made sketches could be used to ensure that students focus on the important mathematical relationships, and not just on the inputting of data or on the construction of the sketch. 
+Whenever appropriate, students should be encouraged to select and use the communications technology that would best support and communicate their learning. Computer software programs can help students collect, organize, and sort the data they gather, and write, edit, and present reports on their findings. Students, working individually or in groups, can use Internet websites to gain access to Statistics Canada, mathematics organizations, and other valuable sources of mathematical information around the world. 
+
+Manipulatives 
+
+Although technologies are the most common learning tools used by students studying senior level mathematics, students should still be encouraged, when appropriate, to select and use concrete learning tools to make models of mathematical ideas. Students need to understand that making their own models is a powerful means of building understanding and explaining their thinking to others. 
+
+Representation of mathematical ideas using manipulatives4 helps students to: 
+• see patterns and relationships; 
+• make connections between the concrete and the abstract; 
+• test, revise, and confirm their reasoning; 
+• remember how they solved a problem; 
+• communicate their reasoning to others. 
+
+Computational Strategies 
+
+Problem solving often requires students to select an appropriate computational strategy such as applying a standard algorithm, using technology, or applying strategies related to mental computation and estimation. Developing the ability to perform mental computation and to estimate is an important aspect of student learning in mathematics. Knowing when to apply such skills is equally important. 
+
+Mental computation involves calculations done in the mind, with little or no use of paper and pencil. Students who have developed the ability to calculate mentally can select from and use a variety of procedures that take advantage of their knowledge and understanding of numbers, the operations, and their properties. Using knowledge of the distributive property, for example, students can mentally compute 70% of 22 by first considering 70% of 20 and then adding 70% of 2. Used effectively, mental computation can encourage students to think more deeply about numbers and number relationships. 
+
+Knowing how to estimate and recognizing when it is useful to estimate and when it is necessary to have an exact answer are important mathematical skills. Estimation is a useful tool for judging the reasonableness of a solution and for guiding students in their use of calculators. The ability to estimate depends on a well-developed sense of number and an understanding of place value. It can be a complex skill that requires decomposing numbers, compensating for errors, and perhaps even restructuring the problem. Estimation should not be taught as an isolated skill or a set of isolated rules and techniques. Recognizing calculations that are easy to perform and developing fluency in performing basic operations contribute to successful estimation. 
+
+4. See the Instructional Approaches section, on page 30 of this document, for additional information about the use of manipulatives in mathematics instruction. 
+
+CONNECTING 
+
+Experiences that allow students to make more connections – to see, for example, how concepts and skills from one strand of mathematics are related to those from another or how a mathematical concept can be applied in the real world – will help them develop deeper mathematical understanding. As they continue to make such connections, students begin to see mathematics more as a study of relationships rather than a series of isolated skills and concepts. Making connections not only deepens understanding, but also helps students develop the ability to use learning from one area of mathematics to understand another. 
+
+Making connections between the mathematics being studied and its applications in the real world helps convince students of the usefulness and relevance of mathematics beyond the classroom. 
+
+REPRESENTING 
+
+In the senior mathematics curriculum, representing mathematical ideas and modelling situations generally involve concrete, numeric, graphical, and algebraic representations. Pictorial, geometric representations as well as representations using dynamic software can also be very helpful. Students should be able to recognize the connections between representations, translate one representation into another, and use the different representations appropriately and as needed to solve problems. Knowing the different ways in which a mathematical idea can be represented helps students develop a better understanding of mathematical concepts and relationships; communicate their thinking and understanding; recognize connections among related mathematical concepts; and model and interpret mathematical, physical, and social phenomena. When students are able to represent concepts in various ways, they develop flexibility in their thinking about those concepts. They are not inclined to perceive any single representation as "the math"; rather, they understand that it is just one of many representations that help them understand a concept. 
+
+COMMUNICATING 
+
+Communication is the process of expressing mathematical ideas and understandings orally, visually, and in writing, using numbers, symbols, pictures, graphs, diagrams, and words. Providing effective explanations and using correct mathematical notation when developing and presenting mathematical ideas and solutions are key aspects of effective communication in mathematics. Students communicate for various purposes and for different audiences, such as the teacher, a peer, a group of students, or the whole class. Communication is an essential process in learning mathematics. Through communication, students are able to reflect upon and clarify ideas, relationships, and mathematical arguments. 
+
+Many opportunities exist for teachers to help students develop their ability to communicate mathematically. For example, teachers can: • model proper use of symbols, vocabulary, and notations in oral and written form;  
+• expect correct use of mathematical symbols and conventions in student work; 
+• ensure that students are exposed to and use new mathematical vocabulary as it is introduced (e.g., as they gather and interpret information; by providing opportunities to read, question, and discuss); 
+• provide feedback to students on their use of terminology and conventions; 
+• ask clarifying and extending questions and encourage students to ask themselves similar kinds of questions; 
+• ask students open-ended questions relating to specific topics or information; 
+• model ways in which various kinds of questions can be answered. 
+
+Effective classroom communication requires a supportive and respectful environment that makes all members of the class comfortable when they speak and when they question, react to, and elaborate on the statements of their classmates and the teacher. 
+
+ASSESSMENT AND EVALUATION OF STUDENT ACHIEVEMENT 
+
+BASIC CONSIDERATIONS 
+
+The primary purpose of assessment and evaluation is to improve student learning. Information gathered through assessment helps teachers to determine students' strengths and weaknesses in their achievement of the curriculum expectations in each course. This information also serves to guide teachers in adapting curriculum and instructional approaches to students' needs and in assessing the overall effectiveness of programs and classroom practices. 
+
+Assessment is the process of gathering information from a variety of sources (including assignments, demonstrations, projects, performances, and tests) that accurately reflects how well a student is achieving the curriculum expectations in a course. As part of assessment, teachers provide students with descriptive feedback that guides their efforts towards improvement. Evaluation refers to the process of judging the quality of student work on the basis of established criteria, and assigning a value to represent that quality. 
+
+Assessment and evaluation will be based on the provincial curriculum expectations and the achievement levels outlined in this document. 
+In order to ensure that assessment and evaluation are valid and reliable, and that they lead to the improvement of student learning, teachers must use assessment and evaluation strategies that: 
+• address both what students learn and how well they learn;  
+• are based both on the categories of knowledge and skills and on the achievement level descriptions given in the achievement chart on pages 28–29; 
+• are varied in nature, administered over a period of time, and designed to provide opportunities for students to demonstrate the full range of their learning; 
+• are appropriate for the learning activities used, the purposes of instruction, and the needs and experiences of the students; 
+• are fair to all students; 
+• accommodate students with special education needs, consistent with the strategies outlined in their Individual Education Plan; 
+• accommodate the needs of students who are learning the language of instruction (English or French); 
+• ensure that each student is given clear directions for improvement; 
+• promote students' ability to assess their own learning and to set specific goals; 
+• include the use of samples that provide evidence of their achievement; 
+• are communicated clearly to students and parents at the beginning of the course or the school term and at other appropriate points throughout the school year. 
+
+All curriculum expectations must be accounted for in instruction, but evaluation focuses on students' achievement of the overall expectations. A student's achievement of the overall expectations is evaluated on the basis of his or her achievement of related specific expectations (including the process expectations). The overall expectations are broad in nature, and the specific expectations define the particular content or scope of the knowledge and skills referred to in the overall expectations. Teachers will use their professional judgement to determine which specific expectations should be used to evaluate achievement of the overall expectations, and which ones will be covered in instruction and assessment (e.g., through direct observation) but not necessarily evaluated. 
+
+The characteristics given in the achievement chart (pages 28–29) for level 3 represent the "provincial standard" for achievement of the expectations in a course. A complete picture of overall achievement at level 3 in a course in mathematics can be constructed by reading from top to bottom in the shaded column of the achievement chart, headed "70–79% (Level 3)". Parents of students achieving at level 3 can be confident that their children will be prepared for work in subsequent courses. 
+
+Level 1 identifies achievement that falls much below the provincial standard, while still reflecting a passing grade. Level 2 identifies achievement that approaches the standard. Level 4 identifies achievement that surpasses the standard. It should be noted that achievement at level 4 does not mean that the student has achieved expectations beyond those specified for a particular course. It indicates that the student has achieved all or almost all of the expectations for that course, and that he or she demonstrates the ability to use the specified knowledge and skills in more sophisticated ways than a student achieving at level 3. 
+
+THE ACHIEVEMENT CHART FOR MATHEMATICS 
+
+The achievement chart for mathematics (see pages 28-29) identifies four categories of knowledge and skills. The achievement chart is a standard province-wide guide to be used by teachers. It enables teachers to make judgements about student work that are based on clear performance standards and on a body of evidence collected over time. 
+
+The purpose of the achievement chart is to: 
+• provide a common framework that encompasses the curriculum expectations for all courses outlined in this document;  
+• guide the development of quality assessment tasks and tools (including rubrics); 
+• help teachers to plan instruction for learning; 
+• assist teachers in providing meaningful feedback to students; 
+• provide various categories and criteria with which to assess and evaluate student learning. 
+
+Categories of Knowledge and Skills 
+
+The categories, defined by clear criteria, represent four broad areas of knowledge and skills within which the expectations for any given mathematics course are organized. The four categories should be considered as interrelated, reflecting the wholeness and inter-connectedness of learning. 
+
+The categories of knowledge and skills are described as follows: 
+Knowledge and Understanding. Subject-specific content acquired in each course (knowledge), and the comprehension of its meaning and significance (understanding). 
+
+Thinking. The use of critical and creative thinking skills and/or processes,5 as follows: 
+• planning skills (e.g., understanding the problem, making a plan for solving the problem)  
+• processing skills (e.g., carrying out a plan, looking back at the solution) 
+• critical/creative thinking processes (e.g., inquiry, problem solving) 
+
+Communication. The conveying of meaning through various oral, written, and visual forms (e.g., providing explanations of reasoning or justification of results orally or in writing; communicating mathematical ideas and solutions in writing, using numbers and algebraic symbols, and visually, using pictures, diagrams, charts, tables, graphs, and concrete materials). 
+
+Application. The use of knowledge and skills to make connections within and between various contexts. 
+
+Teachers will ensure that student work is assessed and/or evaluated in a balanced manner with respect to the four categories, and that achievement of particular expectations is considered within the appropriate categories. 
+
+5. See the footnote on page 28, pertaining to the mathematical processes. 
+
+Criteria 
+
+Within each category in the achievement chart, criteria are provided that are subsets of the knowledge and skills that define each category. For example, in Knowledge and Understanding, the criteria are "knowledge of content (e.g., facts, terms, procedural skills, use of tools)" and "understanding of mathematical concepts". The criteria identify the aspects of student performance that are assessed and/or evaluated, and serve as guides to what to look for. 
+
+Descriptors 
+
+A "descriptor" indicates the characteristic of the student's performance, with respect to a particular criterion, on which assessment or evaluation is focused. In the achievement chart, effectiveness is the descriptor used for each criterion in the Thinking, Communication, and Application categories. What constitutes effectiveness in any given performance task will vary with the particular criterion being considered. Assessment of effectiveness may therefore focus on a quality such as appropriateness, clarity, accuracy, precision, logic, relevance, significance, fluency, flexibility, depth, or breadth, as appropriate for the particular criterion. For example, in the Thinking category, assessment of effectiveness might focus on the degree of relevance or depth apparent in an analysis; in the Communication category, on clarity of expression or logical organization of information and ideas; or in the Application category, on appropriateness or breadth in the making of connections. Similarly, in the Knowledge and Understanding category, assessment of knowledge might focus on accuracy, and assessment of understanding might focus on the depth of an explanation. Descriptors help teachers to focus their assessment and evaluation on specific knowledge and skills for each category and criterion, and help students to better understand exactly what is being assessed and evaluated. 
+
+Qualifiers 
+
+A specific "qualifier" is used to define each of the four levels of achievement – that is, limited for level 1, some for level 2, considerable for level 3, and a high degree or thorough for level 4. A qualifier is used along with a descriptor to produce a description of performance at a particular level. For example, the description of a student's performance at level 3 with respect to the first criterion in the Thinking category would be: "the student uses planning skills with considerable effectiveness". 
+
+The descriptions of the levels of achievement given in the chart should be used to identify the level at which the student has achieved the expectations. In all of their courses, students should be provided with numerous and varied opportunities to demonstrate the full extent of their achievement of the curriculum expectations, across all four categories of knowledge and skills. 
+
+EVALUATION AND REPORTING OF STUDENT ACHIEVEMENT 
+
+Student achievement must be communicated formally to students and parents by means of the Provincial Report Card, Grades 9–12. The report card provides a record of the student's achievement of the curriculum expectations in every course, at particular points in the school year or semester, in the form of a percentage grade. The percentage grade represents the quality of the student's overall achievement of the expectations for the course and reflects the corresponding level of achievement as described in the achievement chart for the discipline. 
+
+A final grade is recorded for every course, and a credit is granted and recorded for every course in which the student's grade is 50% or higher. The final grade for each course in Grades 9–12 will be determined as follows: 
+• Seventy per cent of the grade will be based on evaluations conducted throughout the course. This portion of the grade should reflect the student's most consistent level of achievement throughout the course, although special consideration should be given to more recent evidence of achievement.  
+• Thirty per cent of the grade will be based on a final evaluation in the form of an examination, performance, essay, and/or other method of evaluation suitable to the course content and administered towards the end of the course. 
+
+REPORTING ON DEMONSTRATED LEARNING SKILLS 
+
+The report card provides a record of the learning skills demonstrated by the student in every course, in the following five categories: Works Independently, Teamwork, Organization, Work Habits, and Initiative. The learning skills are evaluated using a four-point scale (E-Excellent, G-Good, S-Satisfactory, N-Needs Improvement). The separate evaluation and reporting of the learning skills in these five areas reflect their critical role in students' achievement of the curriculum expectations. To the extent possible, the evaluation of learning skills, apart from any that may be included as part of a curriculum expectation in a course, should not be considered in the determination of percentage grades. 
+
+ACHIEVEMENT CHART: MATHEMATICS, GRADES 9–12 
+
+Categories 
+Knowledge and Understanding – Subject-specific content acquired in each course (knowledge), and the comprehension of its meaning and significance (understanding) 
+The student: 
+• Knowledge of content (e.g., facts, terms, procedural skills, use of tools) 
+50-59% (Level 1) demonstrates limited knowledge of content 
+60-69% (Level 2) demonstrates some knowledge of content 
+70-79% (Level 3) demonstrates considerable knowledge of content 
+80-100% (Level 4) demonstrates thorough knowledge of content 
+
+• Understanding of mathematical concepts 
+50-59% (Level 1) demonstrates limited understanding of concepts 
+60-69% (Level 2) demonstrates some understanding of concepts 
+70-79% (Level 3) demonstrates considerable understanding of concepts 
+80-100% (Level 4) demonstrates thorough understanding of concepts 
+
+Thinking – The use of critical and creative thinking skills and/or processes* 
+The student: 
+• Use of planning skills 
+ -  understanding the problem (e.g., formulating and interpreting the problem, making conjectures) 
+ -  making a plan for solving the problem 
+50-59% (Level 1) uses planning skills with limited effectiveness 
+60-69% (Level 2) uses planning skills with some effectiveness 
+70-79% (Level 3) uses planning skills with considerable effectiveness 
+80-100% (Level 4) uses planning skills with a high degree of effectiveness 
+
+• Use of processing skills 
+- carrying out a plan (e.g., collecting data, questioning, testing, revising, modelling, solving, inferring, forming conclusions) 
+- looking back at the solution (e.g., evaluating reasonableness, making convincing arguments, reasoning, justifying, proving, reflecting) 
+50-59% (Level 1) uses processing skills with limited effectiveness 
+60-69% (Level 2) uses processing skills with some effectiveness 
+70-79% (Level 3) uses processing skills with considerable effectiveness 
+80-100% (Level 4) uses processing skills with a high degree of effectiveness 
+
+Use of critical/creative thinking processes (e.g., problem solving, inquiry) 
+50-59% (Level 1) uses critical/creative thinking processes with limited effectiveness
+60-69% (Level 2) uses critical/creative thinking processes with some effectiveness 
+70-79% (Level 3) uses critical/creative thinking processes with considerable effectiveness 
+80-100% (Level 4) uses critical/creative thinking processes with a high degree of effectiveness 
+
+Communication – The conveying of meaning through various forms 
+The student: 
+• Expression and organization of ideas and mathematical thinking (e.g., clarity of expression, logical organization), using oral, visual, and written forms (e.g., pictorial, graphic, dynamic, numeric, algebraic forms; concrete materials) 
+50-59% (Level 1) expresses and organizes mathematical thinking with limited effectiveness 
+60-69% (Level 2) expresses and organizes mathematical thinking with some effectiveness 
+70-79% (Level 3) expresses and organizes mathematical thinking with considerable effectiveness 
+80-100% (Level 4) expresses and organizes mathematical thinking with a high degree of effectiveness 
+
+• Communication for different audiences (e.g., peers, teachers) and purposes (e.g., to present data, justify a solution, express a mathematical argument) in oral, visual, and written forms 
+50-59% (Level 1) communicates for different audiences and purposes with limited effectiveness 
+60-69% (Level 2) communicates for different audiences and purposes with some effectiveness 
+70-79% (Level 3) communicates for different audiences and purposes with considerable effectiveness 
+80-100% (Level 4) communicates for different audiences and purposes with a high degree of effectiveness 
+
+• Use of conventions, vocabulary, and terminology of the discipline (e.g., terms, symbols) in oral, visual, and written forms 
+50-59% (Level 1) uses conventions, vocabulary, and terminology of the discipline with limited effectiveness 
+60-69% (Level 2) uses conventions, vocabulary, and terminology of the discipline with some effectiveness 
+70-79% (Level 3) uses conventions, vocabulary, and terminology of the discipline with considerable effectiveness 
+80-100% (Level 4) uses conventions, vocabulary, and terminology of the discipline with a high degree of effectiveness 
+
+Application – The use of knowledge and skills to make connections within and between various contexts 
+The student: 
+• Application of knowledge and skills in familiar contexts 
+50-59% (Level 1) applies knowledge and skills in familiar contexts with limited effectiveness 
+60-69% (Level 2) applies knowledge and skills in familiar contexts with some effectiveness 
+70-79% (Level 3) applies knowledge and skills in familiar contexts with considerable effectiveness 
+80-100% (Level 4) applies knowledge and skills in familiar contexts with a high degree of effectiveness 
+
+• Transfer of knowledge and skills to new contexts 
+50-59% (Level 1) transfers knowledge and skills to new contexts with limited effectiveness 
+60-69% (Level 2) transfers knowledge and skills to new contexts with some effectiveness 
+70-79% (Level 3) transfers knowledge and skills to new contexts with considerable effectiveness 
+80-100% (Level 4) transfers knowledge and skills to new contexts with a high degree of effectiveness 
+
+• Making connections within and between various contexts (e.g., connections between concepts, representations, and forms within mathematics; connections involving use of prior knowledge and experience; connections between mathematics, other disciplines, and the real world) 
+50-59% (Level 1) makes connections within and between various contexts with limited effectiveness 
+60-69% (Level 2) makes connections within and between various contexts with some effectiveness 
+70-79% (Level 3) makes connections within and between various contexts with considerable effectiveness 
+80-100% (Level 4) makes connections within and between various contexts with a high degree of effectiveness 
+
+Note: A student whose achievement is below 50% at the end of a course will not obtain a credit for the course. 
+
+* The processing skills and critical/creative thinking processes in the Thinking category include some but not all aspects of the mathematical processes described on pages 17-22 of this document. Some aspects of the mathematical processes relate to the other categories of the achievement chart. 
+
+SOME CONSIDERATIONS FOR PROGRAM PLANNING IN MATHEMATICS 
+
+Teachers who are planning a program in mathematics must take into account considerations in a number of important areas, including those discussed below. 
+
+INSTRUCTIONAL APPROACHES 
+
+To make new learning more accessible to students, teachers build new learning upon the knowledge and skills students have acquired in previous years – in other words, they help activate prior knowledge. It is important to assess where students are in their mathematical growth and to bring them forward in their learning. 
+
+In order to apply their knowledge effectively and to continue to learn, students must have a solid conceptual foundation in mathematics. Successful classroom practices engage students in activities that require higher-order thinking, with an emphasis on problem solving.6 Learning experienced in the primary, junior, and intermediate divisions should have provided students with a good grounding in the investigative approach to learning new mathematical concepts, including inquiry models of problem solving, and this approach continues to be important in the senior mathematics program. 
+
+Students in a mathematics class typically demonstrate diversity in the ways they learn best. It is important, therefore, that students have opportunities to learn in a variety of ways – individually, cooperatively, independently, with teacher direction, through investigation involving hands-on experience, and through examples followed by practice. In mathematics, students are required to learn concepts, acquire procedures and skills, and apply processes with the aid of the instructional and learning strategies best suited to the particular type of learning. 
+
+6. See the resource document Targeted Implementation & Planning Supports for Revised Mathematics (TIPS4RM): Grade 7, 8, 9 Applied and 10 Applied (Toronto: Queen's Printer for Ontario, 2005) for helpful information about problem solving. 
+
+The approaches and strategies used in the classroom to help students meet the expectations of this curriculum will vary according to the object of the learning and the needs of the students. For example, even at the secondary level, manipulatives can be important tools for supporting the effective learning of mathematics. These concrete learning tools, such as connecting cubes, measurement tools, algebra tiles, and number cubes, invite students to explore and represent abstract mathematical ideas in varied, concrete, tactile, and visually rich ways.7 Other representations, including graphical and algebraic representations, are also a valuable aid to teachers. By analysing students' representations of mathematical concepts and listening carefully to their reasoning, teachers can gain useful insights into students' thinking and provide supports to help enhance their thinking. 
+
+All learning, especially new learning, should be embedded in well-chosen contexts for learning – that is, contexts that are broad enough to allow students to investigate initial understandings, identify and develop relevant supporting skills, and gain experience with varied and interesting applications of the new knowledge. Such rich contexts for learning open the door for students to see the "big ideas" of mathematics – that is, the major underlying principles or relationships that will enable and encourage students to reason mathematically throughout their lives. 
+
+Promoting Positive Attitudes Towards Learning Mathematics 
+
+Students' attitudes have a significant effect on how students approach problem solving and how well they succeed in mathematics. Students who enjoy mathematics tend to perform well in their mathematics course work and are more likely to enrol in the more advanced mathematics courses. 
+
+Students develop positive attitudes when they are engaged in making mathematical conjectures, when they experience breakthroughs as they solve problems, when they see connections between important ideas, and when they observe an enthusiasm for mathematics on the part of their teachers.8 With a positive attitude towards mathematics, students are able to make more sense of the mathematics they are working on, and to view themselves as effective learners of mathematics. They are also more likely to perceive mathematics as both useful and worthwhile, and to develop the belief that steady effort in learning mathematics pays off. 
+
+It is common for people to feel inadequate or anxious when they cannot solve problems quickly and easily, or in the right way. To gain confidence, students need to recognize that, for some mathematics problems, there may be several ways to arrive at a solution. They also need to understand that problem solving of almost any kind often requires a considerable expenditure of time and energy and a good deal of perseverance. To counteract the frustration they may feel when they are not making progress towards solving a problem, they need to believe that they are capable of finding solutions. Teachers can encourage students to develop a willingness to persist, to investigate, to reason, to explore alternative solutions, to view challenges as opportunities to extend their learning, and to take the risks necessary to become successful problem solvers. They can help students develop confidence and reduce anxiety and frustration by providing them with problems that are challenging but not beyond their ability to solve. Problems at a developmentally appropriate level help students to learn while establishing a norm of perseverance for successful problem solving. 
+
+7. A list of manipulatives appropriate for use in intermediate and senior mathematics classrooms is provided in Leading Math Success, pp. 48–49. 
+8. Leading Math Success, p. 42 
+
+Collaborative learning enhances students' understanding of mathematics. Working cooperatively in groups reduces isolation and provides students with opportunities to share ideas and communicate their thinking in a supportive environment as they work together towards a common goal. Communication and the connections among ideas that emerge as students interact with one another enhance the quality of student learning.9 
+
+PLANNING MATHEMATICS PROGRAMS FOR STUDENTS WITH SPECIAL EDUCATION NEEDS 
+
+Classroom teachers are the key educators of students who have special education needs. They have a responsibility to help all students learn, and they work collaboratively with special education teachers, where appropriate, to achieve this goal. Special Education Transformation: The Report of the Co-Chairs with the Recommendations of the Working Table on Special Education, 2006 endorses a set of beliefs that should guide program planning for students with special education needs in all disciplines. Those beliefs are as follows: 
+• All students can succeed.  
+• Universal design and differentiated instruction are effective and interconnected means of meeting the learning or productivity needs of any group of students. 
+• Successful instructional practices are founded on evidence-based research, tempered by experience. 
+• Classroom teachers are key educators for a student's literacy and numeracy development. 
+• Each student has his or her own unique patterns of learning. 
+• Classroom teachers need the support of the larger community to create a learning environment that supports students with special education needs. 
+• Fairness is not sameness. 
+
+In any given classroom, students may demonstrate a wide range of learning styles and needs. Teachers plan programs that recognize this diversity and give students performance tasks that respect their particular abilities so that all students can derive the greatest possible benefit from the teaching and learning process. The use of flexible groupings for instruction and the provision of ongoing assessment are important elements of programs that accommodate a diversity of learning needs. 
+
+In planning mathematics courses for students with special education needs, teachers should begin by examining the current achievement level of the individual student, the strengths and learning needs of the student, and the knowledge and skills that all students are expected to demonstrate at the end of the course in order to determine which of the following options is appropriate for the student: 
+• no accommodations10 or modifications; or  
+• accommodations only; or 
+• modified expectations, with the possibility of accommodations; or 
+• alternative expectations, which are not derived from the curriculum expectations for a course and which constitute alternative programs and/or courses. 
+
+9. Leading Math Success, p. 42 
+10. "Accommodations" refers to individualized teaching and assessment strategies, human supports, and/or individualized equipment. 
+
+If the student requires either accommodations or modified expectations, or both, the relevant information, as described in the following paragraphs, must be recorded in his or her Individual Education Plan (IEP). More detailed information about planning programs for students with special education needs, including students who require alternative programs and/or courses, can be found in The Individual Education Plan (IEP): A Resource Guide, 2004 (referred to hereafter as the IEP Resource Guide, 2004). For a detailed discussion of the ministry's requirements for IEPs, see Individual Education Plans: Standards for Development, Program Planning, and Implementation, 2000 (referred to hereafter as IEP Standards, 2000). (Both documents are available at http://www.edu.gov.on.ca.) 
+
+Students Requiring Accommodations Only 
+
+Some students are able, with certain accommodations, to participate in the regular course curriculum and to demonstrate learning independently. Accommodations allow access to the course without any changes to the knowledge and skills the student is expected to demonstrate. The accommodations required to facilitate the student's learning must be identified in his or her IEP (see IEP Standards, 2000, page 11). A student's IEP is likely to reflect the same accommodations for many, or all, subjects or courses. 
+
+Providing accommodations to students with special education needs should be the first option considered in program planning. Instruction based on principles of universal design and differentiated instruction focuses on the provision of accommodations to meet the diverse needs of learners. 
+
+There are three types of accommodations: 
+• Instructional accommodations are changes in teaching strategies, including styles of presentation, methods of organization, or use of technology and multimedia.  
+• Environmental accommodations are changes that the student may require in the classroom and/or school environment, such as preferential seating or special lighting. 
+• Assessment accommodations are changes in assessment procedures that enable the student to demonstrate his or her learning, such as allowing additional time to complete tests or assignments or permitting oral responses to test questions (see page 29 of the IEP Resource Guide, 2004, for more examples). 
+
+If a student requires "accommodations only" in mathematics courses, assessment and evaluation of his or her achievement will be based on the appropriate course curriculum expectations and the achievement levels outlined in this document. The IEP box on the student's Provincial Report Card will not be checked, and no information on the provision of accommodations will be included. 
+
+Students Requiring Modified Expectations 
+
+Some students will require modified expectations, which differ from the regular course expectations. For most students, modified expectations will be based on the regular course curriculum, with changes in the number and/or complexity of the expectations. Modified expectations represent specific, realistic, observable, and measurable achievements and describe specific knowledge and/or skills that the student can demonstrate independently, given the appropriate assessment accommodations. 
+
+It is important to monitor, and to reflect clearly in the student's IEP, the extent to which expectations have been modified. As noted in Section 7.12 of the ministry's policy document Ontario Secondary Schools, Grades 9 to 12: Program and Diploma Requirements, 1999, the principal will determine whether achievement of the modified expectations constitutes successful completion of the course, and will decide whether the student is eligible to receive a credit for the course. This decision must be communicated to the parents and the student. 
+
+When a student is expected to achieve most of the curriculum expectations for the course, the modified expectations should identify how the required knowledge and skills differ from those identified in the course expectations. When modifications are so extensive that achievement of the learning expectations (knowledge, skills, and performance tasks) is not likely to result in a credit, the expectations should specify the precise requirements or tasks on which the student's performance will be evaluated and which will be used to generate the course mark recorded on the Provincial Report Card. 
+
+Modified expectations indicate the knowledge and/or skills the student is expected to demonstrate and have assessed in each reporting period (IEP Standards, 2000, pages 10 and 11). The student's learning expectations must be reviewed in relation to the student's progress at least once every reporting period, and must be updated as necessary (IEP Standards, 2000, page 11). 
+
+If a student requires modified expectations in mathematics courses,assessment and evaluation of his or her achievement will be based on the learning expectations identified in the IEP and on the achievement levels outlined in this document. If some of the student's learning expectations for a course are modified but the student is working towards a credit for the course, it is sufficient simply to check the IEP box on the Provincial Report Card. If, however, the student's learning expectations are modified to such an extent that the principal deems that a credit will not be granted for the course, the IEP box must be checked and the appropriate statement from the Guide to the Provincial Report Card, Grades 9–12, 1999 (page 8) must be inserted. The teacher's comments should include relevant information on the student's demonstrated learning of the modified expectations, as well as next steps for the student's learning in the course. 
+
+PROGRAM CONSIDERATIONS FOR ENGLISH LANGUAGE LEARNERS 
+
+Young people whose first language is not English enter Ontario secondary schools with diverse linguistic and cultural backgrounds. Some English language learners may have experience of highly sophisticated educational systems, while others may have come from regions where access to formal schooling was limited. All of these students bring a rich array of background knowledge and experience to the classroom, and all teachers must share in the responsibility for their English-language development. 
+
+Teachers of mathematics must incorporate appropriate adaptations and strategies for instruction and assessment to facilitate the success of the English language learners in their classrooms. These adaptations and strategies include: 
+• modification of some or all of the course expectations so that they are challenging but attainable for the learner at his or her present level of English proficiency, given the necessary support from the teacher; 
+• use of a variety of instructional strategies (e.g., extensive use of visual cues, scaffolding, manipulatives, pictures, diagrams, graphic organizers; attention to clarity of instructions); 
+• modelling of preferred ways of working in mathematics; previewing of textbooks; 
+pre-teaching of key vocabulary; peer tutoring; strategic use of students' first languages); 
+use of a variety of learning resources (e.g., visual material, simplified text, bilingual dictionaries, materials that reflect cultural diversity); 
+• use of assessment accommodations (e.g., granting of extra time; simplification of language used in problems and instructions; use of oral interviews, learning logs, portfolios, demonstrations, visual representations, and tasks requiring completion of graphic organizers or cloze sentences instead of tasks that depend heavily on proficiency in English). 
+
+When learning expectations in any course are modified for English language learners (whether or not the students are enrolled in an ESL or ELD course), this must be clearly indicated on the student's report card. 
+
+Although the degree of program adaptation required will decrease over time, students who are no longer receiving ESL or ELD support may still need some program adaptations to be successful. 
+
+For further information on supporting English language learners, refer to The Ontario Curriculum, Grades 9 to 12: English As a Second Language and English Literacy Development, 2007 and the resource guide Many Roots Many Voices: Supporting English Language Learners in Every Classroom (Ministry of Education, 2005). 
+
+ANTIDISCRIMINATION EDUCATION IN MATHEMATICS 
+
+To ensure that all students in the province have an equal opportunity to achieve their full potential, the curriculum must be free from bias, and all students must be provided with a safe and secure environment, characterized by respect for others, that allows them to participate fully and responsibly in the educational experience. 
+
+Learning activities and resources used to implement the curriculum should be inclusive in nature, reflecting the range of experiences of students with varying backgrounds, abilities, interests, and learning styles. They should enable students to become more sensitive to the diverse cultures and perceptions of others, including Aboriginal peoples. By discussing aspects of the history of mathematics, teachers can help make students aware of the various cultural groups that have contributed to the evolution of mathematics over the centuries. Finally, students need to recognize that ordinary people use mathematics in a variety of everyday contexts, both at work and in their daily lives. 
+
+Connecting mathematical ideas to real-world situations through learning activities can enhance students' appreciation of the role of mathematics in human affairs, in areas including health, science, and the environment. Students can be made aware of the use of mathematics in contexts such as sampling and surveying and the use of statistics to analyse trends. Recognizing the importance of mathematics in such areas helps motivate students to learn and also provides a foundation for informed, responsible citizenship. 
+
+Teachers should have high expectations for all students. To achieve their mathematical potential, however, different students may need different kinds of support. Some boys, for example, may need additional support in developing their literacy skills in order to complete mathematical tasks effectively. For some girls, additional encouragement to envision themselves in careers involving mathematics may be beneficial. For example, teachers might consider providing strong role models in the form of female guest speakers who are mathematicians or who use mathematics in their careers. 
+
+LITERACY AND INQUIRY/RESEARCH SKILLS 
+
+Literacy skills can play an important role in student success in mathematics courses. Many of the activities and tasks students undertake in mathematics courses involve the use of written, oral, and visual communication skills. For example, students use language to record their observations, to explain their reasoning when solving problems, to describe their inquiries in both informal and formal contexts, and to justify their results in small-group conversations, oral presentations, and written reports. The language of mathematics includes special terminology. The study of mathematics consequently encourages students to use language with greater care and precision and enhances their ability to communicate effectively. 
+
+The Ministry of Education has facilitated the development of materials to support literacy instruction across the curriculum. Helpful advice for integrating literacy instruction in mathematics courses may be found in the following resource documents:  
+• Think Literacy: Cross-Curricular Approaches, Grades 7–12, 2003 
+• Think Literacy: Cross-Curricular Approaches, Grades 7–12 – Mathematics: Subject-Specific Examples, Grades 10–12, 2005 
+
+In all courses in mathematics, students will develop their ability to ask questions and to plan investigations to answer those questions and to solve related problems. Students need to learn a variety of research methods and inquiry approaches in order to carry out these investigations and to solve problems, and they need to be able to select the methods that are most appropriate for a particular inquiry. Students learn how to locate relevant information from a variety of sources, such as statistical databases, newspapers, and reports. As they advance through the grades, students will be expected to use such sources with increasing sophistication. They will also be expected to distinguish between primary and secondary sources, to determine their validity and relevance, and to use them in appropriate ways. 
+
+THE ROLE OF INFORMATION AND COMMUNICATION TECHNOLOGY IN MATHEMATICS 
+
+Information and communication technologies (ICT) provide a range of tools that can significantly extend and enrich teachers' instructional strategies and support students' learning in mathematics. Teachers can use ICT tools and resources both for whole-class instruction and to design programs that meet diverse student needs. Technology can help to reduce the time spent on routine mathematical tasks, allowing students to devote more of their efforts to thinking and concept development. Useful ICT tools include simulations, multimedia resources, databases, sites that give access to large amounts of statistical data, and computer-assisted learning modules. 
+
+Applications such as databases, spreadsheets, dynamic geometry software, dynamic statistical software, graphing software, computer algebra systems (CAS), word-processing software, and presentation software can be used to support various methods of inquiry in mathematics. Technology also makes possible simulations of complex systems that can be useful for problem-solving purposes or when field studies on a particular topic are not feasible. 
+
+Information and communications technologies can be used in the classroom to connect students to other schools, at home and abroad, and to bring the global community into the local classroom. 
+
+Although the Internet is a powerful electronic learning tool, there are potential risks attached to its use. All students must be made aware of issues of Internet privacy, safety, and responsible use, as well as of the ways in which this technology is being abused – for example, when it is used to promote hatred. 
+
+Teachers, too, will find the various ICT tools useful in their teaching practice, both for whole class instruction and for the design of curriculum units that contain varied approaches to learning to meet diverse student needs. 
+
+CAREER EDUCATION IN MATHEMATICS 
+
+Teachers can promote students' awareness of careers involving mathematics by exploring applications of concepts and providing opportunities for career-related project work. Such activities allow students the opportunity to investigate mathematics-related careers compatible with their interests, aspirations, and abilities. 
+
+Students should be made aware that mathematical literacy and problem solving are valuable assets in an ever-widening range of jobs and careers in today's society. The knowledge and skills students acquire in mathematics courses are useful in fields such as science, business, engineering, and computer studies; in the hospitality, recreation, and tourism industries; and in the technical trades. 
+
+THE ONTARIO SKILLS PASSPORT AND ESSENTIAL SKILLS 
+
+Teachers planning programs in mathematics need to be aware of the purpose and benefits of the Ontario Skills Passport (OSP).The OSP is a bilingual web-based resource that enhances the relevancy of classroom learning for students and strengthens school-work connections. The OSP provides clear descriptions of Essential Skills such as Reading Text, Writing, Computer Use, Measurement and Calculation, and Problem Solving and includes an extensive database of occupation-specific workplace tasks that illustrate how workers use these skills on the job. The Essential Skills are transferable, in that they are used in virtually all occupations. The OSP also includes descriptions of important work habits, such as working safely, being reliable, and providing excellent customer service. The OSP is designed to help employers assess and record students' demonstration of these skills and work habits during their cooperative education placements. Students can use the OSP to identify the skills and work habits they already have, plan further skill development, and show employers what they can do. 
+
+The skills described in the OSP are the Essential Skills that the Government of Canada and other national and international agencies have identified and validated, through extensive research, as the skills needed for work, learning, and life. These Essential Skills provide the foundation for learning all other skills and enable people to evolve with their jobs and adapt to workplace change. For further information on the OSP and the Essential Skills, visit: http://skills.edu.gov.on.ca. 
+
+COOPERATIVE EDUCATION AND OTHER FORMS OF EXPERIENTIAL LEARNING 
+
+Cooperative education and other workplace experiences, such as job shadowing, field trips, and work experience, enable students to apply the skills they have developed in the classroom to real-life activities. Cooperative education and other workplace experiences also help to broaden students' knowledge of employment opportunities in a wide range of fields, including science and technology, research in the social sciences and humanities, and many forms of business administration. In addition, students develop their understanding of workplace practices, certifications, and the nature of employer-employee relationships. 
+
+Cooperative education teachers can support students taking mathematics courses by maintaining links with community-based businesses and organizations, and with colleges and universities, to ensure students studying mathematics have access to hands-on experiences that will reinforce the knowledge and skills they have gained in school. Teachers of mathematics can support their students' learning by providing opportunities for experiential learning that will reinforce the knowledge and skills they have gained in school. 
+
+Health and safety issues must be addressed when learning involves cooperative education and other workplace experiences. Teachers who provide support for students in workplace learning placements need to assess placements for safety and ensure students understand the importance of issues relating to health and safety in the workplace. Before taking part in workplace learning experiences, students must acquire the knowledge and skills needed for safe participation. Students must understand their rights to privacy and confidentiality as outlined in the Freedom of Information and Protection of Privacy Act. They have the right to function in an environment free from abuse and harassment, and they need to be aware of harassment and abuse issues in establishing boundaries for their own personal safety. They should be informed about school and community resources and school policies and reporting procedures with regard to all forms of abuse and harassment. 
+
+Policy/Program Memorandum No. 76A, "Workplace Safety and Insurance Coverage for Students in Work Education Programs" (September 2000), outlines procedures for ensuring the provision of Health and Safety Insurance Board coverage for students who are at least 14 years of age and are on placements of more than one day. (A one-day job-shadowing or job-twinning experience is treated as a field trip.) Teachers should also be aware of the minimum age requirements outlined in the Occupational Health and Safety Act for persons to be in or to be working in specific workplace settings. 
+
+All cooperative education and other workplace experiences will be provided in accordance with the ministry's policy document entitled Cooperative Education and Other Forms of Experiential Learning: Policies and Procedures for Ontario Secondary Schools, 2000. 
+
+PLANNING PROGRAM PATHWAYS AND PROGRAMS LEADING TO A SPECIALIST HIGH-SKILLS MAJOR 
+
+Mathematics courses are well suited for inclusion in programs leading to a Specialist High-Skills Major (SHSM) or in programs designed to provide pathways to particular apprenticeship or workplace destinations. In an SHSM program, mathematics courses can be bundled with other courses to provide the academic knowledge and skills important to particular industry sectors and required for success in the workplace and postsecondary education, including apprenticeship. Mathematics courses may also be combined with cooperative education credits to provide the workplace experience required for SHSM programs and for various program pathways to apprenticeship and workplace destinations. (SHSM programs would also include sector-specific learning opportunities offered by employers, skills-training centres, colleges, and community organizations.) 
+
+HEALTH AND SAFETY IN MATHEMATICS 
+
+Although health and safety issues are not normally associated with mathematics, they may be important when learning involves fieldwork or investigations based on experimentation. Out-of-school fieldwork can provide an exciting and authentic dimension to students' learning experiences. It also takes the teacher and students out of the predictable classroom environment and into unfamiliar settings. Teachers must preview and plan activities and expeditions carefully to protect students' health and safety. 
+
+COURSES  
+
+Functions, Grade 11 
+
+University Preparation MCR3U 
+
+This course introduces the mathematical concept of the function by extending students' experiences with linear and quadratic relations. Students will investigate properties of discrete and continuous functions, including trigonometric and exponential functions; represent functions numerically, algebraically, and graphically; solve problems involving applications of functions; investigate inverse functions; and develop facility in determining equivalent algebraic expressions. Students will reason mathematically and communicate their thinking as they solve multi-step problems. 
+
+Prerequisite: Principles of Mathematics, Grade 10, Academic 
+
+MATHEMATICAL PROCESS EXPECTATIONS 
+
+The mathematical processes are to be integrated into student learning in all areas of this course. 
+Throughout this course, students will: 
+
+Problem Solving 
+• develop, select, apply, compare, and adapt a variety of problem-solving strategies as they pose and solve problems and conduct investigations, to help deepen their mathematical understanding;
+
+Reasoning and Proving 
+• develop and apply reasoning skills (e.g., use of inductive reasoning, deductive reasoning, and counter-examples; construction of proofs) to make mathematical conjectures, assess conjectures, and justify conclusions, and plan and construct organized mathematical arguments; 
+
+Reflecting 
+• demonstrate that they are reflecting on and monitoring their thinking to help clarify their understanding as they complete an investigation or solve a problem (e.g., by assessing the effectiveness of strategies and processes used, by proposing alternative approaches, by judging the reasonableness of results, by verifying solutions); 
+
+Selecting Tools and Computational Strategies 
+• select and use a variety of concrete, visual, and electronic learning tools and appropriate computational strategies to investigate mathematical ideas and to solve problems; 
+
+Connecting
+• make connections among mathematical concepts and procedures, and relate mathematical ideas to situations or phenomena drawn from other contexts (e.g., other curriculum areas, daily life, current events, art and culture, sports); 
+
+Representing  
+• create a variety of representations of mathematical ideas (e.g., numeric, geometric, algebraic, graphical, pictorial representations; onscreen dynamic representations), connect and compare them, and select and apply the appropriate representations to solve problems; 
+
+Communicating
+• communicate mathematical thinking orally, visually, and in writing, using precise mathematical vocabulary and a variety of appropriate representations, and observing mathematical conventions. 
+ 
+A. CHARACTERISTICS OF FUNCTIONS 
+
+OVERALL EXPECTATIONS 
+
+By the end of this course, students will: 
+
+1. demonstrate an understanding of functions, their representations, and their inverses, and make connections between the algebraic and graphical representations of functions using transformations; 
+2. determine the zeros and the maximum or minimum of a quadratic function, and solve problems involving quadratic functions, including problems arising from real-world applications; 
+3. demonstrate an understanding of equivalence as it relates to simplifying polynomial, radical, and rational expressions. 
+
+SPECIFIC EXPECTATIONS  
+
+1. Representing Functions 
+
+By the end of this course, students will: 
+
+1.1 explain the meaning of the term function, and distinguish a function from a relation that is not a function, through investigation of linear and quadratic relations using a variety of representations (i.e., tables of values, mapping diagrams, graphs, function machines, equations) and strategies (e.g., identifying a one-to-one or many-to-one mapping; using the vertical-line test) 
+Sample problem: Investigate, using numeric and graphical representations, whether the relation x = y2 is a function, and justify your reasoning. 
+
+1.2 represent linear and quadratic functions using function notation, given their equations, tables of values, or graphs, and substitute into and evaluate functions [e.g., evaluate f (1/2), given f(x) = 2x2 + 3x – 1] 
+ 
+1.3 explain the meanings of the terms domain and range, through investigation using numeric, graphical, and algebraic representations of the functions f(x) = x, f(x) = x2, f(x) = [square root symbol]x, and f(x) = 1/x; describe the domain and range of a function appropriately (e.g., for y = x2 + 1, the domain is the set of real numbers, and the range is y = 1); and explain any restrictions on the domain and range in contexts arising from real-world applications 
+Sample problem: A quadratic function represents the relationship between the height of a ball and the time elapsed since the ball was thrown. What physical factors will restrict the domain and range of the quadratic function? 
+
+1.4 relate the process of determining the inverse of a function to their understanding of reverse processes (e.g., applying inverse operations) 
+
+1.5 determine the numeric or graphical representation of the inverse of a linear or quadratic function, given the numeric, graphical, or algebraic representation of the function, and make connections, through investigation using a variety of tools (e.g., graphing technology, Mira, tracing paper), between the graph of a function and the graph of its inverse (e.g., the graph of the inverse is the reflection of the graph of the function in the line y = x) 
+Sample problem: Given a graph and a table of values representing population over time, produce a table of values for the inverse and graph the inverse on a new set of axes. 
+
+1.6 determine, through investigation, the relationship between the domain and range of a function and the domain and range of the inverse relation, and determine whether or not the inverse relation is a function 
+Sample problem: Given the graph of f(x) = x2, graph the inverse relation. Compare the domain and range of the function with the domain 
+and range of the inverse relation, and investigate connections to the domain and range of the functions g(x) = [square root symbol]x and h(x) =–[square root symbol]x. 
+
+1.7 determine, using function notation when appropriate, the algebraic representation of the inverse of a linear or quadratic function, given the algebraic representation of the function [e.g., f(x) = (x – 2)2 – 5], and make connections, through investigation using a variety of tools (e.g., graphing technology, Mira, tracing paper), between the algebraic representations of a function and its inverse (e.g., the inverse of a linear function involves applying the inverse operations in the reverse order) 
+Sample problem: Given the equations of several linear functions, graph the functions and their inverses, determine the equations of the inverses, and look for patterns that connect the equation of each linear function with the equation of the inverse. 
+
+1.8 determine, through investigation using technology, the roles of the parameters a, k, d, and c in functions of the form y = af (k(x – d)) + c, and describe these roles in terms of transformations on the graphs of f(x) = x, f(x) = x(2), f(x) = [square root symbol]x, and f(x) = 1/x (i.e., translations; reflections in the axes; vertical and horizontal stretches and compressions to and from the x- and y-axes) 
+Sample problem: Investigate the graph f(x) = 3(x – d)2 + 5 for various values of d, using technology, and describe the effects of changing d in terms of a transformation. 
+
+1.9 sketch graphs of y = af (k(x – d)) + c by applying one or more transformations to the graphs of f(x) = x, f(x) = x(2), f(x) = [square root symbol]x, and f(x) = 1/x, and state the domain and range of the transformed functions 
+Sample problem: Transform the graph of f(x) to sketch g(x), and state the domain and range of each function, for the following: 
+f(x) = [square root symbol]x, g(x) = [square root symbol](x – 4); f(x) = 1/x, g(x) = - 1/x + 1. 
+
+2. Solving Problems Involving Quadratic Functions 
+
+By the end of this course, students will: 
+
+2.1 determine the number of zeros (i.e., x-intercepts) of a quadratic function, using a variety of strategies (e.g., inspecting graphs; factoring; calculating the discriminant) 
+Sample problem: Investigate, using graphing technology and algebraic techniques, the transformations that affect the number of zeros for a given quadratic function. 
+
+2.2 determine the maximum or minimum value of a quadratic function whose equation is given in the form f(x) = ax(2) + bx + c, using an algebraic method (e.g., completing the square; factoring to determine the zeros and averaging the zeros) 
+Sample problem: Explain how partially factoring f(x) = 3x(2) – 6x + 5 into the form f(x) = 3x(x – 2) + 5 helps you determine the minimum of the function. 
+
+2.3 solve problems involving quadratic functions arising from real-world applications and represented using function notation 
+Sample problem: The profit, P(x), of a video company, in thousands of dollars, is given by P(x) =– 5x(2) + 550x – 5000, where x is the amount spent on advertising, in thousands of dollars. Determine the maximum profit that the company can make, and the amounts spent on advertising that will result in a profit and that will result in a profit of at least $4 000 000. 
+
+2.4 determine, through investigation, the transformational relationship among the family of quadratic functions that have the same zeros, and determine the algebraic representation of a quadratic function, given the real roots of the corresponding quadratic equation and a point on the function 
+Sample problem: Determine the equation of the quadratic function that passes through (2, 5) if the roots of the corresponding quadratic equation are 1 + [square root symbol]5 and 1 – [square root symbol]5. 
+
+2.5 solve problems involving the intersection of a linear function and a quadratic function graphically and algebraically (e.g., determine the time when two identical cylindrical water tanks contain equal volumes of water, if one tank is being filled at a constant rate and the other is being emptied through a hole in the bottom) 
+Sample problem: Determine, through investigation, the equations of the lines that have a slope of 2 and that intersect the quadratic function f(x) = x(6 – x) once; twice; never. 
+
+3. Determining Equivalent Algebraic Expressions* 
+
+By the end of this course, students will: 
+
+3.1 simplify polynomial expressions by adding, subtracting, and multiplying 
+Sample problem: Write and simplify an expression for the volume of a cube with edge length 2x + 1. 
+
+3.2 verify, through investigation with and without technology, that [square root symbol]ab = [square root symbol]a x [square root symbol]b, a [greater-than or equal to sign] 0, b [greater-than or equal to sign] 0, and use this relationship to simplify radicals (e.g., [square root symbol]24) and radical expressions obtained by adding, subtracting, and multiplying [e.g., (2 + [square root symbol]6)(3 – [square root symbol]12)]  
+
+3.3 simplify rational expressions by adding, subtracting, multiplying, and dividing, and state the restrictions on the variable values 
+Sample problem: Simplify 2x/(4x(2) + 6x) 3 –(2x + 3), and state the restrictions on the variable. 
+
+3.4 determine if two given algebraic expressions are equivalent (i.e., by simplifying; by substituting values) 
+Sample problem: Determine if the expressions 2x2 – 4x – 6/x + 1 and 8x2 – 2x(4x – 1) – 6 are equivalent. 
+
+*The knowledge and skills described in the expectations in this section are to be introduced as needed, and applied and consolidated, as appropriate, in solving problems throughout the course. 
+
+B. EXPONENTIAL FUNCTIONS 
+
+OVERALL EXPECTATIONS 
+
+By the end of this course, students will: 
+
+1. evaluate powers with rational exponents, simplify expressions containing exponents, and describe properties of exponential functions represented in a variety of ways; 
+2. make connections between the numeric, graphical, and algebraic representations of exponential functions; 
+3. identify and represent exponential functions, and solve problems involving exponential functions, including problems arising from real-world applications. 
+
+SPECIFIC EXPECTATIONS  
+
+By the end of this course, students will: 
+
+1. Representing Exponential Functions 
+
+1.1 graph, with and without technology, an exponential relation, given its equation in the form y = ax (a[greater-than sign] 0, a [not equal to symbol] 1), define this relation as the function f(x) = ax, and explain why it is a function 
+
+1.2 determine, through investigation using a variety of tools (e.g., calculator, paper and pencil, graphing technology) and strategies (e.g., patterning; finding values from a graph; interpreting the exponent laws), the value of a power with a rational exponent (i.e., x (m/n), where x[greater-than sign] 0 and mand nare integers) 
+Sample problem: The exponent laws suggest that 4(1/2) x 4(1/2) = 4(1). What value would you assign to 4(1/2)? What value would you assign to 27(1/3)? Explain your reasoning. Extend your reasoning to make a generalization about the meaning of x(1/n), where x[greater-than sign] 0 and nis a natural number. 
+
+1.3 simplify algebraic expressions containing integer and rational exponents [e.g., (x(3)) ч (x(1/2)), (x(6)y(3))1/3], and evaluate numeric expressions containing integer and rational exponents and rational bases [e.g., 2(–3), (–6)3, 4(1/2), 1.01(120)] 
+ 
+1.4 determine, through investigation, and describe key properties relating to domain and range, intercepts, increasing/decreasing intervals, and asymptotes (e.g., the domain is the set of real numbers; the range is the set of positive real numbers; the function either increases or decreases throughout its domain) for exponential functions represented in a variety of ways [e.g., tables of values, mapping diagrams, graphs, equations of the form f(x) = a(x) (a[greater-than sign] 0, a [not equal to symbol] 1), function machines] 
+Sample problem: Graph f(x) = 2(x), g(x) = 3(x) and h(x) = 0.5(x) on the same set of axes. Make comparisons between the graphs, and explain the relationship between the y-intercepts. 
+
+2. Connecting Graphs and Equations of Exponential Functions 
+
+By the end of this course, students will: 
+
+2.1 distinguish exponential functions from linear and quadratic functions by making comparisons in a variety of ways (e.g., comparing rates of change using finite differences in tables of values; identifying a constant ratio in a table of values; inspecting graphs; comparing equations) 
+Sample problem: Explain in a variety of ways how you can distinguish the exponential function f(x) = 2(x) from the quadratic function f(x) = x(2) and the linear function f(x) = 2x.
+
+2.2 determine, through investigation using technology, the roles of the parameters a, k, d, and c in functions of the form y = af (k(x – d)) + c, and describe these roles in terms of transforxmations on the graph of f(x) = a (a [greater-than sign] 0, a [not equal to symbol] 1) (i.e., translations; reflections in the axes; vertical and horizontal stretches and compressions to and from the x- and y-axes) 
+Sample problem: Investigate the graph of f(x) = 3(x – d) – 5 for various values of d, using technology, and describe the effects of changing d in terms of a transformation. 
+
+2.3 sketch graphs of y = af (k(x – d)) + c by applying one or more transformations x to the graph of f(x) = a (a [greater-than sign] 0, a [not equal to symbol] 1), and state the domain and range of the transformed functions 
+Sample problem: Transform the graph of f(x) = 3(x) to sketch g(x) = 3 –(x + 1) – 2, and state the domain and range of each function. 
+
+2.4 determine, through investigation using technology, that the equation of a given exponential function can be expressed using different bases [e.g., f(x) = 9(x) can be expressed as f(x) = 3(2x)], and explain the connections between the equivalent forms in a variety of ways (e.g., comparing graphs; using transformations; using the exponent laws) 
+
+2.5 represent an exponential function with an equation, given its graph or its properties 
+Sample problem: Write two equations to represent the same exponential function with a y-intercept of 5 and an asymptote at y = 3. Investigate whether other exponential functions have the same properties. Use transformations to explain your observations. 
+
+3. Solving Problems Involving Exponential Functions 
+
+By the end of this course, students will: 
+
+3.1 collect data that can be modelled as an exponential function, through investigation with and without technology, from primary sources, using a variety of tools (e.g., concrete materials such as number cubes, coins; measurement tools such as electronic probes), or from secondary sources (e.g., websites such as Statistics Canada, E-STAT), and graph the data 
+Sample problem: Collect data and graph the cooling curve representing the relationship between temperature and time for hot water cooling in a porcelain mug. Predict the shape of the cooling curve when hot water cools in an insulated mug. Test your prediction. 
+
+3.2 identify exponential functions, including those that arise from real-world applications involving growth and decay (e.g., radioactive decay, population growth, cooling rates, pressure in a leaking tire), given various representations (i.e., tables of values, graphs, equations), and explain any restrictions that the context places on the domain and range (e.g., ambient temperature limits the range for a cooling curve) 
+Sample problem: Using data from Statistics Canada, investigate to determine if there was a period of time over which the increase in Canada's national debt could be modelled using an exponential function. 
+
+3.3 solve problems using given graphs or equations of exponential functions arising from a variety of real-world applications (e.g., radioactive decay, population growth, height of a bouncing ball, compound interest) by interpreting the graphs or by substituting values for the exponent into the equations 
+Sample problem: The temperature of a cooling liquid over time can be modelled by the exponential function T(x) = 60 [1/2](x/30) + 20, where T(x) is the temperature, in degrees Celsius, and x is the elapsed time, in minutes. Graph the function and determine how long it takes for the temperature to reach 28[degree sign]C. 
+
+C. DISCRETE FUNCTIONS 
+
+OVERALL EXPECTATIONS 
+
+By the end of this course, students will: 
+
+1. demonstrate an understanding of recursive sequences, represent recursive sequences in a variety of ways, and make connections to Pascal's triangle; 
+2. demonstrate an understanding of the relationships involved in arithmetic and geometric sequences and series, and solve related problems; 
+3. make connections between sequences, series, and financial applications, and solve problems involving compound interest and ordinary annuities.
+
+SPECIFIC EXPECTATIONS  
+
+1. Representing Sequences 
+
+By the end of this course, students will: 
+
+1.1 make connections between sequences and discrete functions, represent sequences using function notation, and distinguish between a discrete function and a continuous function [e.g., f(x) = 2x, where the domain is the set of natural numbers, is a discrete linear function and its graph is a set of equally spaced points; f(x) = 2x, where the domain is the set of real numbers, is a continuous linear function and its graph is a straight line] 
+
+1.2 determine and describe (e.g., in words; using flow charts) a recursive procedure for generating a sequence, given the initial terms (e.g., 1, 3, 6, 10, 15, 21, ...), and represent sequences as discrete functions in a variety of ways (e.g., tables of values, graphs) 
+
+1.3 connect the formula for the nth term of a sequence to the representation in function notation, and write terms of a sequence given one of these representations or a recursion formula 
+
+1.4 represent a sequence algebraically using a recursion formula, function notation, or the formula for the nth term [e.g., represent 2, 4, 8, 16, 32, 64, ... as t(1) = 2; t(n) = 2[t(n–1)], as f(n) = 2(n), or as t(n) = 2(n), or represent 1/2, 2/3, 3/4, 4/5, 5/6, 6/7, ...as t(1) = 1/2; t(n) = t(n–1) + 1/[n(n + 1)], as f(n) = n/[n + 1], or as t(n) =  n/[n + 1], where n is a natural number], and describe the information that can be obtained by inspecting each representation (e.g., function notation or the formula for the nth term may show the type of function; a recursion formula shows the relationship between terms) 
+
+Sample problem: Represent the sequence 0, 3, 8, 15, 24, 35, ... using a recursion formula, function notation, and the formula for the nth term. Explain why this sequence can be described as a discrete quadratic function. Explore how to identify a sequence as a discrete quadratic function by inspecting the recursion formula. 
+
+1.5 determine, through investigation, recursive patterns in the Fibonacci sequence, in related sequences, and in Pascal's triangle, and represent the patterns in a variety of ways (e.g., tables of values, algebraic notation) 
+
+1.6 determine, through investigation, and describe the relationship between Pascal's triangle and the expansion of binomials, and apply the relationship to expand binomials raised to whole-number exponents [e.g., (1 + x)4, (2x–1)5 , (2x– y)6, (x(2) + 1)5] 
+  
+2. Investigating Arithmetic and Geometric Sequences and Series 
+
+By the end of this course, students will: 
+
+2.1 identify sequences as arithmetic, geometric, or neither, given a numeric or algebraic representation 
+
+2.2 determine the formula for the general term of an arithmetic sequence [i.e., t(n) = a + (n –1)d ] or geometric sequence (i.e., t(n) = ar(n –1)), through investigation using a variety of tools (e.g., linking cubes, algebra tiles, diagrams, calculators) and strategies (e.g., patterning; connecting the steps in a numerical example to the steps in the algebraic development), and apply the formula to calculate any term in a sequence 
+
+2.3 determine the formula for the sum of an arithmetic or geometric series, through investigation using a variety of tools (e.g., linking cubes, algebra tiles, diagrams, calculators) and strategies (e.g., patterning; connecting the steps in a numerical example to the steps in the algebraic development), and apply the formula to calculate the sum of a given number of consecutive terms 
+Sample problem: Given the following array built with grey and white connecting cubes, investigate how different ways of determining the total number of grey cubes can be used to evaluate the sum of the arithmetic series 1 + 2 + 3 + 4 + 5. Extend the series, use patterning to make generalizations for finding the sum, and test the generalizations for other arithmetic series.  (Graphic omitted from page 51)
+
+2.4 solve problems involving arithmetic and geometric sequences and series, including those arising from real-world applications 
+
+3. Solving Problems Involving Financial Applications 
+
+By the end of this course, students will: 
+
+3.1 make and describe connections between simple interest, arithmetic sequences, and linear growth, through investigation with technology (e.g., use a spreadsheet or graphing calculator to make simple interest calculations, determine first differences in the amounts over time, and graph amount versus time) 
+Sample problem: Describe an investment that could be represented by the function f(x) = 500(1 + 0.05x). 
+
+3.2 make and describe connections between compound interest, geometric sequences, and exponential growth, through investigation with technology (e.g., use a spreadsheet to make compound interest calculations, determine finite differences in the amounts over time, and graph amount versus time) 
+Sample problem: Describe an investment that could be represented by the function f(x) = 500(1.05)x. 
+
+3.3 solve problems, using a scientific calculator, that involve the calculation of the amount, A (also referred to as future value, FV), the principal, P (also referred to as present value, PV), or the interest rate per compounding period, i, using the compound interest formula in the form A = P(1 + i)n [or FV = PV(1 + i)n] 
+Sample problem: Two investments are available, one at 6% compounded annually and the other at 6% compounded monthly. Investigate graphically the growth of each investment, and determine the interest earned from depositing $1000 in each investment for 10 years. 
+
+3.4 determine, through investigation using technology (e.g., scientific calculator, the TVM Solver on a graphing calculator, online tools), the number of compounding periods, n, using the compound interest formula in the form A = P(1 + i)n [or FV = PV(1 + i)n]; describe strategies (e.g., guessing and checking; using the power of a power rule for exponents; using graphs) for calculating this number; and solve related problems 
+
+3.5 explain the meaning of the term annuity, and determine the relationships between ordinary simple annuities (i.e., annuities in which payments are made at the end of each period, and compounding and payment periods are the same), geometric series, and exponential growth, through investigation with technology (e.g., use a spreadsheet to determine and graph the future value of an ordinary simple annuity for varying numbers of compounding periods; investigate how the contributions of each payment to the future value of an ordinary simple annuity are related to the terms of a geometric series) 
+
+3.6 determine, through investigation using technology (e.g., the TVM Solver on a graphing calculator, online tools), the effects of changing the conditions (i.e., the payments, the frequency of the payments, the interest rate, the compounding period) of ordinary simple annuities (e.g., long-term savings plans, loans) 
+Sample problem: Compare the amounts at age 65 that would result from making an annual deposit of $1000 starting at age 20, or from making an annual deposit of $3000 starting at age 50, to an RRSP that earns 6% interest per annum, compounded annually. What is the total of the deposits in each situation? 
+
+3.7 solve problems, using technology (e.g., scientific calculator, spreadsheet, graphing calculator), that involve the amount, the present value, and the regular payment of an ordinary simple annuity (e.g., calculate the total interest paid over the life of a loan, using a spreadsheet, and compare the total interest with the original principal of the loan) 
+
+D. TRIGONOMETRIC FUNCTIONS 
+
+OVERALL EXPECTATIONS 
+
+By the end of this course, students will: 
+
+1. determine the values of the trigonometric ratios for angles less than 360[degree sign]; prove simple trigonometric identities; and solve problems using the primary trigonometric ratios, the sine law, and the cosine law; 
+2. demonstrate an understanding of periodic relationships and sinusoidal functions, and make connections between the numeric, graphical, and algebraic representations of sinusoidal functions; 
+3. identify and represent sinusoidal functions, and solve problems involving sinusoidal functions, including problems arising from real-world applications. 
+
+SPECIFIC EXPECTATIONS  
+
+1. Determining and Applying Trigonometric Ratios 
+
+By the end of this course, students will: 
+
+1.1 determine the exact values of the sine, cosine, and tangent of the special angles: 0[degree sign], 30[degree sign], 45[degree sign], 60[degree sign], and 90[degree sign] 
+
+1.2 determine the values of the sine, cosine, and tangent of angles from 0[degree sign] to 360[degree sign], through investigation using a variety of tools (e.g., dynamic geometry software, graphing tools) and strategies (e.g., applying the unit circle; examining angles related to special angles) 
+
+1.3 determine the measures of two angles from 0[degree sign] to 360[degree sign] for which the value of a given trigonometric ratio is the same 
+
+1.4 define the secant, cosecant, and cotangent ratios for angles in a right triangle in terms of the sides of the triangle (e.g., sec A = hypotenuse/adjacent), and relate these ratios to the cosine, sine, and tangent ratios (e.g., sec A = 1/cos A)    
+
+1.5 prove simple trigonometric identities, using the Pythagorean identity sin(2)x + cos(2)x = 1; the quotient identity tanx = sinx/cosx; and the reciprocal identities secx = 1/cosx, cscx = 1/sinx, and cotx = 1/tanx  
+Sample problem: Prove that 1 – cos(2)x = sinxcosxtanx. 
+
+1.6 pose problems involving right triangles and oblique triangles in two-dimensional settings, and solve these and other such problems using the primary trigonometric ratios, the cosine law, and the sine law (including the ambiguous case) 
+
+1.7 pose problems involving right triangles and oblique triangles in three-dimensional settings, and solve these and other such problems using the primary trigonometric ratios, the cosine law, and the sine law 
+Sample problem: Explain how a surveyor could find the height of a vertical cliff that is on the other side of a raging river, using a measuring tape, a theodolite, and some trigonometry. Determine what the surveyor might measure, and use hypothetical values for these data to calculate the height of the cliff. 
+
+2. Connecting Graphs and Equations of Sinusoidal Functions 
+
+By the end of this course, students will: 
+
+2.1 describe key properties (e.g., cycle, amplitude, period) of periodic functions arising from real-world applications (e.g., natural gas consumption in Ontario, tides in the Bay of Fundy), given a numeric or graphical representation 
+
+2.2 predict, by extrapolating, the future behaviour of a relationship modelled using a numeric or graphical representation of a periodic function (e.g., predicting hours of daylight on a particular date from previous measurements; predicting natural gas consumption in Ontario from previous consumption) 
+
+2.3 make connections between the sine ratio and the sine function and between the cosine ratio and the cosine function by graphing the relationship between angles from 0[degree sign] to 360[degree sign] and the corresponding sine ratios or cosine ratios, with or without technology (e.g., by generating a table of values using a calculator; by unwrapping the unit circle), defining this relationship as the function f(x) = sinx or f(x) = cosx, and explaining why the relationship is a function 
+
+2.4 sketch the graphs of f(x) = sinx and f(x) = cosx for angle measures expressed in degrees, and determine and describe their key properties (i.e., cycle, domain, range, intercepts, amplitude, period, maximum and minimum values, increasing/decreasing intervals) 
+
+2.5 determine, through investigation using technology, the roles of the parameters a, k, d, and c in functions of the form y = af(k(x – d)) + c, where f(x) = sinx or f(x) = cosx with angles expressed in degrees, and describe these roles in terms of transformations on the graphs of f(x) = sinx and f(x) = cosx (i.e., translations; reflections in the axes; vertical and horizontal stretches and compressions to and from the x- and y-axes) 
+Sample problem: Investigate the graph f(x) = 2sin(x – d) + 10 for various values of d, using technology, and describe the effects of changing d in terms of a transformation. 
+
+2.6 determine the amplitude, period, phase shift, domain, and range of sinusoidal functions whose equations are given in the form f(x) = asin(k(x – d)) + c or f(x) = acos(k(x – d)) + c 
+
+2.7 sketch graphs of y = af(k(x – d)) + c by applying one or more transformations to the graphs of f(x) = sinx and f(x) = cosx, and state the domain and range of the transformed functions 
+Sample problem: Transform the graph of f(x) = cos x to sketch g(x) = 3cos2x – 1, and state the domain and range of each function. 
+
+2.8 represent a sinusoidal function with an equation, given its graph or its properties 
+Sample problem: A sinusoidal function has an amplitude of 2 units, a period of 180[degree sign], and a maximum at (0, 3). Represent the function with an equation in two different ways. 
+
+3. Solving Problems Involving Sinusoidal Functions 
+
+By the end of this course, students will: 
+
+3.1 collect data that can be modelled as a sinusoidal function (e.g., voltage in an AC circuit, sound waves), through investigation with and without technology, from primary sources, using a variety of tools (e.g., concrete materials, measurement tools such as motion sensors), or from secondary sources (e.g., websites such as Statistics Canada, E-STAT), and graph the data 
+Sample problem: Measure and record distance-time data for a swinging pendulum, using a motion sensor or other measurement tools, and graph the data. 
+
+3.2 identify periodic and sinusoidal functions, including those that arise from real-world applications involving periodic phenomena, given various representations (i.e., tables of values, graphs, equations), and explain any restrictions that the context places on the domain and range 
+Sample problem: Using data from Statistics Canada, investigate to determine if there was a period of time over which changes in the population of Canadians aged 20–24 could be modelled using a sinusoidal function. 
+
+3.3 determine, through investigation, how sinusoidal functions can be used to model periodic phenomena that do not involve angles Sample problem: Investigate, using graphing technology in degree mode, and explain how the function h(t) = 5sin(30(t + 3)) approximately models the relationship between the height and the time of day for a tide with an amplitude of 5 m, if high tide is at midnight. 
+
+3.4 predict the effects on a mathematical model (i.e., graph, equation) of an application involving periodic phenomena when the conditions in the application are varied (e.g., varying the conditions, such as speed and direction, when walking in a circle in front of a motion sensor) 
+Sample problem: The relationship between the height above the ground of a person riding a Ferris wheel and time can be modelled using a sinusoidal function. Describe the effect on this function if the platform from which the person enters the ride is raised by 1 m and if the Ferris wheel turns twice as fast. 
+
+3.5 pose problems based on applications involving a sinusoidal function, and solve these and other such problems by using a given graph or a graph generated with technology from a table of values or from its equation 
+Sample problem: The height above the ground of a rider on a Ferris wheel can be modelled by the sinusoidal function h(t) = 25sin(3(t – 30)) + 27, where h(t) is the height, in metres, and t is the time, in seconds. Graph the function, using graphing technology in degree mode, and determine the maximum and minimum heights of the rider, the height after 30 s, and the time required to complete one revolution. 
+
+Functions and Applications, Grade 11 
+
+University/College Preparation MCF3M 
+
+This course introduces basic features of the function by extending students' experiences with quadratic relations. It focuses on quadratic, trigonometric, and exponential functions and their use in modelling real-world situations. Students will represent functions numerically, graphically, and algebraically; simplify expressions; solve equations; and solve problems relating to applications. Students will reason mathematically and communicate their thinking as they solve multi-step problems. 
+
+Prerequisite: Principles of Mathematics, Grade 10, Academic, or Foundations of Mathematics, Grade 10, Applied 
+
+MATHEMATICAL PROCESS EXPECTATIONS 
+
+The mathematical processes are to be integrated into student learning in all areas of this course. 
+
+Throughout this course, students will: 
+
+Problem Solving 
+• develop, select, apply, compare, and adapt a variety of problem-solving strategies as they pose and solve problems and conduct investigations, to help deepen their mathematical understanding; 
+
+Reasoning and Proving 
+• develop and apply reasoning skills (e.g., use of inductive reasoning, deductive reasoning, and counter-examples; construction of proofs) to make mathematical conjectures, assess conjectures, and justify conclusions, and plan and construct organized mathematical arguments; 
+
+Reflecting 
+• demonstrate that they are reflecting on and monitoring their thinking to help clarify their understanding as they complete an investigation or solve a problem (e.g., by assessing the effectiveness of strategies and processes used, by proposing alternative approaches, by judging the reasonableness of results, by verifying solutions); 
+
+Selecting Tools and Computational Strategies 
+• select and use a variety of concrete, visual, and electronic learning tools and appropriate computational strategies to investigate mathematical ideas and to solve problems; 
+
+Connecting 
+• make connections among mathematical concepts and procedures, and relate mathematical ideas to situations or phenomena drawn from other contexts (e.g., other curriculum areas, daily life, current events, art and culture, sports); 
+
+Representing 
+• create a variety of representations of mathematical ideas (e.g., numeric, geometric, algebraic, graphical, pictorial representations; onscreen dynamic representations), connect and compare them, and select and apply the appropriate representations to solve problems; 
+
+Communicating 
+• communicate mathematical thinking orally, visually, and in writing, using precise mathematical vocabulary and a variety of appropriate representations, and observing mathematical conventions. 
+
+A. QUADRATIC FUNCTIONS
+
+OVERALL EXPECTATIONS 
+
+By the end of this course, students will: 
+
+1. expand and simplify quadratic expressions, solve quadratic equations, and relate the roots of a quadratic equation to the corresponding graph; 
+2. demonstrate an understanding of functions, and make connections between the numeric, graphical, and algebraic representations of quadratic functions; 
+3. solve problems involving quadratic functions, including problems arising from real-world applications. 
+
+SPECIFIC EXPECTATIONS  
+
+1. Solving Quadratic Equations 
+
+By the end of this course, students will: 
+
+1.1 pose problems involving quadratic relations arising from real-world applications and represented by tables of values and graphs, and solve these and other such problems (e.g., "From the graph of the height of a ball versus time, can you tell me how high the ball was thrown and the time when it hit the ground?") 
+
+1.2 represent situations (e.g., the area of a picture frame of variable width) using quadratic expressions in one variable, and expand and simplify quadratic expressions in one  variable [e.g., 2x(x + 4) – (x + 3)2]* 
+
+1.3 factor quadratic expressions in one variable, including those for which a [not equal to symbol] 1 (e.g., 3x(2) + 13x – 10), differences of squares (e.g., 4x(2) – 25), and perfect square trinomials (e.g., 9x(2) + 24x + 16), by selecting and applying an appropriate strategy * 
+Sample problem: Factor 2x(2) – 12x + 10. 
+
+1.4 solve quadratic equations by selecting and applying a factoring strategy 
+
+1.5 determine, through investigation, and describe the connection between the factors used in solving a quadratic equation and the x-intercepts of the graph of the corresponding quadratic relation 
+Sample problem: The profit, P, of a video company, in thousands of dollars, is given by P = –5x(2) + 550x – 5000, where x is the amount spent on advertising, in thousands of dollars. Determine, by factoring and by graphing, the amount spent on advertising that will result in a profit of $0. Describe the connection between the two strategies. 
+
+1.6 explore the algebraic development of the quadratic formula (e.g., given the algebraic development, connect the steps to a numeric example; follow a demonstration of the algebraic development, with technology, such as computer algebra systems, or without technology [student reproduction of the development of the general case is not required]), and apply the formula to solve quadratic equations, using technology 
+
+1.7 relate the real roots of a quadratic equation to the x-intercepts of the corresponding graph, and connect the number of real roots to the value of the discriminant (e.g., there are no real roots and no x-intercepts if b(2) – 4ac [less-than sign] 0) 
+
+1.8 determine the real roots of a variety of quadratic equations (e.g., 100x(2) = 115x + 35), and describe the advantages and disadvantages of each strategy (i.e., graphing; factoring; using the quadratic formula) 
+Sample problem: Generate 10 quadratic equations by randomly selecting integer values for a, b, and c in ax(2) + bx + c = 0. Solve the 
+equations using the quadratic formula. How many of the equations could you solve by factoring?
+
+*The knowledge and skills described in this expectation may initially require the use of a variety of learning tools (e.g., computer 
+algebra systems, algebra tiles, grid paper). 
+
+2. Connecting Graphs and Equations of Quadratic Functions 
+
+By the end of this course, students will:
+
+2.1 explain the meaning of the term function, and distinguish a function from a relation that is not a function, through investigation of linear and quadratic relations using a variety of representations (i.e., tables of values, mapping diagrams, graphs, function machines, equations) and strategies (e.g., using the vertical-line test)
+Sample problem: Investigate, using numeric and graphical representations, whether the relation x = y(2) is a function, and justify your reasoning.
+
+2.2 substitute into and evaluate linear and quadratic functions represented using function notation [e.g., evaluate f(1/2), given f(x) = 2x(2) + 3x – 1], including functions arising from real-world applications
+Sample problem: The relationship between the selling price of a sleeping bag, s dollars, and the revenue at that selling price, r(s) dollars, is represented by the function r(s) = –10s(2) +1500s. Evaluate, interpret, and compare r(29.95), r(60.00), r(75.00), r(90.00), and r(130.00).
+
+2.3 explain the meanings of the terms domain and range, through investigation using numeric, graphical, and algebraic representations of linear and quadratic functions, and describe the domain and range of a function appropriately (e.g., for y = x(2) + 1, the domain is the set of real numbers, and the range is y [greater-than or equal to sign] 1)
+
+2.4 explain any restrictions on the domain and the range of a quadratic function in contexts arising from real-world applications
+Sample problem: A quadratic function represents the relationship between the height of a ball and the time elapsed since the ball was thrown. What physical factors will restrict the domain and range of the quadratic function?
+
+2.5 determine, through investigation using technology, the roles of a, h, and k in quadratic functions of the form f(x) = a(x – h)2 + k, and describe these roles in terms of transformations on the graph of f(x)= x(2) (i.e., translations; reflections in the x-axis; vertical stretches and compressions to and from the x-axis)
+Sample problem: Investigate the graph f(x) = 3(x – h)2 + 5 for various values of h, using technology, and describe the effects of changing h in terms of a transformation.
+
+2.6 sketch graphs of g(x) = a(x – h)2 + k by applying one or more transformations to the graph of f(x) = x(2)
+Sample problem: Transform the graph of f(x) = x(2) to sketch the graphs of g(x) = x(2) – 4 and h(x) =–2(x + 1)2.
+
+2.7 express the equation of a quadratic function in the standard form f(x) = ax(2) + bx + c, given the vertex form f(x) = a(x – h)2 + k, and verify, using graphing technology, that these forms are equivalent representations
+Sample problem: Given the vertex form f(x) =3(x –1)2 + 4, express the equation in standard form. Use technology to compare the graphs of these two forms of the equation.
+
+2.8 express the equation of a quadratic function in the vertex form f(x) =a(x – h)2 + k, given the standard form f(x) = ax(2) + bx + c, by completing the square (e.g., using algebra tiles or diagrams; algebraically), including cases where b/a is a simple rational number (e.g., 1/2, 0.75), and verify, using graphing technology, that these forms are equivalent representations
+
+2.9 sketch graphs of quadratic functions in the factored form f(x) = a(x – r)(x – s)by using the x-intercepts to determine the vertex
+
+2.10 describe the information (e.g., maximum, intercepts) that can be obtained by inspecting the standard form f(x) = ax(2) + bx + c, the vertex form f(x) = a(x – h)2 + k, and the factored form f(x) = a(x – r)(x – s) of a quadratic function
+
+2.11 sketch the graph of a quadratic function whose equation is given in the standard form f(x) = ax2 + bx + c by using a suitable strategy (e.g., completing the square and finding the vertex; factoring, if possible, to locate the x-intercepts), and identify the key features of the graph (e.g., the vertex, the x-and y-intercepts, the equation of the axis of symmetry, the intervals where the function is positive or negative, the intervals where the function is increasing or decreasing)
+
+3. Solving Problems Involving Quadratic Functions 
+
+By the end of this course, students will: 
+
+3.1 collect data that can be modelled as a quadratic function, through investigation with and without technology, from primary sources, using a variety of tools (e.g., concrete materials; measurement tools such as measuring tapes, electronic probes, motion sensors), or from secondary sources (e.g., websites such as Statistics Canada, E-STAT), and graph the data Sample problem: When a 3 x 3 x 3 cube made up of 1 x 1 x 1 cubes is dipped into red paint, 6 of the smaller cubes will have 1 face painted. Investigate the number of smaller cubes with 1 face painted as a function of the edge length of the larger cube, and graph the function. 
+
+3.2 determine, through investigation using a variety of strategies (e.g., applying properties of quadratic functions such as the x-intercepts and the vertex; using transformations), the equation of the quadratic function that best models a suitable data set graphed on a scatter plot, and compare this equation to the equation of a curve of best fit generated with technology (e.g., graphing software, graphing calculator) 
+
+3.3 solve problems arising from real-world applications, given the algebraic representation of aquadratic function (e.g., given the equation of a quadratic function representing the height of a ball over elapsed time, answer questions that involve the maximum height of the ball, the length of time needed for the ball to touch the ground, and the time interval when the ball is higher than a given measurement)
+
+Sample problem: In the following DC electrical circuit, the relationship between the power used by a device, P(in watts, W), the electric potential difference (voltage), V(in volts, V), the current, I(in amperes, A), and the resistance, R(in ohms, [ohm sign]), is represented by the formula P = IV – I(2)R. Represent graphically and algebraically the relationship between the power and the current when the electric potential difference is 24V and the resistance is 1.5 [ohm sign]. Determine the current needed in order for the device to use the maximum amount of power. (graph omitted from page 61)
+
+B. EXPONENTIAL FUNCTIONS 
+
+OVERALL EXPECTATIONS 
+
+By the end of this course, students will: 
+
+1. simplify and evaluate numerical expressions involving exponents, and make connections between the numeric, graphical, and algebraic representations of exponential functions; 
+2. identify and represent exponential functions, and solve problems involving exponential functions, including problems arising from real-world applications; 
+3. demonstrate an understanding of compound interest and annuities, and solve related problems. 
+
+SPECIFIC EXPECTATIONS  
+
+1. Connecting Graphs and Equations of Exponential Functions 
+
+By the end of this course, students will: 
+
+1.1 determine, through investigation using a variety of tools (e.g., calculator, paper and pencil, graphing technology) and strategies (e.g., patterning; finding values from a graph; interpreting the exponent laws), the value of a power with a rational exponent (i.e., x (m/n), where x [greater-than sign] 0 and m and n are integers) 
+Sample problem: The exponent laws suggest that 4(1/2) x 4(1/2) = 4(1). What value would you assign to 4(1/2)? What value would you assign to 27(1/3)? Explain your reasoning. Extend your reasoning to make a generalization about the meaning of x(1/n), where x [greater-than sign] 0 and n is a natural number. 
+
+1.2 evaluate, with and without technology, numerical expressions containing integer and rational exponents and rational bases 
+[e.g., 2(–3), (–6)3, 4(1/2), 1.01(120)]   
+
+1.3 graph, with and without technology, an exponential relation, given its equation in the form y = a(x) (a [greater-than sign] 0, a [not equal to symbol] 1), define this relation as the function f(x) = a(x), and explain why it is a function 
+
+1.4 determine, through investigation, and describe key properties relating to domain and range, intercepts, increasing/decreasing intervals, and asymptotes (e.g., the domain is the set of real numbers; the range is the set of positive real numbers; the function either increases or decreases throughout its domain) for exponential functions represented in a variety of ways [e.g., tables of values, mapping diagrams, graphs, equations of the form f(x) = a(x) (a [greater-than sign] 0, a [not equal to symbol] 1), function machines] 
+Sample problem: Graph f(x) = 2(x), g(x) = 3(x), and h(x) = 0.5(x) on the same set of axes. Make comparisons between the graphs, and explain the relationship between the y-intercepts. 
+
+1.5 determine, through investigation (e.g., by patterning with and without a calculator), the exponent rules for multiplying and dividing numeric expressions involving exponents [e.g., (1/2)3 x (1/2 )2], and the exponent rule for simplifying numerical expressions involving a power of a power [e.g., (5(3))2], and use the rules to simplify numerical expressions containing integer exponents [e.g., (2(3))(2(5)) = 2(8)] 
+
+1.6 distinguish exponential functions from linear and quadratic functions by making comparisons in a variety of ways (e.g., comparing rates of change using finite differences in tables of values; identifying a constant ratio in a table of values; inspecting graphs; comparing equations), within the same context when possible (e.g., simple interest and compound interest, population growth) 
+Sample problem: Explain in a variety of ways how you can distinguish the exponential function f(x) = 2(x) from the quadratic function f(x) = x(2) and the linear function f(x) = 2x. 
+
+2. Solving Problems Involving Exponential Functions 
+
+By the end of this course, students will: 
+
+2.1 collect data that can be modelled as an exponential function, through investigation with and without technology, from primary sources, using a variety of tools (e.g., concrete materials such as number cubes, coins; measurement tools such as electronic probes), or from secondary sources (e.g., websites such as Statistics Canada, E-STAT), and graph the data 
+Sample problem: Collect data and graph the cooling curve representing the relationship between temperature and time for hot water cooling in a porcelain mug. Predict the shape of the cooling curve when hot water cools in an insulated mug. Test your prediction. 
+
+2.2 identify exponential functions, including those that arise from real-world applications involving growth and decay (e.g., radioactive decay, population growth, cooling rates, pressure in a leaking tire), given various representations (i.e., tables of values, graphs, equations), and explain any restrictions that the context places on the domain and range (e.g., ambient temperature limits the range for a cooling curve) 
+
+2.3 solve problems using given graphs or equations of exponential functions arising from a variety of real-world applications (e.g., radioactive decay, population growth, height of a bouncing ball, compound interest) by interpreting the graphs or by substituting values for the exponent into the equations 
+Sample problem: The temperature of a cooling liquid over time can be modelled by the exponential function T(x) = 60(1/2)x/30 + 20, where T(x) is the temperature, in degrees Celsius, and x is the elapsed time, in minutes. Graph the function and determine how long it takes for the temperature to reach 28[degree sign]C. 
+
+3. Solving Financial Problems Involving Exponential Functions 
+
+By the end of this course, students will: 
+
+3.1 compare, using a table of values and graphs, the simple and compound interest earned for a given principal (i.e., investment) and a fixed interest rate over time 
+Sample problem: Compare, using tables of values and graphs, the amounts after each of the first five years for a $1000 investment at 5% simple interest per annum and a $1000 investment at 5% interest per annum, compounded annually. 
+
+3.2 solve problems, using a scientific calculator, that involve the calculation of the amount, A (also referred to as future value, FV), and the principal, P (also referred to as present value, PV), using the compound interest formula in the form A = P(1 + i)n [or FV = PV(1 + i)n] 
+Sample problem: Calculate the amount if $1000 is invested for three years at 6% per annum, compounded quarterly. 
+
+3.3 determine, through investigation (e.g., using spreadsheets and graphs), that compound interest is an example of exponential growth [e.g., the formulas for compound interest, A = P(1 + i)n , and present value, PV = A(1 + i)–n , are exponential functions, where the number of compounding periods, n, varies] 
+Sample problem: Describe an investment that could be represented by the function f(x) = 500(1.01)x. 
+
+3.4 solve problems, using a TVM Solver on a graphing calculator or on a website, that involve the calculation of the interest rate per compounding period, i, or the number of compounding periods, n, in the compound interest formula A = P(1 + i)n  [or FV = PV(1 + i)n] 
+Sample problem: Use the TVM Solver in a graphing calculator to determine the time it takes to double an investment in an account that pays interest of 4% per annum, compounded semi-annually. 
+
+3.5 explain the meaning of the term annuity, through investigation of numeric and graphical representations using technology 
+ 
+3.6 determine, through investigation using technology (e.g., the TVM Solver on a graphing calculator, online tools), the effects of changing the conditions (i.e., the payments, the frequency of the payments, the interest rate, the compounding period) of ordinary simple annuities (i.e., annuities in which payments are made at the end of each period, and the compounding period and the payment period are the same) (e.g., long-term savings plans, loans)
+Sample problem: Compare the amounts at age 65 that would result from making an annual deposit of $1000 starting at age 20, or from making an annual deposit of $3000 starting at age 50, to an RRSP that earns 6% interest per annum, compounded annually. What is the total of the deposits in each situation?
+
+3.7 solve problems, using technology (e.g., scientific calculator, spreadsheet, graphing calculator), that involve the amount, the present value, and the regular payment of an ordinary simple annuity (e.g., calculate the total interest paid over the life of a loan, using a spreadsheet, and compare the total interest with the original principal of the loan)
+
+C. TRIGONOMETRIC FUNCTIONS
+
+OVERALL EXPECTATIONS 
+
+By the end of this course, students will: 
+
+1. solve problems involving trigonometry in acute triangles using the sine law and the cosine law, including problems arising from real-world applications; 
+2. demonstrate an understanding of periodic relationships and the sine function, and make connections between the numeric, graphical, and algebraic representations of sine functions; 
+3. identify and represent sine functions, and solve problems involving sine functions, including problems arising from real-world applications. 
+
+SPECIFIC EXPECTATIONS  
+
+1. Applying the Sine Law and the Cosine Law in Acute Triangles 
+
+By the end of this course, students will: 
+
+1.1 solve problems, including those that arise from real-world applications (e.g., surveying, navigation), by determining the measures of the sides and angles of right triangles using the primary trigonometric ratios 
+
+1.2 solve problems involving two right triangles in two dimensions
+Sample problem: A helicopter hovers 500 m above a long straight road. Ahead of the helicopter on the road are two trucks. The angles of depression of the two trucks from the helicopter are 60[degree sign] and 20[degree sign]. How far apart are the two trucks? 
+
+1.3 verify, through investigation using technology (e.g., dynamic geometry software, spreadsheet), the sine law and the cosine law (e.g., compare, using dynamic geometry software, the ratios a/sin A, b/sin B, and c/sin C in triangle ABC while dragging one of the vertices) 
+
+1.4 describe conditions that guide when it is appropriate to use the sine law or the cosine law, and use these laws to calculate sides and angles in acute triangles 
+
+1.5 solve problems that require the use of the sine law or the cosine law in acute triangles, including problems arising from real-world applications (e.g., surveying, navigation, building construction) 
+
+2. Connecting Graphs and Equations of Sine Functions 
+
+By the end of this course, students will: 
+
+2.1 describe key properties (e.g., cycle, amplitude, period) of periodic functions arising from real-world applications (e.g., natural gas consumption in Ontario, tides in the Bay of Fundy), given a numeric or graphical representation 
+
+2.2 predict, by extrapolating, the future behaviour of a relationship modelled using a numeric or graphical representation of a periodic function (e.g., predicting hours of daylight on a particular date from previous measurements; predicting natural gas consumption in Ontario from previous consumption) 
+
+2.3 make connections between the sine ratio and the sine function by graphing the relationship between angles from 0[degree sign] to 360[degree sign] and the corresponding sine ratios, with or without technology (e.g., by generating a table of values using a calculator; by unwrapping the unit circle), defining this relationship as the function f(x) = sinx, and explaining why the relationship is a function 
+ 
+2.4 sketch the graph of f(x) = sinx for angle measures expressed in degrees, and determine and describe its key properties (i.e., cycle, domain, range, intercepts, amplitude, period, maximum and minimum values, increasing/decreasing intervals) 
+
+2.5 make connections, through investigation with technology, between changes in a real-world situation that can be modelled using a periodic function and transformations of the corresponding graph (e.g., investigate the connection between variables for a swimmer swimming lengths of a pool and transformations of the graph of distance from the starting point versus time) 
+Sample problem: Generate the graph of a periodic function by walking a circle of 2-m diameter in front of a motion sensor. Describe how the following changes in the motion change the graph: starting at a different point on the circle; starting a greater distance from the motion sensor; changing direction; increasing the radius of the circle. 
+
+2.6 determine, through investigation using technology, the roles of the parameters a, c, and d in functions in the form f(x) = a sin x, f(x) = sin x + c, and f(x) = sin(x – d), and describe these roles in terms of transformations on the graph of f(x) = sin x with angles expressed in degrees (i.e., translations; reflections in the x-axis; vertical stretches and compressions to and from the x-axis) 
+
+2.7 sketch graphs of f(x) = a sin x, f(x) = sin x + c, and f(x) = sin(x – d) by applying transformations to the graph of f(x) = sinx, and state the domain and range of the transformed functions 
+Sample problem: Transform the graph of f(x) = sinx to sketch the graphs of g(x) = –2sin x and h(x) = sin(x – 180[degree sign]), and state the domain and range of each function. 
+
+3. Solving Problems Involving Sine Functions 
+
+By the end of this course, students will: 
+
+3.1 collect data that can be modelled as a sine function (e.g., voltage in an AC circuit, sound waves), through investigation with and without technology, from primary sources, using a variety of tools (e.g., concrete materials, measurement tools such as motion sensors), or from secondary sources (e.g., websites such as Statistics Canada, E-STAT), and graph the data 
+Sample problem: Measure and record distance-time data for a swinging pendulum, using a motion sensor or other measurement tools, and graph the data. 
+
+3.2 identify periodic and sinusoidal functions, including those that arise from real-world applications involving periodic phenomena, given various representations (i.e., tables of values, graphs, equations), and explain any restrictions that the context places on the domain and range 
+
+3.3 pose problems based on applications involving a sine function, and solve these and other such problems by using a given graph or a graph generated with technology from a table of values or from its equation 
+Sample problem: The height above the ground of a rider on a Ferris wheel can be modelled by the sine function h(x) = 25sin(x – 90[degree sign]) + 27, where h(x) is the height, in metres, and x is the angle, in degrees, that the radius from the centre of the ferris wheel to the rider makes with the horizontal. Graph the function, using graphing technology in degree mode, and determine the maximum and minimum heights of the rider and the measures of the angle when the height of the rider is 40 m.
+
+The Ministry of Education wishes to acknowledge the contribution of the many individuals, groups, and organizations that participated in the development and refinement of this curriculum policy document. 
+
+Printed on recycled paper
+06-256
+ISBN 978-1-4249-4699-0 (Print) 
+
+ISBN 978-1-4249-4700-3 (PDF)
+ISBN 978-1-4249-4701-0 (TXT)
+© Queen's Printer for Ontario, 2007 
