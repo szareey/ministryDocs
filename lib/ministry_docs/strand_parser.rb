@@ -5,7 +5,6 @@ module MinistryDocs
     end
 
     def parse
-
     end
   end
 end
