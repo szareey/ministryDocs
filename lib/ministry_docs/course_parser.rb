@@ -17,8 +17,8 @@ module MinistryDocs
 
     def parse_courses(courses)
       positions = courses
-                  .enum_for(:scan, /^.*, Grade [0-9]* $/)
-                  .map { Regexp.last_match.begin(0) }
+                    .enum_for(:scan, /^.*, Grade [0-9]* $/)
+                    .map { Regexp.last_match.begin(0) }
 
       # adding last position
       last_position = courses.index('The Ministry of Education') - 1

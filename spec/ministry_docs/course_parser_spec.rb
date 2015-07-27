@@ -39,7 +39,7 @@ describe MinistryDocs::CourseParser do
 
   describe '#parse_pre_req' do
     let(:pre_req) { 'Principles of Mathematics, Grade 10, Academic' }
-    
+
     it 'return pre_req of course' do
       expect(parser.parse_pre_req(course_txt)).to eq pre_req
     end
@@ -47,15 +47,15 @@ describe MinistryDocs::CourseParser do
 
   describe '#parse_grade' do
     let(:grade) { 'Grade 11' }
-    
+
     it 'return grade of course' do
       expect(parser.parse_grade(course_txt)).to eq grade
     end
   end
 
   describe '#parse_description' do
-    let(:description){ "This course introduces the mathematical concept of the function by extending students' experiences with linear and quadratic relations. Students will investigate properties of discrete and continuous functions, including trigonometric and exponential functions; represent functions numerically, algebraically, and graphically; solve problems involving applications of functions; investigate inverse functions; and develop facility in determining equivalent algebraic expressions. Students will reason mathematically and communicate their thinking as they solve multi-step problems." }
-    
+    let(:description) { "This course introduces the mathematical concept of the function by extending students' experiences with linear and quadratic relations. Students will investigate properties of discrete and continuous functions, including trigonometric and exponential functions; represent functions numerically, algebraically, and graphically; solve problems involving applications of functions; investigate inverse functions; and develop facility in determining equivalent algebraic expressions. Students will reason mathematically and communicate their thinking as they solve multi-step problems." }
+
     it 'return description of course' do
       expect(parser.parse_description(course_txt)).to eq description
     end
