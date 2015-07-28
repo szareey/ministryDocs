@@ -1,0 +1,3 @@
+1. demonstrate an understanding of functions, their representations, and their inverses, and make connections between the algebraic and graphical representations of functions using transformations; 
+2. determine the zeros and the maximum or minimum of a quadratic function, and solve problems involving quadratic functions, including problems arising from real-world applications; 
+3. demonstrate an understanding of equivalence as it relates to simplifying polynomial, radical, and rational expressions. 

@@ -1,19 +1,16 @@
 require 'spec_helper'
 
 describe MinistryDocs::ExpectationParser do
-  let(:course_txt) { get_txt 'course_parser/course' }
   subject(:parser) { MinistryDocs::ExpectationParser.new }
 
-
-  describe '#parse_strands' do
-    it 'parse overall '
-    it 'returns all availabe strands' do
-      
+  let(:course_txt) { get_txt 'expectation_parser/course' }
+  let(:overall) { get_txt 'expectation_parser/overall' }
+  let(:specific) { get_txt 'expectation_parser/specific' }
+  
+  describe '#parse' do
+    it 'parse overall' do
+      p parser.parse(course_txt)
     end
-  end
-
-  it 'parse overall spec' do
-    p parser.parse_overall(course_txt)
   end
 
   def get_txt(name)
