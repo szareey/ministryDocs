@@ -16,17 +16,17 @@ module MinistryDocs
 
     def parse_strat(course)
       strats = course
-                .enum_for(:scan, /^([A-Z])\.(.*)$/)
-                .map do |match| 
-                  {
-                    path: match[0],
-                    title: match[1].strip,
-                    pos: {
-                      from: Regexp.last_match.begin(0),
-                      to: Regexp.last_match.end(0)
-                    }
-                  }
-                end
+               .enum_for(:scan, /^([A-Z])\.(.*)$/)
+               .map do |match|
+        {
+          path: match[0],
+          title: match[1].strip,
+          pos: {
+            from: Regexp.last_match.begin(0),
+            to: Regexp.last_match.end(0)
+          }
+        }
+      end
       get_content_by_pos course, strats
     end
 
@@ -40,7 +40,7 @@ module MinistryDocs
         {
           path: strat[:path],
           title: strat[:title],
-          content: course[strat[:pos][:to] .. second_pos].strip
+          content: course[strat[:pos][:to]..second_pos].strip
         }
       end
     end

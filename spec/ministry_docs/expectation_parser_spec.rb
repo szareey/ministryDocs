@@ -4,16 +4,42 @@ describe MinistryDocs::ExpectationParser do
   subject(:parser) { MinistryDocs::ExpectationParser.new }
 
   let(:course_txt) { get_txt 'expectation_parser/course' }
-  let(:overall) { get_txt 'expectation_parser/overall' }
   let(:specific) { get_txt 'expectation_parser/specific' }
-  
-  describe '#parse' do
-    it 'parse overall' do
-      p parser.parse(course_txt)
-    end
-  end
+  let(:second_specific) { get_txt 'expectation_parser/2nd_specific' }
 
-  def get_txt(name)
-    File.read(File.dirname(__FILE__) + "/../fixtures/math/#{name}.txt")
+  describe '#parse' do
+    let(:parsed) { parser.parse(course_txt).first }
+    let(:specific_parser) { spy }
+
+    let(:title) { 'Representing Functions' }
+    let(:description) { 'Demonstrate an understanding of functions, their representations, and their inverses, and make connections between the algebraic and graphical representations of functions using transformations' }
+    let(:path) { '1' }
+
+    it 'parse title' do
+      expect(parsed.title).to eq title
+    end
+
+    it 'parse description' do
+      expect(parsed.description).to eq description
+    end
+
+    it 'parse path' do
+      expect(parsed.path).to eq path
+    end
+
+    context 'specfifics parsing' do
+      before do
+        parser.specific_parser = specific_parser
+        parsed
+      end
+
+      it 'parse first specific right' do
+        expect(specific_parser).to have_received(:parse).with(specific)
+      end
+
+      it 'parse 2nd and more specifics rights' do
+        expect(specific_parser).to have_received(:parse).with(second_specific)
+      end
+    end
   end
 end

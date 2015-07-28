@@ -10,8 +10,4 @@ describe MinistryDocs::DocParser do
       expect(parser.get_courses_section(full_txt)).to eq courses_section
     end
   end
-
-  def get_txt(name)
-    File.read(File.dirname(__FILE__) + "/../fixtures/math/#{name}.txt")
-  end
 end
