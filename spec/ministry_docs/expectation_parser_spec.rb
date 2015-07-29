@@ -12,7 +12,7 @@ describe MinistryDocs::ExpectationParser do
     let(:specific_parser) { spy }
 
     let(:title) { 'Representing Functions' }
-    let(:description) { 'Demonstrate an understanding of functions, their representations, and their inverses, and make connections between the algebraic and graphical representations of functions using transformations' }
+    let(:description) { 'demonstrate an understanding of functions, their representations, and their inverses, and make connections between the algebraic and graphical representations of functions using transformations' }
     let(:path) { '1' }
 
     it 'parse title' do

@@ -4,6 +4,7 @@ Sample problem: Investigate, using numeric and graphical representations, whethe
 1.2 represent linear and quadratic functions using function notation, given their equations, tables of values, or graphs, and substitute into and evaluate functions [e.g., evaluate f (1/2), given f(x) = 2x2 + 3x – 1] 
  
 1.3 explain the meanings of the terms domain and range, through investigation using numeric, graphical, and algebraic representations of the functions f(x) = x, f(x) = x2, f(x) = [square root symbol]x, and f(x) = 1/x; describe the domain and range of a function appropriately (e.g., for y = x2 + 1, the domain is the set of real numbers, and the range is y = 1); and explain any restrictions on the domain and range in contexts arising from real-world applications 
+
 Sample problem: A quadratic function represents the relationship between the height of a ball and the time elapsed since the ball was thrown. What physical factors will restrict the domain and range of the quadratic function? 
 
 1.4 relate the process of determining the inverse of a function to their understanding of reverse processes (e.g., applying inverse operations) 

@@ -38,7 +38,7 @@ module MinistryDocs
     def parse_shorthand(specific)
       sections = specific
                  .enum_for(:scan, /^(([0-9])\. (.*))$/)
-                 .map do |spec|
+                 .collect do |spec|
         {
           title: spec[2],
           path:  spec[1],
@@ -71,7 +71,7 @@ module MinistryDocs
       list.collect do |section|
         {
           path: section[0],
-          value: section[1].strip.chop.capitalize
+          value: section[1].strip.chop
         }
       end
     end

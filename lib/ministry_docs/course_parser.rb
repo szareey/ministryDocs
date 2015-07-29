@@ -1,16 +1,16 @@
 module MinistryDocs
   class CourseParser
-    attr_writer :strand_parser
+    attr_writer :strat_parser
 
     def parse(courses)
-      parse_all_courses(courses).collect do |course|
+      parse_courses(courses).collect do |course|
         OpenStruct.new(
           code: parse_code(course),
           title: parse_title(course),
           grade: parse_grade(course),
           pre_req: parse_pre_req(course),
           description: parse_description(course),
-          strands: strand_parser.parse(course)
+          strands: strat_parser.parse(course)
         )
       end
     end
@@ -58,8 +58,8 @@ module MinistryDocs
       course.lines[4].strip
     end
 
-    def strand_parser
-      @strand_parser ||= StrandParser.new
+    def strat_parser
+      @strat_parser ||= StratParser.new
     end
   end
 end
