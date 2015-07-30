@@ -1,6 +1,6 @@
 module MinistryDocs
   module BaseDoc
-    class StratParser
+    class StrandParser
       attr_writer :expectation_parser
 
       def parse(course)

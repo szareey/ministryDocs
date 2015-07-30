@@ -4,7 +4,7 @@ require 'ostruct'
 require 'ministry_docs/base_doc/doc_parser'
 require 'ministry_docs/base_doc/course_parser'
 require 'ministry_docs/base_doc/expectation_parser'
-require 'ministry_docs/base_doc/strat_parser'
+require 'ministry_docs/base_doc/strand_parser'
 require 'ministry_docs/base_doc/specific_parser'
 
 require 'ministry_docs/base'

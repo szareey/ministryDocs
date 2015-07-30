@@ -11,7 +11,7 @@ module MinistryDocs
             grade: parse_grade(course),
             pre_req: parse_pre_req(course),
             description: parse_description(course),
-            strats: strat_parser.parse(course)
+            strands: strand_parser.parse(course)
           )
         end
       end
@@ -58,8 +58,8 @@ module MinistryDocs
         course.lines[4].strip
       end
 
-      def strat_parser
-        @strat_parser ||= StratParser.new
+      def strand_parser
+        @strand_parser ||= StrandParser.new
       end
     end
   end
