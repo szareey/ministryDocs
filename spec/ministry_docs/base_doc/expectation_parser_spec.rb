@@ -1,7 +1,7 @@
 require 'spec_helper'
 
-describe MinistryDocs::BaseParser::ExpectationParser do
-  subject(:parser) { MinistryDocs::BaseParser::ExpectationParser.new }
+describe MinistryDocs::BaseDoc::ExpectationParser do
+  subject(:parser) { MinistryDocs::BaseDoc::ExpectationParser.new }
 
   let(:course_txt) { get_txt 'expectation_parser/course' }
   let(:specific) { get_txt 'expectation_parser/specific' }

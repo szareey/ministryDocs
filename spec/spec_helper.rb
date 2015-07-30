@@ -4,8 +4,8 @@ require 'ministry_docs'
 require 'vcr'
 
 module Helper
-  def get_txt(name)
-    File.read(File.dirname(__FILE__) + "/fixtures/math/#{name}.txt")
+  def get_txt(name, type='math_2007')
+    File.read(File.dirname(__FILE__) + "/fixtures/#{type}/#{name}.txt")
   end
 end
 RSpec.configure do |c|

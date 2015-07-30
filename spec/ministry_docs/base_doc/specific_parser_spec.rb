@@ -1,7 +1,7 @@
 require 'spec_helper'
 
-describe MinistryDocs::BaseParser::SpecificParser do
-  subject(:parser) { MinistryDocs::BaseParser::SpecificParser.new }
+describe MinistryDocs::BaseDoc::SpecificParser do
+  subject(:parser) { MinistryDocs::BaseDoc::SpecificParser.new }
 
   let(:specific) { get_txt 'specific_parser/specific' }
 

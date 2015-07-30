@@ -1,8 +1,8 @@
 module MinistryDocs
-  module BaseParser
+  module BaseDoc
     class ExpectationParser
-      OVERALL = "OVERALL EXPECTATIONS \n"
-      SPECIFIC = "SPECIFIC EXPECTATIONS  \n"
+      OVERALL = /^OVERALL EXPECTATIONS/
+      SPECIFIC = /^SPECIFIC EXPECTATIONS/
 
       attr_writer :specific_parser
 
@@ -27,12 +27,14 @@ module MinistryDocs
       def parse_sections(strat)
         strat = normalize(strat)
 
-        overall = strat.index(OVERALL)
+        strat.index(OVERALL)
+        overall_pos = Regexp.last_match.end(0)
         specific = strat.index(SPECIFIC)
+        specific_pos = Regexp.last_match.end(0)
 
         [
-          parse_shorthand(strat[specific + SPECIFIC.length..-1].strip),
-          parse_overall(strat[overall + OVERALL.length..specific].strip)
+          parse_shorthand(strat[specific_pos..-1].strip),
+          parse_overall(strat[overall_pos..specific].strip)
         ]
       end
 

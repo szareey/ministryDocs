@@ -1,5 +1,5 @@
 module MinistryDocs
-  module BaseParser
+  module BaseDoc
     class SpecificParser
       def parse(content)
         parse_sections(content).collect do |section|

@@ -1,5 +1,5 @@
 module MinistryDocs
-  module BaseParser
+  module BaseDoc
     class StratParser
       attr_writer :expectation_parser
 

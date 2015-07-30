@@ -1,5 +1,5 @@
 module MinistryDocs
-  module BaseParser
+  module BaseDoc
     class CourseParser
       attr_writer :strat_parser
 

@@ -1,8 +1,8 @@
 require 'spec_helper'
 
-describe MinistryDocs::BaseParser::CourseParser do
+describe MinistryDocs::BaseDoc::CourseParser do
   let(:course_txt) { get_txt 'course_parser/course' }
-  subject(:parser) { MinistryDocs::BaseParser::CourseParser.new }
+  subject(:parser) { MinistryDocs::BaseDoc::CourseParser.new }
 
   describe '#parse_courses' do
     let(:courses_section) { get_txt 'courses_section' }
