@@ -11,7 +11,7 @@ module MinistryDocs
             grade: parse_grade(course),
             pre_req: parse_pre_req(course),
             description: parse_description(course),
-            strands: strat_parser.parse(course)
+            strats: strat_parser.parse(course)
           )
         end
       end
