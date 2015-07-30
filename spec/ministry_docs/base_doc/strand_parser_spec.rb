@@ -10,15 +10,15 @@ describe MinistryDocs::BaseDoc::StrandParser do
     let(:parsed) { parser.parse(course_txt).first }
 
     let(:title) { 'CHARACTERISTICS OF FUNCTIONS' }
-    let(:path) { 'A' }
+    let(:part) { 'A' }
     let(:expectation_parser) { spy }
 
     it 'parse title of strat' do
       expect(parsed.title).to eq title
     end
 
-    it 'parse path of strat' do
-      expect(parsed.path).to eq path
+    it 'parse part of strat' do
+      expect(parsed.part).to eq part
     end
 
     it 'parse first strat content right' do

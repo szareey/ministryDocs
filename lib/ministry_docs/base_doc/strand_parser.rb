@@ -8,7 +8,7 @@ module MinistryDocs
           OpenStruct.new(
             expectations: expectation_parser.parse(strat[:content]),
             title:        strat[:title],
-            path:         strat[:path]
+            part:         strat[:part]
           )
         end
       end
@@ -20,7 +20,7 @@ module MinistryDocs
                  .enum_for(:scan, /^([A-Z])\.(.*)$/)
                  .map do |match|
           {
-            path: match[0],
+            part: match[0],
             title: match[1].strip,
             pos: {
               from: Regexp.last_match.begin(0),
@@ -39,7 +39,7 @@ module MinistryDocs
                          strats[index + 1][:pos][:from] - 1
                        end
           {
-            path: strat[:path],
+            part: strat[:part],
             title: strat[:title],
             content: course[strat[:pos][:to]..second_pos].strip
           }

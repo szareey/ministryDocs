@@ -13,7 +13,7 @@ describe MinistryDocs::BaseDoc::ExpectationParser do
 
     let(:title) { 'Representing Functions' }
     let(:description) { 'demonstrate an understanding of functions, their representations, and their inverses, and make connections between the algebraic and graphical representations of functions using transformations' }
-    let(:path) { '1' }
+    let(:part) { '1' }
 
     it 'parse title' do
       expect(parsed.title).to eq title
@@ -23,8 +23,8 @@ describe MinistryDocs::BaseDoc::ExpectationParser do
       expect(parsed.description).to eq description
     end
 
-    it 'parse path' do
-      expect(parsed.path).to eq path
+    it 'parse part' do
+      expect(parsed.part).to eq part
     end
 
     context 'specfifics parsing' do

@@ -12,7 +12,7 @@ module MinistryDocs
           OpenStruct.new(
             title: short[:title],
             description: overall[index][:value],
-            path: short[:path],
+            part: short[:part],
             specifics: specific_parser.parse(short[:content])
           )
         end
@@ -44,7 +44,7 @@ module MinistryDocs
                    .collect do |spec|
           {
             title: spec[2],
-            path:  spec[1],
+            part:  spec[1],
             pos: {
               from: Regexp.last_match.begin(0),
               to: Regexp.last_match.end(0)
@@ -63,7 +63,7 @@ module MinistryDocs
                        end
           {
             title: section[:title].strip,
-            path: section[:path],
+            part: section[:part],
             content: specific[section[:pos][:to]..second_pos].strip
           }
         end
@@ -73,7 +73,7 @@ module MinistryDocs
         list = overall.scan(/^([0-9])\.(.*)$/)
         list.collect do |section|
           {
-            path: section[0],
+            part: section[0],
             value: section[1].strip.chop
           }
         end
