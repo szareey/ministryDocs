@@ -8,6 +8,8 @@ require 'ministry_docs/base_doc/strat_parser'
 require 'ministry_docs/base_doc/specific_parser'
 
 require 'ministry_docs/base'
+
+require 'ministry_docs/math_parser'
 require 'ministry_docs/math_2005_parser'
 require 'ministry_docs/math_2007_parser'
 
