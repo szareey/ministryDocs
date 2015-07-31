@@ -51,8 +51,11 @@ module MinistryDocs
           pos =  Regexp.last_match.end(0)
           strat[pos] = "\nSpecific Expectations\n"
         end
+
         strat.gsub(/\[\*.*\]/, "")
-             .gsub(';*', ';').strip
+             .gsub(';*', ';')
+             .gsub('Investigating Constant Rate of Change', "\nInvestigating Constant Rate of Change\n")
+             .strip
       end
 
       def specific_parser
