@@ -1,9 +1,9 @@
 require 'spec_helper'
-describe MinistryDocs::BaseDoc::DocParser do
-  subject(:parser) { MinistryDocs::BaseDoc::DocParser.new }
-  
-  let(:full_txt) { get_txt 'math1112currb' }
-  let(:courses_section) { get_txt 'courses_section' }
+describe MinistryDocs::Math2005Doc::DocParser do
+  subject(:parser) { MinistryDocs::Math2005Doc::DocParser.new }
+
+  let(:full_txt) { get_txt 'math910curr', 'math_2005' }
+  let(:courses_section) { get_txt 'courses_section', 'math_2005' }
 
   describe '#parse_course' do
     let(:course_parser) { spy }

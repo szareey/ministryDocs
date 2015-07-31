@@ -1,20 +1,20 @@
 module MinistryDocs
   module BaseDoc
-    class DocParser
+    class DocParser < BaseParser
       attr_writer :course_parser
 
       def parse_course(text)
         course_parser.parse(get_courses_section(text))
       end
 
-      private
+      protected
 
       def course_parser
-        @course_parser ||= CourseParser.new
+        raise NotImplementedError
       end
 
-      def get_courses_section(text)
-        text.gsub(/\r/," ").split('COURSES  ')[1]
+      def normlize(text)
+        text.gsub(/\r/," ")
       end
     end
   end

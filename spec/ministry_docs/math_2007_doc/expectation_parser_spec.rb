@@ -1,7 +1,7 @@
 require 'spec_helper'
 
-describe MinistryDocs::BaseDoc::ExpectationParser do
-  subject(:parser) { MinistryDocs::BaseDoc::ExpectationParser.new }
+describe MinistryDocs::Math2007Doc::ExpectationParser do
+  subject(:parser) { MinistryDocs::Math2007Doc::ExpectationParser.new }
 
   let(:course_txt) { get_txt 'expectation_parser/course' }
   let(:specific) { get_txt 'expectation_parser/specific' }
@@ -34,11 +34,11 @@ describe MinistryDocs::BaseDoc::ExpectationParser do
       end
 
       it 'parse first specific right' do
-        expect(specific_parser).to have_received(:parse).with(specific)
+        expect(specific_parser).to have_received(:parse).with(specific, '1')
       end
 
       it 'parse 2nd and more specifics rights' do
-        expect(specific_parser).to have_received(:parse).with(second_specific)
+        expect(specific_parser).to have_received(:parse).with(second_specific, '2')
       end
     end
   end

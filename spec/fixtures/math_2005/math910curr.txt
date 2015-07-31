@@ -1,0 +1,1337 @@
+Ministry of Education
+The Ontario Curriculum
+Grades 9 and 10
+2 0 0 5
+R E V I S E D
+Mathematics
+
+Introduction
+This document replaces The Ontario Curriculum, Grades 9 and 10: Mathematics, 1999. Beginning in September 2005, all Grade 9 and 10 mathematics courses will be based on the expectations outlined in this document. The Place of Mathematics in the Curriculum The unprecedented changes that are taking place in today’s world will profoundly affect the future of today’s students.To meet the demands of the world in which they will live, students will need to adapt to changing conditions and to learn independently.They will require the ability to use technology effectively and the skills for processing large amounts of quantitative information.Today’s mathematics curriculum must prepare students for their future roles in society. It must equip them with essential mathematical knowledge and skills; with skills of reasoning, problem solving, and communication; and, most importantly,with the ability and the incentive to continue learning on their own. This curriculum provides a framework for accomplishing these goals.
+
+The choice of specific concepts and skills to be taught must take into consideration new applications and new ways of doing mathematics. The development of sophisticated yet easy-to-use calculators and computers is changing the role of procedure and technique in mathematics. Operations that were an essential part of a procedures-focused curriculum for decades can now be accomplished quickly and effectively using technology, so that students can now solve problems that were previously too time-consuming to attempt, and can focus on underlying concepts. “In an effective mathematics program, students learn in the presence of technology. Technology should influence the mathematics content taught and how it is taught. Powerful assistive and enabling computer and handheld technologies should be used seamlessly in teaching, learning, and assessment.”1 This curriculum integrates appropriate technologies into the learning and doing of mathematics, while recognizing the continuing importance of students’ mastering essential numeric and algebraic skills.
+
+Mathematical knowledge becomes meaningful and powerful in application. This curriculum embeds the learning of mathematics in the solving of problems based on real-life situations. Other disciplines are a ready source of effective contexts for the study of mathematics. Rich problem-solving situations can be drawn from closely related disciplines, such as computer science, business, recreation, tourism, biology, physics, or technology, as well as from subjects historically thought of as distant from mathematics, such as geography or art. It is important that these links between disciplines be carefully explored, analysed, and discussed to emphasize for students the pervasiveness of mathematical knowledge and mathematical thinking in all subject areas.
+
+1. Expert Panel on Student Success in Ontario, Leading Math Success: Mathematical Literacy, Grades 7–12 – The Report of
+the Expert Panel on Student Success in Ontario, 2004 (Toronto: Ontario Ministry of Education, 2004), p. 47. (Referred to
+hereafter as Leading Math Success.)
+
+The development of mathematical knowledge is a gradual process. A coherent and continuous program is necessary to help students see the “big pictures”, or underlying principles, of mathematics. The fundamentals of important skills, concepts, processes, and attitudes are initiated in the primary grades and fostered through elementary school. The links between Grade 8 and Grade 9 and the transition from elementary school mathematics to secondary school mathematics are very important in the student’s development of confidence and competence.
+
+The Grade 9 courses in this curriculum build on the knowledge of concepts and skills that students are expected to have by the end of Grade 8. The strands used are similar to those of the elementary program,with adjustments made to reflect the new directions mathematics takes in secondary school. The Grade 9 courses are based on principles that are consistent with those that underpin the elementary program, facilitating the transition from elementary school. These courses reflect the belief that students learn mathematics effectively when they are initially given opportunities to investigate ideas and concepts and are then guided carefully into an understanding of the abstract mathematics involved. Skill acquisition is an important part of the program; skills are embedded in the contexts offered by various topics in the mathematics program and should be introduced as they are needed.
+
+The Grade 9 and 10 mathematics curriculum is designed to foster the development of the knowledge and skills students need to succeed in their subsequent mathematics courses, which will prepare them for the postsecondary destinations of their choosing.
+
+Roles and Responsibilities in Mathematics Programs
+
+Students. Students have many responsibilities with regard to their learning in school. Students who make the effort required and who apply themselves will soon discover that there is a direct relationship between this effort and their achievement, and will therefore be more motivated to work. There will be some students, however, who will find it more difficult to take responsibility for their learning because of special challenges they face. For these students, the attention, patience, and encouragement of teachers and family can be extremely important factors for success. However, taking responsibility for one’s progress and learning is an important part of education for all students, regardless of their circumstances.
+
+Successful mastery of concepts and skills in mathematics requires a sincere commitment to work and study. Students are expected to develop strategies and processes that facilitate learning and understanding in mathematics. Students should also be encouraged to actively pursue opportunities to apply their problem-solving skills outside the classroom and to extend and enrich their understanding of mathematics.
+
+Parents. Parents have an important role to play in supporting student learning. Studies show that students perform better in school if their parents or guardians are involved in their education. By becoming familiar with the curriculum, parents can find out what is being taught in the courses their children are taking and what their children are expected to learn. This awareness will enhance parents’ ability to discuss their children’s work with them, to communicate with teachers, and to ask relevant questions about their children’s progress. Knowledge of the expectations in the various courses also helps parents to interpret teachers’ comments on student progress and to work with them to improve student learning.
+
+The mathematics curriculum promotes lifelong learning not only for students but also for their parents and all those with an interest in education. In addition to supporting regular school activities, parents can encourage their sons and daughters to apply their problemsolving skills to other disciplines or to real-world situations. Attending parent-teacher interviews, participating in parent workshops, becoming involved in school council activities (including becoming a school council member), and encouraging students to complete their assignments at home are just a few examples of effective ways to support student learning.
+
+Teachers. Teachers and students have complementary responsibilities.Teachers are responsible for developing appropriate instructional strategies to help students achieve the curriculum expectations for their courses, as well as for developing appropriate methods for assessing and evaluating student learning.Teachers also support students in developing the reading, writing, and oral communication skills needed for success in their mathematics courses.Teachers bring enthusiasm and varied teaching and assessment approaches to the classroom, addressing different student needs and ensuring sound learning opportunities for every student.
+
+Recognizing that students need a solid conceptual foundation in mathematics in order to further develop and apply their knowledge effectively, teachers endeavour to create a classroom environment that engages students’ interest and helps them arrive at the understanding of mathematics that is critical to further learning.
+
+Using a variety of instructional, assessment, and evaluation strategies, teachers provide numerous opportunities for students to develop skills of inquiry, problem solving, and communication as they investigate and learn fundamental concepts. The activities offered should enable students not only to make connections among these concepts throughout the course but also to relate and apply them to relevant societal, environmental, and economic contexts. Opportunities to relate knowledge and skills to these wider contexts – to the goals and concerns of the world in which they live – will motivate students to learn and to become lifelong learners.
+
+Principals. The principal works in partnership with teachers and parents to ensure that each student has access to the best possible educational experience.To support student learning, principals ensure that the Ontario curriculum is being properly implemented in all classrooms using a variety of instructional approaches. They also ensure that appropriate resources are made available for teachers and students.To enhance teaching and learning in all subjects, including mathematics, principals promote learning teams and work with teachers to facilitate participation in professional development. Principals are also responsible for ensuring that every student who has in Individual Education Plan (IEP) is receiving the modifications
+and/or accommodations described in his or her plan – in other words, for ensuring that the IEP is properly developed, implemented, and monitored.
+
+The Program in Mathematics
+
+Overview
+
+The Grade 9 and 10 mathematics program builds on the elementary program, relying on the same fundamental principles on which that program was based. Both are founded on the premise that students learn mathematics most effectively when they have a thorough understanding of mathematical concepts and procedures, and when they build that understanding through an investigative approach, as reflected in the inquiry model of learning. This curriculum is designed to help students build a solid conceptual foundation in mathematics that will enable them to apply their knowledge and skills and further their learning successfully.
+
+Like the elementary curriculum, the secondary curriculum adopts a strong focus on the processes that best enable students to understand mathematical concepts and learn related skills. Attention to the mathematical processes is considered to be essential to a balanced mathematics program. The seven mathematical processes identified in this curriculum are problem solving, reasoning and proving, reflecting, selecting tools and computational  strategies, connecting, representing, and communicating. Each of the Grade 9 and 10 mathematics courses includes a set of expectations – referred to in this document as the “mathematical process expectations” – that outline the knowledge and skills involved in these essential processes. The  mathematical processes apply to student learning in all areas of a mathematics course.
+
+A balanced mathematics program at the secondary level includes the development of algebraic skills. This curriculum has been designed to equip students with the algebraic skills they need to understand other aspects of mathematics that they are learning, to solve meaningful problems, and to continue to meet with success as they study mathematics in the future. The algebraic skills required in each course have been carefully chosen to support the other topics included in the course. Calculators and other appropriate technology will be used when the primary purpose of a given activity is the development of concepts or the solving of problems, or when situations arise in which computation or symbolic manipulation is of secondary importance.
+
+Courses in Grades 9 and 10. The mathematics courses in the Grade 9 and 10 curriculum are offered in two types, academic and applied, which are defined as follows:
+
+Academic courses develop students’ knowledge and skills through the study of theory and abstract problems. These courses focus on the essential concepts of a subject and explore related concepts as well. They incorporate practical applications as appropriate.
+
+Applied courses focus on the essential concepts of a subject, and develop students’ knowledge and skills through practical applications and concrete examples. Familiar situations are used to illustrate ideas, and students are given more opportunities to experience hands-on applications of the concepts and theories they study.
+
+Students who successfully complete the Grade 9 academic course may proceed to either the Grade 10 academic or the Grade 10 applied course. Those who successfully complete the Grade 9 applied course may proceed to the Grade 10 applied course, but must successfully complete a transfer course if they wish to proceed to the Grade 10 academic course. The Grade 10 academic and applied courses prepare students for particular destination-related courses in Grade 11. The Grade 11 and 12 mathematics curriculum offers university preparation, university/college preparation, college preparation, and  workplace preparation courses. When choosing courses in Grades 9 and 10, students, parents, and educators should carefully consider students’ strengths, interests, and needs, as well as their postsecondary goals and the course pathways that will enable them to reach those goals.
+
+School boards may develop locally and offer two mathematics courses – a Grade 9 course and a Grade 10 course – that can be counted as two of the three compulsory credits in mathematics that a student is required to earn in order to obtain the Ontario Secondary School Diploma (see Program/Policy Memorandum No. 134, which outlines a revision to section 7.1.2,“Locally Developed Courses”, of Ontario Secondary Schools,Grades 9 to 12: Program and
+Diploma Requirements, 1999 [OSS]). The locally developed Grade 10 course may be designed to prepare students for success in the Grade 11 workplace preparation course. Ministry approval of the locally developed Grade 10 course would authorize the school board to use it as the prerequisite for that course.
+
+[Page 7 chart omitted]
+
+Half-Credit Courses. The courses outlined in this document are designed to be offered as full-credit courses. However, they may also be delivered as half-credit courses.
+
+Half-credit courses, which require a minimum of fifty-five hours of scheduled instructional time,must adhere to the following conditions:
+
+• The two half-credit courses created from a full course must together contain all of the expectations of the full course. The expectations for each half-credit course must be divided in a manner that best enables students to achieve the required knowledge and skills in the allotted time.
+• A course that is a prerequisite for another course in the secondary curriculum may be offered as two half-credit courses, but students must  successfully complete both parts of the course to fulfil the prerequisite. (Students are not required to complete both parts unless the course is a prerequisite for another course they wish to take.)
+• The title of each half-credit course must include the designation Part 1 or Part 2. A half credit (0.5) will be recorded in the credit-value column of both the report card and the Ontario Student Transcript.
+
+Boards will ensure that all half-credit courses comply with the conditions described above, and will report all half-credit courses to the ministry annually in the School October Report.
+
+Curriculum Expectations
+
+The expectations identified for each course describe the knowledge and skills that students are expected to acquire, demonstrate, and apply in their class work, on tests, and in various other activities on which their achievement is assessed and evaluated.
+
+Two sets of expectations are listed for each strand, or broad curriculum area, of each course.
+
+• The overall expectations describe in general terms the knowledge and skills that students are expected to demonstrate by the end of each course.
+• The specific expectations describe the expected knowledge and skills in greater detail. The specific expectations are arranged under subheadings that reflect particular aspects of the required knowledge and skills and that may serve as a guide for teachers as they plan learning activities for their students. The organization of expectations in subgroupings is not meant to imply that the expectations in any subgroup are achieved independently of the expectations in the other subgroups. The subheadings are used merely to help teachers focus on particular aspects of knowledge and skills as they develop and present various lessons and learning activities for their students.
+
+In addition to the expectations outlined within each strand, a list of seven “mathematical process expectations” precedes the strands in all mathematics courses. These specific expectations describe the knowledge and skills that constitute processes essential to the effective study of mathematics. These processes apply to all areas of course content, and students’ proficiency in applying them must be developed in all strands of a mathematics course. Teachers should ensure that students develop their ability to apply these processes in appropriate ways as they work towards meeting the expectations outlined in the strands.
+
+When developing detailed courses of study from this document, teachers are expected to weave together related expectations from different strands, as well as the relevant process expectations, in order to create an overall program that integrates and balances concept development, skill acquisition, the use of processes, and applications.
+
+Many of the expectations are accompanied by examples and/or sample problems, given in parentheses. These examples and sample problems are meant to illustrate the kind of skill, the specific area of learning, the depth of learning, and/or the level of complexity that the expectation entails. They are intended as a guide for teachers rather than as an exhaustive or mandatory list.Teachers do not have to address the full list of examples or use the sample problems supplied. They might select two or three areas of focus suggested by the examples in the list or they might choose areas of focus that are not represented in the list at all. Similarly, they may incorporate the sample problems into their lessons, or they may use other problems that are relevant to the expectation.
+
+[Page 9 chart omitted]
+
+The strands in the Grade 9 courses are designed to build on those in Grade 8, while at the same time providing for growth in new directions in high school.
+
+The strand Number Sense and Algebra builds on the Grade 8 Number Sense and Numeration strand and parts of the Patterning and Algebra strand. It includes expectations describing numeric skills that students are expected to consolidate and apply, along with estimation and mental computation skills, as they solve problems and learn new material throughout the course. The strand includes the algebraic knowledge and skills necessary for the study and application of relations. In the Principles course, the strand covers the basic exponent rules, manipulation of polynomials with up to two variables, and the solving of first-degree equations. In the Foundations course, it covers operations with polynomials involving one variable and the solving of first-degree equations with non-fractional coefficients. The strand in the Foundations course also includes expectations that follow from the Grade 8 Proportional Reasoning strand, providing an opportunity for students to deepen their understanding of proportional reasoning through investigation of a variety of topics, and providing them with skills that will help them meet the expectations in the Linear Relations strand.
+
+The focus of study in the Grade 9 courses is linear relations, with some attention given to the study of non-linear relations. In the Linear Relations strand, students develop initial understandings of the properties of linear relations as they collect, organize, and interpret data drawn from a variety of real-life situations (applying knowledge gained in the Data Management strand of the elementary school program) and create models for the data. Students then develop, make connections among, and apply various representations of linear relations and solve related problems. In the Analytic Geometry strand of the Principles course, students will extend the initial experiences of linear relations into the abstract realm of equations in the
+form y = mx + b, formulas, and problems.
+
+The strand Measurement and Geometry extends students’ understandings from Grade 8 to include the measurement of composite two-dimensional shapes and the development of formulas for, and applications of, additional three-dimensional figures. Furthermore, in measurement, students investigate the effect of varying dimensions (length and width) on a measure such as area. Students in the Principles course conduct similar investigations in connection with volume and surface area. Examination of such relationships leads students to make conclusions about the optimal size of shapes (in the Foundations course) or of shapes and figures (in the Principles course). In geometry, the knowledge students acquired in Grade 8 about the properties of two-dimensional shapes is extended through investigations that broaden their understanding of the relationships among the properties.
+
+[Page 10 chart omitted]
+
+The strands in the two Grade 10 courses have similarities, but there are significant differences between them in terms of level of abstraction and degree of complexity. Both courses contain the strand Quadratic Relations in the Form y = ax2 + bx + c. The difference between the strand in the Principles course and its counterpart in the Foundations course lies in the greater degree of algebraic treatment required in the Principles course. Both strands involve concrete experiences upon which students build their understanding of the abstract treatment of quadratic relations. In the Foundations course, problem solving relates to the interpretation of graphs that are supplied to students or generated by them using technology. In the Principles course, problem solving involves algebraic manipulation as well as the interpretation of supplied or technologically generated graphs, and students also learn the techniques involved in sketching and graphing quadratics effectively using pencil and paper.
+
+Both Grade 10 courses extend students’ understanding of linear relations through applications (in the Analytic Geometry strand of the Principles course and in the Modelling Linear Relations strand of the Foundations course). Students in the Foundations course begin by extending their knowledge into the abstract realm of equations in the form y = mx + b, formulas, and problems. While students in both courses study and apply linear systems, students in the Principles course solve multi-step problems involving the verification of properties of two-dimensional shapes on the xy-plane. The topic of circles on the xy-plane is introduced in the Principles course as an application of the formula for the length of a line segment.
+
+In both the Trigonometry strand of the Principles course and the Measurement and Trigonometry strand of the Foundations course, students apply trigonometry and the properties of similar triangles to solve problems involving right triangles. Students in the Principles course also solve problems involving acute triangles. Students in the Foundations course begin to study the imperial system of measurement, and apply units of measurement appropriately to problems involving the surface area and volume of three-dimensional figures.
+
+The Mathematical Processes
+
+Presented at the start of every course in this curriculum document is a set of seven expectations that describe the mathematical processes students need to learn and apply as they work to achieve the expectations outlined within the strands of the course. In the 1999 mathematics curriculum, expectations relating to the mathematical processes were embedded within individual strands. The need to highlight these process expectations arose from the recognition that students should be actively engaged in applying these processes throughout the course, rather than in connection with particular strands.
+
+The mathematical processes that support effective learning in mathematics are as follows:
+
+• problem solving
+• reasoning and proving
+• reflecting
+• selecting tools and computational strategies
+• connecting
+• representing
+• communicating
+
+The mathematical processes are interconnected. Problem solving and communicating have strong links to all the other processes. A problem-solving approach encourages students to reason their way to a solution or a new understanding. As students engage in reasoning, teachers further encourage them to make conjectures and justify solutions, orally and in writing.The communication and reflection that occur during and after the process of problem solving help students not only to articulate and refine their thinking but also to see the problem they are solving from different perspectives. This opens the door to recognizing the range of strategies that can be used to arrive at a solution. By seeing how others solve a problem, students can
+begin to think about their own thinking (metacognition) and the thinking of others, and to consciously adjust their own strategies in order to make their solutions as efficient and accurate as possible.
+
+The mathematical processes cannot be separated from the knowledge and skills that students acquire throughout the course. Students must problem solve, communicate, reason, reflect, and so on, as they develop the knowledge, the understanding of concepts, and the skills required in the course.
+
+Problem Solving
+
+Problem solving is central to learning mathematics. It forms the basis of effective mathematics programs and should be the mainstay of mathematical instruction. It is considered an essential process through which students are able to achieve the expectations in mathematics, and is an integral part of the mathematics curriculum in Ontario, for the following reasons. Problem solving:
+
+• is the primary focus and goal of mathematics in the real world;
+• helps students become more confident mathematicians;
+• allows students to use the knowledge they bring to school and helps them connect mathematics with situations outside the classroom;
+• helps students develop mathematical understanding and gives meaning to skills and concepts in all strands;
+• allows students to reason, communicate ideas, make connections, and apply knowledge and skills;
+• offers excellent opportunities for assessing students’ understanding of concepts, ability to solve problems, ability to apply concepts and procedures, and ability to communicate ideas;
+• promotes the collaborative sharing of ideas and strategies, and promotes talking about mathematics;
+• helps students find enjoyment in mathematics;
+• increases opportunities for the use of critical-thinking skills (e.g., estimating, classifying, assuming, recognizing relationships, hypothesizing, offering opinions with reasons, evaluating results, and making judgements).
+
+Not all mathematics instruction, however, can take place in a problem-solving context. Certain aspects of mathematics must be explicitly taught. Conventions, including the use of mathematical symbols and terms, are one such aspect, and they should be introduced to students as needed, to enable them to use the symbolic language of mathematics.
+
+Selecting Problem-Solving Strategies. Problem-solving strategies are methods that can be used successfully to solve problems of various types.Teachers who use relevant and meaningful problem-solving experiences as the focus of their mathematics class help students to develop and extend a repertoire of strategies and methods that they can apply when solving various kinds of problems – instructional problems, routine problems, and non-routine problems.
+Students develop this repertoire over time, as they become more mature in their problemsolving skills. By secondary school, students will have learned many problem-solving strategies that they can flexibly use and integrate when faced with new problem-solving situations, or to learn or reinforce mathematical concepts. Common problem-solving strategies include the following: making a model, picture, or diagram; looking for a pattern; guessing and checking; making assumptions; making an organized list; making a table or chart; making a simpler problem; working backwards; using logical reasoning.
+
+Reasoning and Proving
+
+An emphasis on reasoning helps students make sense of mathematics. Classroom instruction in mathematics should always foster critical thinking – that is, an organized, analytical,wellreasoned approach to learning mathematical concepts and processes and to solving problems.
+
+As students investigate and make conjectures about mathematical concepts and relationships, they learn to employ inductive reasoning, making generalizations based on specific findings from their investigations. Students also learn to use counter-examples to disprove conjectures. Students can use deductive reasoning to assess the validity of conjectures and to formulate proofs.
+
+Reflecting
+
+Good problem solvers regularly and consciously reflect on and monitor their own thought processes. By doing so, they are able to recognize when the technique they are using is not fruitful, and to make a conscious decision to switch to a different strategy, rethink the problem, search for related content knowledge that may be helpful, and so forth. Students’ problemsolving skills are enhanced when they reflect on alternative ways to perform a task even if they have successfully completed it. Reflecting on the reasonableness of an answer by considering the original question or problem is another way in which students can improve their ability to make sense of problems.
+
+Selecting Tools and Computational Strategies
+
+Students need to develop the ability to select the appropriate electronic tools, manipulatives, and computational strategies to perform particular mathematical tasks, to investigate mathematical ideas, and to solve problems.
+
+Calculators, Computers, Communications Technology.Various types of technology are useful in learning and doing mathematics. Students can use calculators and computers to extend their capacity to investigate and analyse mathematical concepts and to reduce the time they might otherwise spend on purely mechanical activities.
+
+Students can use calculators and computers to perform operations, make graphs, manipulate algebraic expressions, and organize and display data that are lengthier or more complex than those addressed in curriculum expectations suited to a paper-and-pencil approach. Students can also use calculators and computers in various ways to investigate number and graphing patterns, geometric relationships, and different representations; to simulate situations; and to extend problem solving. When students use calculators and computers in mathematics, they need to know when it is appropriate to apply their mental computation, reasoning, and estimation skills to predict results and check answers.
+
+The computer and the calculator must be seen as important problem-solving tools to be used for many purposes. Computers and calculators are tools of mathematicians, and students should be given opportunities to select and use the particular applications that may be helpful to them as they search for their own solutions to problems.
+
+Students may not be familiar with the use of some of the technologies suggested in the curriculum. When this is the case, it is important that teachers introduce their use in ways that build students’ confidence and contribute to their understanding of the concepts being investigated. Students also need to understand the situations in which the new technology would be an appropriate choice of tool. Students’ use of the tools should not be laborious or restricted to inputting and learning algorithmic steps. For example, when using spreadsheets and statistical software (e.g., Fathom), teachers could supply students with prepared data sets, and when using dynamic geometry software (e.g.,The Geometer’s Sketchpad), they could use pre-made sketches so that students’work with the software would be focused on manipulation of the data or the sketch, not on the inputting of data or the designing of the sketch.
+
+Computer programs can help students to collect, organize, and sort the data they gather, and to write, edit, and present reports on their findings. Whenever appropriate, students should be encouraged to select and use the communications technology that would best support and communicate their learning. Students,working individually or in groups, can use computers, CD-ROM technology, and/or Internet websites to gain access to Statistics Canada, mathematics organizations, and other valuable sources of mathematical information around the world.
+
+Manipulatives.2 Students should be encouraged to select and use concrete learning tools to make models of mathematical ideas. Students need to understand that making their own models is a powerful means of building understanding and explaining their thinking to others. Using manipulatives to construct representations helps students to:
+
+• see patterns and relationships;
+• make connections between the concrete and the abstract;
+• test, revise, and confirm their reasoning;
+• remember how they solved a problem;
+• communicate their reasoning to others.
+
+Computational Strategies. Problem solving often requires students to select an appropriate computational strategy.They may need to apply the standard algorithm or to use technology for computation. They may also need to select strategies related to mental computation and estimation. Developing the ability to perform mental computation and to estimate is consequently an important aspect of student learning in mathematics.
+
+Mental computation involves calculations done in the mind, with little or no use of paper and pencil. Students who have developed the ability to calculate mentally can select from and use a variety of procedures that take advantage of their knowledge and understanding of numbers, the operations, and their properties. Using their knowledge of the distributive property, for example, students can mentally compute 70% of 22 by first considering 70% of 20 and then adding 70% of 2. Used effectively,mental computation can encourage students to think more deeply about numbers and number relationships.
+
+Knowing how to estimate, and knowing when it is useful to estimate and when it is necessary to have an exact answer, are important mathematical skills. Estimation is a useful tool for judging the reasonableness of a solution and for guiding students in their use of calculators. The ability to estimate depends on a well-developed sense of number and an understanding of place value. It can be a complex skill that requires decomposing numbers, compensating for errors, and perhaps even restructuring the problem. Estimation should not be taught as an isolated skill or a set of isolated rules and techniques. Knowing about calculations that are easy to perform and developing fluency in performing basic operations contribute to successful
+estimation.
+
+Connecting
+
+Experiences that allow students to make connections – to see, for example, how concepts and skills from one strand of mathematics are related to those from another – will help them to grasp general mathematical principles. As they continue to make such connections, students begin to see that mathematics is more than a series of isolated skills and concepts and that they can use their learning in one area of mathematics to understand another. Seeing the relationships among procedures and concepts also helps deepen students’ mathematical understanding.
+
+[2. See the Teaching Approaches section, on page 23 of this document, for additional information about the use of
+manipulatives in mathematics instruction.]
+
+In addition, making connections between the mathematics they study and its applications in their everyday lives helps students see the usefulness and relevance of mathematics beyond the classroom.
+
+Representing
+
+In secondary school mathematics, representing mathematical ideas and modelling situations generally takes the form of numeric, geometric, graphical, algebraic, pictorial, and concrete representation, as well as representation using dynamic software. Students should be able to go from one representation to another, recognize the connections between representations, and use the different representations appropriately and as needed to solve problems. Learning the various forms of representation helps students to understand mathematical concepts and relationships; communicate their thinking, arguments, and understandings; recognize connections among related mathematical concepts; and use mathematics to model and interpret mathematical, physical, and social phenomena. When students are able to represent concepts in various ways, they develop flexibility in their thinking about those concepts. They are not inclined to perceive any single representation as “the math”; rather, they understand that it is just one of many representations that help them understand a concept.
+
+Communicating
+
+Communication is the process of expressing mathematical ideas and understandings orally, visually, and in writing, using numbers, symbols, pictures, graphs, diagrams, and words. Students communicate for various purposes and for different audiences, such as the teacher, a peer, a group of students, or the whole class. Communication is an essential process in learning mathematics. Through communication, students are able to reflect upon and to clarify ideas, relationships, and mathematical arguments.
+
+The development of mathematical language and symbolism fosters students’ communication skills. Teachers need to be aware of the various opportunities that exist in the classroom for helping students to communicate. For example, teachers can:
+
+• model proper use of symbols, vocabulary, and notations in oral and written form;
+• expect correct use of mathematical symbols and conventions in student work;
+• ensure that students are exposed to and use new mathematical vocabulary as it is introduced (e.g., by means of a word wall; by providing opportunities to read, question, and discuss);
+• provide feedback to students on their use of terminology and conventions;
+• ask clarifying and extending questions and encourage students to ask themselves similar kinds of questions;
+• ask students open-ended questions relating to specific topics or information;
+• model ways in which various kinds of questions can be answered.
+
+Effective classroom communication requires a supportive and respectful environment that makes all members of the class comfortable when they speak and when they question, react to, and elaborate on the statements of their classmates and the teacher.
+
+The ability to provide effective explanations, and the understanding and application of correct mathematical notation in the development and presentation of mathematical ideas and solutions, are key aspects of effective communication in mathematics.
+
+Assessment and Evaluation of Student Achievement
+
+Basic Considerations
+
+The primary purpose of assessment and evaluation is to improve student learning. Information gathered through assessment helps teachers to determine students’ strengths and weaknesses in their achievement of the curriculum expectations in each course. This information also serves to guide teachers in adapting curriculum and instructional approaches to students’ needs and in assessing the overall effectiveness of programs and classroom practices.
+
+Assessment is the process of gathering information from a variety of sources (including assignments, demonstrations, projects, performances, and tests) that accurately reflects how well a student is achieving the curriculum expectations in a course. As part of assessment, teachers provide students with descriptive feedback that guides their efforts towards improvement. Evaluation refers to the process of judging the quality of student work on the basis of established criteria, and assigning a value to represent that quality.
+
+Assessment and evaluation will be based on the provincial curriculum expectations and the achievement levels outlined in this document.
+
+In order to ensure that assessment and evaluation are valid and reliable, and that they lead to the improvement of student learning, teachers must use assessment and evaluation strategies that:
+
+• address both what students learn and how well they learn;
+• are based both on the categories of knowledge and skills and on the achievement level descriptions given in the achievement chart on pages 20–21;
+• are varied in nature, administered over a period of time, and designed to provide opportunities for students to demonstrate the full range of their learning;
+• are appropriate for the learning activities used, the purposes of instruction, and the needs and experiences of the students;
+• are fair to all students;
+• accommodate the needs of exceptional students, consistent with the strategies outlined in their Individual Education Plan;
+• accommodate the needs of students who are learning the language of instruction (English or French);
+• ensure that each student is given clear directions for improvement;
+• promote students’ ability to assess their own learning and to set specific goals;
+• include the use of samples of students’work that provide evidence of their achievement;
+• are communicated clearly to students and parents at the beginning of the school year or semester and at other appropriate points throughout the year.
+
+All curriculum expectations must be accounted for in instruction, but evaluation focuses on students’ achievement of the overall expectations. A student’s achievement of the overall expectations is evaluated on the basis of his or her achievement of related specific expectations (including the process expectations). The overall expectations are broad in nature, and the specific expectations define the particular content or scope of the knowledge and skills referred to in the overall expectations.Teachers will use their professional judgement to determine which specific expectations should be used to evaluate achievement of the overall expectations, and which ones will be covered in instruction and assessment (e.g., through direct
+observation) but not necessarily evaluated.
+
+The characteristics given in the achievement chart (pages 20–21) for level 3 represent the “provincial standard” for achievement of the expectations in a course. A complete picture of overall achievement at level 3 in a course in mathematics can be constructed by reading from top to bottom in the shaded column of the achievement chart, headed “70–79% (Level 3)”. Parents of students achieving at level 3 can be confident that their children will be prepared for work in subsequent courses.
+
+Level 1 identifies achievement that falls much below the provincial standard, while still reflecting a passing grade. Level 2 identifies achievement that approaches the standard. Level 4 identifies achievement that surpasses the standard. It should be noted that achievement at level 4 does not mean that the student has achieved expectations beyond those specified for a particular course. It indicates that the student has achieved all or almost all of the expectations for that course, and that he or she demonstrates the ability to use the specified knowledge and skills in more sophisticated ways than a student achieving at level 3.
+
+The Ministry of Education provides teachers with materials that will assist them in improving their assessment methods and strategies and, hence, their assessment of student achievement. These materials include samples of student work (exemplars) that illustrate achievement at each of the four levels.
+
+The Achievement Chart for Mathematics
+
+The achievement chart that follows identifies four categories of knowledge and skills in mathematics. The achievement chart is a standard province-wide guide to be used by teachers. It enables teachers to make judgements about student work that are based on clear performance standards and on a body of evidence collected over time.
+
+The purpose of the achievement chart is to:
+
+• provide a common framework that encompasses the curriculum expectations for all courses outlined in this document;
+• guide the development of quality assessment tasks and tools (including rubrics);
+• help teachers to plan instruction for learning;
+• assist teachers in providing meaningful feedback to students;
+• provide various categories and criteria with which to assess and evaluate student learning.
+
+Categories of knowledge and skills. The categories, defined by clear criteria, represent four broad areas of knowledge and skills within which the expectations for any given mathematics course are organized. The four categories should be considered as interrelated, reflecting the wholeness and interconnectedness of learning.
+
+The categories of knowledge and skills are described as follows:
+
+Knowledge and Understanding. Subject-specific content acquired in each course (knowledge), and the comprehension of its meaning and significance (understanding).
+
+Thinking. The use of critical and creative thinking skills and/or processes,3 as follows:
+
+• planning skills (e.g., understanding the problem, making a plan for solving the problem)
+• processing skills (e.g., carrying out a plan, looking back at the solution)
+• critical/creative thinking processes (e.g., inquiry, problem solving)
+
+Communication. The conveying of meaning through various oral, written, and visual forms (e.g., providing explanations of reasoning or justification of results orally or in writing; communicating mathematical ideas and solutions in writing, using numbers and algebraic symbols, and visually, using pictures, diagrams, charts, tables, graphs, and concrete materials).
+
+Application. The use of knowledge and skills to make connections within and between various contexts.
+
+Teachers will ensure that student work is assessed and/or evaluated in a balanced manner with respect to the four categories, and that achievement of particular expectations is considered within the appropriate categories.
+
+Criteria.Within each category in the achievement chart, criteria are provided, which are subsets of the knowledge and skills that define each category. For example, in Knowledge and Understanding, the criteria are “knowledge of content (e.g., facts, terms, procedural skills, use of tools)” and “understanding of mathematical concepts”. The criteria identify the aspects of student performance that are assessed and/or evaluated, and serve as guides to what to look for.
+
+Descriptors. A “descriptor” indicates the characteristic of the student’s performance, with respect to a particular criterion, on which assessment or evaluation is focused. In the achievement chart, effectiveness is the descriptor used for each criterion in the Thinking, Communication, and Application categories. What constitutes effectiveness in any given performance task will vary with the particular criterion being considered. Assessment of effectiveness may therefore focus on a quality such as appropriateness, clarity, accuracy, precision, logic, relevance, significance, fluency, flexibility, depth, or breadth, as appropriate for the particular criterion. For example, in the Thinking category, assessment of effectiveness might focus on the degree of relevance or depth apparent in an analysis; in the Communication category, on clarity of expression or logical organization of information and ideas; or in the Application category, on appropriateness or breadth in the making of connections. Similarly, in the Knowledge and Understanding category, assessment of knowledge might focus on accuracy, and assessment of understanding might focus on the depth of an explanation. Descriptors help teachers to focus their assessment and evaluation on specific knowledge and skills for each category and criterion,
+and help students to better understand exactly what is being assessed and evaluated.
+
+Qualifiers. A specific “qualifier” is used to define each of the four levels of achievement – that is, limited for level 1, some for level 2, considerable for level 3, and a high degree or thorough for level 4. A qualifier is used along with a descriptor to produce a description of performance at a particular level. For example, the description of a student’s performance at level 3 with respect to the first criterion in the Thinking category would be: “the student uses planning skills with considerable effectiveness”.
+
+The descriptions of the levels of achievement given in the chart should be used to identify the level at which the student has achieved the expectations. In all of their courses, students should be provided with numerous and varied opportunities to demonstrate the full extent of their
+achievement of the curriculum expectations, across all four categories of knowledge and skills.
+
+[3. See the footnote on page 20, pertaining to the mathematical processes.]
+
+[Page 20-21 chart omitted]
+
+Evaluation and Reporting of Student Achievement
+
+Student achievement must be communicated formally to students and parents by means of the Provincial Report Card, Grades 9–12. The report card provides a record of the student’s achievement of the curriculum expectations in every course, at particular points in the school year or semester, in the form of a percentage grade. The percentage grade represents the quality of the student’s overall achievement of the expectations for the course and reflects the corresponding level of achievement as described in the achievement chart for the discipline.
+
+A final grade is recorded for every course, and a credit is granted and recorded for every course in which the student’s grade is 50% or higher. The final grade for each course in Grades 9–12 will be determined as follows:
+
+• Seventy per cent of the grade will be based on evaluations conducted throughout the course.This portion of the grade should reflect the student’s most consistent level of achievement throughout the course, although special consideration should be given to more recent evidence of achievement.
+• Thirty per cent of the grade will be based on a final evaluation in the form of an examination, performance, essay, and/or other method of evaluation suitable to the course content and administered towards the end of the course.
+
+Some Considerations for Program Planning in Mathematics
+
+Teachers who are planning a program in mathematics must take into account considerations in a number of important areas, including those discussed below.
+
+Teaching Approaches
+
+To make new learning more accessible to students, teachers draw upon the knowledge and skills students have acquired in previous years – in other words, they help activate prior knowledge. It is important to assess where students are in their mathematical growth and to bring them forward in their learning.
+
+In order to apply their knowledge effectively and to continue to learn, students must have a solid conceptual foundation in mathematics. Successful classroom practices involve students in activities that require higher-order thinking, with an emphasis on problem solving. Students who have completed the elementary program should have a good grounding in the investigative approach to learning new concepts, including the inquiry model of problem solving,4 and this approach is still fundamental in the Grade 9 and 10 program.
+
+Students in a mathematics class typically demonstrate diversity in the ways they learn best. It is important, therefore, that students have opportunities to learn in a variety of ways – individually, cooperatively, independently, with teacher direction, through hands-on experience, through examples followed by practice. In mathematics, students are required to learn concepts, procedures, and processes and to acquire skills, and they become competent in these various areas with the aid of the instructional and learning strategies best suited to the particular type of learning. The approaches and strategies used in the classroom to help students meet the expectations of this curriculum will vary according to the object of the learning and the needs of the students.
+
+Even at the secondary level, manipulatives are necessary tools for supporting the effective learning of mathematics. These concrete learning tools invite students to explore and represent abstract mathematical ideas in varied, concrete, tactile, and visually rich ways. Manipulatives are also a valuable aid to teachers. By analysing students’ concrete representations of mathematical concepts and listening carefully to their reasoning, teachers can gain useful insights into students’ thinking and provide supports to help enhance their thinking.5
+
+All learning, especially new learning, should be embedded in well-chosen contexts for learning – that is, contexts that are broad enough to allow students to investigate initial understandings, identify and develop relevant supporting skills, and gain experience with varied and interesting applications of the new knowledge. Such rich contexts for learning open the door for students to see the “big ideas” of mathematics – that is, the major underlying principles, such as pattern or relationship. This understanding of key principles will enable and encourage students to use mathematical reasoning throughout their lives.
+
+[4. See the resource document Targeted Implementation & Planning Supports (TIPS): Grade 7, 8, and 9 Applied Mathematics
+(Toronto: Queen’s Printer for Ontario, 2003) for helpful information about the inquiry method of problem solving.]
+[5. A list of manipulatives appropriate for use in intermediate and senior mathematics classrooms is provided in Leading
+Math Success, pages 48–49.]
+
+Promoting Attitudes Conducive to Learning Mathematics. Students’ attitudes have a significant effect on how they approach problem solving and how well they succeed in mathematics. Teachers can help students develop the confidence they need by demonstrating a positive disposition towards mathematics.6 Students need to understand that, for some mathematics problems, there may be several ways to arrive at the correct answer. They also need to believe that they are capable of finding solutions. It is common for people to think that if they cannot solve problems quickly and easily, they must be inadequate.Teachers can help students understand that problem solving of almost any kind often requires a considerable expenditure of time and energy and a good deal of perseverance. Once students have this understanding, teachers can encourage them to develop the willingness to persist, to investigate, to reason and explore alternative solutions, and to take the risks necessary to become successful problem solvers.
+
+Collaborative learning enhances students’ understanding of mathematics.Working cooperatively in groups reduces isolation and provides students with opportunities to share ideas and communicate their thinking in a supportive environment as they work together towards a common goal. Communication and the connections among ideas that emerge as students interact with one another enhance the quality of student learning.7
+
+Planning Mathematics Programs for Exceptional Students
+
+In planning mathematics courses for exceptional students, teachers should begin by examining both the curriculum expectations for the course and the needs of the individual student to determine which of the following options is appropriate for the student:
+
+• no accommodations8 or modifications; or
+• accommodations only; or
+• modified expectations, with the possibility of accommodations.
+
+If the student requires either accommodations or modified expectations, or both, the relevant information, as described in the following paragraphs,must be recorded in his or her Individual Education Plan (IEP). For a detailed discussion of the ministry’s requirements for IEPs, see Individual Education Plans: Standards for Development, Program Planning, and Implementation, 2000 (referred to hereafter as IEP Standards, 2000). More detailed information about planning programs for exceptional students can be found in the Individual Education Plan (IEP): A Resource Guide, 2004. (Both documents are available at http://www.edu.gov.on.ca.)
+
+Students Requiring Accommodations Only.With the aid of accommodations alone, some
+exceptional students are able to participate in the regular course curriculum and to demonstrate
+learning independently. (Accommodations do not alter the provincial curriculum
+expectations for the course.) The accommodations required to facilitate the student’s learning
+must be identified in his or her IEP (see IEP Standards, 2000, page 11). A student’s IEP is
+likely to reflect the same accommodations for many, or all, courses.
+
+[6. Leading Math Success, p. 42.]
+[7. Leading Math Success, p. 42.]
+[8. “Accommodations” refers to individualized teaching and assessment strategies, human supports, and/or individualized equipment.]
+
+There are three types of accommodations. Instructional accommodations are changes in teaching strategies, including styles of presentation, methods of organization, or use of technology and multimedia. Environmental accommodations are changes that the student may require in the classroom and/or school environment, such as preferential seating or special lighting. Assessment accommodations are changes in assessment procedures that enable the student to demonstrate his or her learning, such as allowing additional time to complete tests or assignments or permitting oral responses to test questions (see page14 of IEP Standards, 2000, for more examples).
+
+If a student requires “accommodations only” in mathematics courses, assessment and evaluation of his or her achievement will be based on the appropriate course curriculum expectations and the achievement levels outlined in this document.
+
+Students Requiring Modified Expectations. Some exceptional students will require modified expectations, which differ from the regular course expectations. For most of these students, modified expectations will be based on the regular course curriculum, with changes in the number and/or complexity of the expectations. It is important to monitor, and to reflect clearly in the student’s IEP, the extent to which expectations have been modified. As noted in Section 7.12 of the ministry’s policy document Ontario Secondary Schools,Grades 9 to 12: Program and Diploma Requirements, 1999, the principal will determine whether achievement of the modified expectations constitutes successful completion of the course, and will decide whether the student is eligible to receive a credit for the course. This decision must be communicated to the parents and the student.
+
+When a student is expected to achieve most of the curriculum expectations for the course, the modified expectations should identify how they differ from the course expectations.When modifications are so extensive that achievement of the learning expectations is not likely to result in a credit, the expectations should specify the precise requirements or tasks on which the student’s performance will be evaluated and which will be used to generate the course mark recorded on the Provincial Report Card. Modified expectations indicate the knowledge and/or skills the student is expected to demonstrate and have assessed in each reporting period (IEP Standards, 2000, pages 10 and 11). Modified expectations represent specific, realistic,
+observable, and measurable achievements and describe specific knowledge and/or skills that the student can demonstrate independently, given the appropriate assessment accommodations. The student’s learning expectations must be reviewed in relation to the student’s progress at least once every reporting period, and must be updated as necessary (IEP Standards, 2000, page 11).
+
+If a student requires modified expectations in mathematics courses, assessment and evaluation of his or her achievement will be based on the learning expectations identified in the IEP and on the achievement levels outlined in this document. If some of the student’s learning expectations for a course are modified but the student is working towards a credit for the course, it is sufficient simply to check the IEP box. If, however, the student’s learning expectations are modified to such an extent that the principal deems that a credit will not be granted for the course, the IEP box must be checked and the appropriate statement from Guide to the Provincial Report Card, Grades 9–12, 1999 (page 8) must be inserted. The teacher’s comments should include relevant information on the student’s demonstrated learning of the modified expectations, as well as next steps for the student’s learning in the course.
+
+English As a Second Language and English Literacy Development (ESL/ELD)
+
+Young people whose first language is not English enter Ontario secondary schools with diverse linguistic and cultural backgrounds. Some may have experience of highly sophisticated educational systems while others may have had limited formal schooling. All of these students bring a rich array of background knowledge and experience to the classroom, and all teachers must share in the responsibility for their English-language development.
+
+Teachers of mathematics must incorporate appropriate strategies for instruction and assessment to facilitate the success of the ESL and ELD students in their classrooms. These strategies include:
+
+• modification of some or all of the course expectations, based on the student’s level of English proficiency;
+• use of a variety of instructional strategies (e.g., extensive use of visual cues, manipulatives, pictures, diagrams, graphic organizers; attention to clarity of instructions; modelling of preferred ways of working in mathematics; previewing of textbooks; pre-teaching of key specialized vocabulary; encouragement of peer tutoring and class discussion; strategic use of students’ first languages);
+• use of a variety of learning resources (e.g., visual material, simplified text, bilingual dictionaries, culturally diverse materials);
+• use of assessment accommodations (e.g., granting of extra time; use of alternative forms of assessment, such as oral interviews, learning logs, or portfolios; simplification of language used in problems and instructions).
+
+Students who are no longer taking ESL or ELD courses may still need program adaptations to be successful. If a student requires modified expectations or accommodations in a mathematics course, a checkmark must be placed in the ESL/ELD box on the student’s report card (see Guide to the Provincial Report Card, Grades 9–12, 1999).
+
+For further information on supporting ESL/ELD students, refer to The Ontario Curriculum, Grades 9 to 12: English As a Second Language and English Literacy Development, 1999.
+
+Antidiscrimination Education in Mathematics
+
+To ensure that all students in the province have an equal opportunity to achieve their full potential, the curriculum must be free from bias and all students must be provided with a safe and secure environment, characterized by respect for others, that allows them to participate fully and responsibly in the educational experience.
+
+Learning activities and resources used to implement the curriculum should be inclusive in nature, reflecting the range of experiences of students with varying backgrounds, abilities, interests, and learning styles. They should enable students to become more sensitive to the diverse cultures and perceptions of others, including Aboriginal peoples. For example, activities can be designed to relate concepts in geometry or patterning to the arches and tile work often found in Asian architecture or to the patterns used in Aboriginal basketry design. By discussing aspects of the history of mathematics, teachers can help make students aware of the various cultural groups that have contributed to the evolution of mathematics over the centuries. Finally, students need to recognize that ordinary people use mathematics in a variety of everyday contexts, both at work and in their daily lives.
+
+Connecting mathematical ideas to real-world situations through learning activities can enhance students’ appreciation of the role of mathematics in human affairs, in areas including health, science, and the environment. Students can be made aware of the use of mathematics in contexts such as sampling and surveying and the use of statistics to analyse trends. Recognizing the importance of mathematics in such areas helps motivate students to learn and also provides a foundation for informed, responsible citizenship.
+
+Teachers should have high expectations for all students.To achieve their mathematical potential, however, different students may need different kinds of support. Some boys, for example, may need additional support in developing their literacy skills in order to complete mathematical tasks effectively. For some girls, additional encouragement to envision themselves in careers involving mathematics may be beneficial. For example, teachers might consider providing strong role models in the form of female guest speakers who are mathematicians or who use mathematics in their careers.
+
+Literacy and Inquiry/Research Skills
+
+Literacy skills can play an important role in student success in mathematics courses. Many of the activities and tasks students undertake in math courses involve the use of written, oral, and visual communication skills. For example, students use language to record their observations, to explain their reasoning when solving problems, to describe their inquiries in both informal and formal contexts, and to justify their results in small-group conversations, oral presentations, and written reports. The language of mathematics includes special terminology. The study of mathematics consequently encourages students to use language with greater care and precision and enhances their ability to communicate effectively. The Ministry of Education has facilitated the development of materials to support literacy instruction across the curriculum. Helpful advice for integrating literacy instruction in mathematics courses may be found in the following resource documents:
+
+• Think Literacy: Cross-Curricular Approaches, Grades 7–12, 2003
+• Think Literacy: Cross-Curricular Approaches, Grades 7–12 – Mathematics: Subject-Specific Examples,Grades 7–9, 2004
+
+In all courses in mathematics, students will develop their ability to ask questions and to plan investigations to answer those questions and to solve related problems. Students need to learn a variety of research methods and inquiry approaches in order to carry out these investigations and to solve problems, and they need to be able to select the methods that are most appropriate for a particular inquiry. Students learn how to locate relevant information from a variety of sources, such as statistical databases, newspapers, and reports. As they advance through the grades, students will be expected to use such sources with increasing sophistication. They will also be expected to distinguish between primary and secondary sources, to determine their validity and relevance, and to use them in appropriate ways.
+
+The Role of Technology in Mathematics
+
+Information and communication technology (ICT) provides a range of tools that can significantly extend and enrich teachers’ instructional strategies and support students’ learning in mathematics.Teachers can use ICT tools and resources both for whole-class instruction and to design programs that meet diverse student needs.Technology can help to reduce the time spent on routine mathematical tasks and to allow students to devote more of their efforts to thinking and concept development. Useful ICT tools include simulations,multimedia resources, databases, sites that gave access to large amounts of statistical data, and computer-assisted learning modules.
+
+Applications such as databases, spreadsheets, dynamic geometry software, dynamic statistical software, graphing software, computer algebra systems (CAS),word-processing software, and presentation software can be used to support various methods of inquiry in mathematics. The technology also makes possible simulations of complex systems that can be useful for problemsolving purposes or when field studies on a particular topic are not feasible.
+
+Information and communications technology can also be used in the classroom to connect students to other schools, at home and abroad, and to bring the global community into the local classroom.
+
+Career Education in Mathematics
+
+Teachers can promote students’ awareness of careers involving mathematics by exploring applications of concepts and providing opportunities for career-related project work. Such activities allow students the opportunity to investigate mathematics-related careers compatible with their interests, aspirations, and abilities.
+
+Students should be made aware that mathematical literacy and problem solving are valuable assets in an ever-widening range of jobs and careers in today’s society. The knowledge and skills students acquire in mathematics courses are useful in fields such as science, business, engineering, and computer studies; in the hospitality, recreation, and tourism industries; and in the technical trades.
+
+Health and Safety in Mathematics
+
+Although health and safety issues are not normally associated with mathematics, they may be important when the learning involves fieldwork or investigations based on experimentation. Out-of-school fieldwork can provide an exciting and authentic dimension to students’ learning experiences. It also takes the teacher and students out of the predictable classroom environment and into unfamiliar settings.Teachers must preview and plan activities and expeditions carefully to protect students’ health and safety.
+
+Principles of Mathematics, Grade 9, Academic (MPM1D)
+
+This course enables students to develop an understanding of mathematical concepts related to algebra, analytic geometry, and measurement and geometry through investigation, the effective use of technology, and abstract reasoning. Students will investigate relationships, which they will then generalize as equations of lines, and will determine the connections between different representations of a linear relation. They will also explore relationships that emerge from the measurement of three-dimensional figures and two-dimensional shapes. Students will reason mathematically and communicate their thinking as they solve multi-step problems.
+
+Mathematical process expectations. The mathematical processes are to be integrated into student learning in all areas of this course.
+
+Throughout this course, students will:
+
+PROBLEM SOLVING
+
+• develop, select, apply, and compare a variety of problem-solving strategies as they pose and solve problems and conduct investigations, to help deepen their mathematical understanding;
+
+REASONING AND PROVING
+
+• develop and apply reasoning skills (e.g., recognition of relationships, generalization through inductive reasoning, use of counter-examples) to make mathematical conjectures, assess conjectures, and justify conclusions, and plan and construct organized mathematical arguments;
+
+REFLECTING
+
+• demonstrate that they are reflecting on and monitoring their thinking to help clarify their understanding as they complete an investigation or solve a problem (e.g., by assessing the effectiveness of strategies and processes used, by proposing alternative approaches, by judging the reasonableness of results, by verifying solutions);
+
+SELECTING TOOLS AND COMPUTATIONAL STRATEGIES
+
+• select and use a variety of concrete, visual, and electronic learning tools and appropriate computational strategies to investigate mathematical ideas and to solve problems;
+
+CONNECTING
+
+• make connections among mathematical concepts and procedures, and relate mathematical ideas to situations or phenomena drawn from other contexts (e.g., other curriculum areas, daily life, current events, art and culture, sports);
+
+REPRESENTING
+
+• create a variety of representations of mathematical ideas (e.g., numeric, geometric, algebraic, graphical, pictorial representations; onscreen dynamic representations), connect and compare them, and select and apply the appropriate representations to solve problems;
+
+COMMUNICATING
+
+• communicate mathematical thinking orally, visually, and in writing, using mathematical vocabulary and a variety of appropriate representations, and observing mathematical conventions.
+
+Number Sense and Algebra
+
+
+Overall Expectations
+By the end of this course, students will:
+
+• demonstrate an understanding of the exponent rules of multiplication and division, and apply them to simplify expressions;
+• manipulate numerical and polynomial expressions, and solve first-degree equations.
+
+Specific Expectations
+
+Operating with Exponents
+
+By the end of this course, students will:
+
+– substitute into and evaluate algebraic expressions involving exponents (i.e., evaluate expressions involving natural-number exponents with rational-number bases (Sample problem: A movie theatre wants to compare the volumes of popcorn in two containers, a cube with edge length 8.1 cm and a cylinder
+with radius 4.5 cm and height 8.0 cm. Which container holds more popcorn?);
+– describe the relationship between the algebraic and geometric representations of a single-variable term up to degree three [i.e., length, which is one dimensional, can be represented by x; area, which is two dimensional, can be represented by (x)(x) or x2; volume, which is three dimensional, can be represented by (x)(x)(x), (x2)(x), or x3];
+– derive, through the investigation and examination of patterns, the exponent rules for multiplying and dividing monomials, and apply these rules in expressions involving one and two variables with positive exponents;
+– extend the multiplication rule to derive and understand the power of a power rule, and apply it to simplify expressions involving one and two variables with positive exponents.
+
+Manipulating Expressions and Solving Equations
+
+By the end of this course, students will:
+
+– simplify numerical expressions involving integers and rational numbers, with and without the use of technology;*
+– solve problems requiring the manipulation of expressions arising from applications of percent, ratio, rate, and proportion;*
+– relate their understanding of inverse operations to squaring and taking the square root, and apply inverse operations to simplify expressions and solve equations;
+– add and subtract polynomials with up to two variables [e.g., (2x – 5) + (3x + 1), (3x2y + 2xy2) + (4x2y – 6xy2)], using a variety of tools (e.g., algebra tiles, computer algebra systems, paper and pencil);
+– multiply a polynomial by a monomial involving the same variable [e.g., 2x(x + 4), 2x2(3x2 – 2x + 1)], using a variety of tools (e.g., algebra tiles, diagrams, computer algebra systems, paper and pencil);
+– expand and simplify polynomial expressions involving one variable [e.g., 2x(4x + 1) – 3x(x + 2)], using a variety of tools (e.g., algebra tiles,
+computer algebra systems, paper and pencil);
+
+[*The knowledge and skills described in this expectation are to be introduced as needed and applied and consolidated throughout the course.]
+
+– solve first-degree equations, including equations with fractional coefficients, using a variety of tools (e.g., computer algebra systems, paper and pencil) and strategies (e.g., the balance analogy, algebraic strategies);
+– rearrange formulas involving variables in the first degree, with and without substitution (e.g., in analytic geometry, in measurement) (Sample problem: A circular garden has a circumference of 30 m. What is the length of a straight path that goes through the centre of this garden?);
+– solve problems that can be modelled with first-degree equations, and compare algebraic methods to other solution methods (Sample problem: Solve the following problem in more than one way: Jonah is involved in a walkathon. His goal is to walk 25 km. He begins at 9:00 a.m. and walks at a steady rate of 4 km/h. How many kilometres does he still have left to walk at 1:15 p.m. if he is to achieve his goal?).
+
+Linear Relations
+
+Overall Expectations
+
+By the end of this course, students will:
+
+• apply data-management techniques to investigate relationships between two variables;
+• demonstrate an understanding of the characteristics of a linear relation;
+• connect various representations of a linear relation.
+
+Specific Expectations
+
+Using Data Management to Investigate Relationships
+
+By the end of this course, students will:
+
+– interpret the meanings of points on scatter plots or graphs that represent linear relations, including scatter plots or graphs in more than one quadrant [e.g., on a scatter plot of height versus age, interpret the point (13, 150) as representing a student who is 13 years old and 150 cm tall; identify points on the graph that represent students who are taller and younger than this student] (Sample problem: Given a graph that represents the relationship of the Celsius scale and the Fahrenheit scale, determine the Celsius equivalent of –5°F.);
+– pose problems, identify variables, and formulate hypotheses associated with relationships between two variables (Sample problem: Does the rebound height of a ball depend on the height from which it was dropped?);
+– design and carry out an investigation or experiment involving relationships between two variables, including the collection and organization of data, using appropriate methods, equipment, and/or technology (e.g., surveying; using measuring tools, scientific probes, the Internet) and techniques (e.g.,making tables, drawing graphs) (Sample problem: Design and perform an experiment to measure and record the temperature of ice water in a plastic cup and ice water in a thermal mug over a 30 min period, for the purpose of comparison. What factors might affect the outcome of this experiment? How could you design the experiment to account for them?);
+– describe trends and relationships observed in data, make inferences from data, compare the inferences with hypotheses about the data, and explain any differences between the inferences and the hypotheses (e.g., describe the trend observed in the data. Does a relationship seem to exist? Of what sort? Is the outcome consistent with your hypothesis? Identify and explain any outlying pieces of data. Suggest a formula that relates the variables. How might you vary this experiment to examine other relationships?) (Sample problem: Hypothesize the effect of the length of a pendulum on the time required for the pendulum to make five full swings. Use data to make an inference. Compare the inference with the hypothesis. Are there other relationships you might investigate involving pendulums?).
+
+Understanding Characteristics of Linear Relations
+
+By the end of this course, students will:
+
+– construct tables of values, graphs, and equations, using a variety of tools (e.g., graphing calculators, spreadsheets, graphing software, paper and pencil), to represent linear relations derived from descriptions of realistic situations (Sample problem: Construct a table of values, a graph, and
+an equation to represent a monthly cellphone plan that costs $25, plus $0.10 per minute of airtime.);
+– construct tables of values, scatter plots, and lines or curves of best fit as appropriate, using a variety of tools (e.g., spreadsheets, graphing software, graphing calculators, paper and pencil), for linearly related and non-linearly related data collected from a variety of sources (e.g., experiments, electronic secondary sources, patterning with concrete materials) (Sample problem: Collect data, using concrete materials or dynamic geometry software, and construct a table of values, a scatter plot, and a line or curve of best fit to represent the following relationships: the volume and the height for a square-based prism with a fixed base; the volume and the side length of the base for a square-based prism with a fixed height.);
+– identify, through investigation, some properties of linear relations (i.e., numerically, the first difference is a constant, which represents a constant rate of change; graphically, a straight line represents the relation), and apply these properties to determine whether a relation is linear or non-linear; – compare the properties of direct variation and partial variation in applications, and identify the initial value (e.g., for a relation
+described in words, or represented as a graph or an equation) (Sample problem: Yoga costs $20 for registration, plus $8 per class.Tai chi costs $12 per class. Which situation represents a direct variation, and which represents a partial variation? For each relation, what is the initial value? Explain your answers.);
+– determine the equation of a line of best fit for a scatter plot, using an informal process (e.g., using a movable line in dynamic statistical software; using a process of trial and error on a graphing calculator; determining the equation of the line joining two carefully chosen points on the scatter plot).
+
+Connecting Various Representations of Linear Relations
+
+By the end of this course, students will:
+
+– determine values of a linear relation by using a table of values, by using the equation of the relation, and by interpolating or extrapolating from the graph of the relation (Sample problem: The equation H = 300 – 60t represents the height of a hot air balloon that is initially at 300 m and is descending at a constant rate of 60 m/min. Determine algebraically and graphically how long the balloon will take to reach a height of 160 m.);
+– describe a situation that would explain the events illustrated by a given graph of a relationship between two variables (Sample problem: The walk of an individual is illustrated in the given graph, produced by a motion detector and a graphing calculator. Describe the walk [e.g., the initial distance from the motion detector, the rate of walk].);
+– determine other representations of a linear relation, given one representation (e.g., given a numeric model, determine a graphical model and an algebraic model; given a graph, determine some points on the graph and determine an algebraic model);
+– describe the effects on a linear graph and make the corresponding changes to the linear equation when the conditions of the situation they represent are varied (e.g., given a partial variation graph and an equation representing the cost of producing a yearbook, describe how the graph changes if the cost per book is altered, describe how the graph changes if the fixed costs are altered, and make the corresponding changes to the equation).
+
+Analytic Geometry
+
+Overall Expectations
+
+By the end of this course, students will:
+
+• determine the relationship between the form of an equation and the shape of its graph with respect to linearity and non-linearity;
+• determine, through investigation, the properties of the slope and y-intercept of a linear relation;
+• solve problems involving linear relations.
+
+Specific Expectations
+
+nvestigating the Relationship Between the Equation of a Relation and the Shape of Its Graph
+
+By the end of this course, students will:
+– determine, through investigation, the characteristics that distinguish the equation of a straight line from the equations of nonlinear relations (e.g., use a graphing calculator or graphing software to graph a variety of linear and non-linear relations from their equations; classify the relations according to the shapes of their graphs; connect an equation of degree one to a linear relation);
+– identify, through investigation, the equation of a line in any of the forms y = mx + b, Ax + By + C = 0, x = a, y = b;
+– express the equation of a line in the form y = mx + b, given the form Ax + By + C = 0.
+
+Investigating the Properties of Slope
+
+By the end of this course, students will:
+
+– determine, through investigation, various formulas for the slope of a line segment or a line, and use the formulas to determine the slope of a line segment or a line;
+– identify, through investigation with technology, the geometric significance of m and b in the equation y = mx + b;
+– determine, through investigation, connections among the representations of a constant rate of change of a linear relation (e.g., the cost of producing a book of photographs is $50, plus $5 per book, so an equation is C = 50 + 5p; a table of values provides the first difference of 5; the rate
+of change has a value of 5, which is also the slope of the corresponding line; and 5 is the coefficient of the independent variable, p, in this equation);
+– identify, through investigation, properties of the slopes of lines and line segments (e.g., direction, positive or negative rate of change, steepness, parallelism, perpendicularity), using graphing technology to facilitate investigations, where appropriate.
+
+Using the Properties of Linear Relations to Solve Problems
+
+By the end of this course, students will:
+
+– graph lines by hand, using a variety of techniques
+– determine the equation of a line from information about the line (e.g., the slope and y-intercept; the slope and a point; two points) (Sample problem: Compare the equations of the lines parallel to and perpendicular to y = 2x – 4, and with the same x-intercept as 3x – 4y = 12. Verify
+using dynamic geometry software.);
+– describe the meaning of the slope and y-intercept for a linear relation arising from a realistic situation (e.g., the cost to rent the community gym is $40 per evening, plus $2 per person for equipment rental; the vertical intercept, 40, represents the $40 cost of renting the gym; the value of the rate of change, 2, represents the $2 cost per person), and describe a situation that could be modelled by a given linear equation (e.g., the linear equation M = 50 + 6d could model the mass of a shipping package, including 50 g for the packaging material, plus 6 g per flyer added to the package);
+– identify and explain any restrictions on the variables in a linear relation arising from a realistic situation (e.g., in the relation C = 50 + 25n,C is the cost of holding a party in a hall and n is the number of guests; n is restricted to whole numbers of 100 or less, because of the size of the
+hall, and C is consequently restricted to $50 to $2550);
+– determine graphically the point of intersection of two linear relations, and interpret the intersection point in the context of an application (Sample problem: A video rental company has two monthly plans. Plan A charges a flat fee of $30 for unlimited rentals; Plan B charges $9, plus $3 per video. Use a graphical model to determine the conditions under which you should choose Plan A or Plan B.).
+
+Measurement and Geometry
+
+Overall Expectations
+
+By the end of this course, students will:
+
+• determine, through investigation, the optimal values of various measurements;
+• solve problems involving the measurements of two-dimensional shapes and the surface areas and volumes of three-dimensional figures;
+• verify, through investigation facilitated by dynamic geometry software, geometric properties and relationships involving two-dimensional shapes, and apply the results to solving problems.
+
+Specific Expectations
+
+Investigating the Optimal Values of Measurements
+
+By the end of this course, students will:
+
+– determine the maximum area of a rectangle with a given perimeter by constructing a variety of rectangles, using a variety of tools (e.g., geoboards, graph paper, toothpicks, a pre-made dynamic geometry sketch), and by examining various values of the area as the side lengths change and the perimeter remains constant;
+– determine the minimum perimeter of a rectangle with a given area by constructing a variety of rectangles, using a variety of tools (e.g., geoboards, graph paper, a premade dynamic geometry sketch), and by examining various values of the side lengths and the perimeter as the area stays constant;
+– identify, through investigation with a variety of tools (e.g. concrete materials, computer software), the effect of varying the dimensions on the surface area [or volume] of square-based prisms and cylinders, given a fixed volume [or surface area];
+– explain the significance of optimal area, surface area, or volume in various applications (e.g., the minimum amount of packaging material; the relationship between surface area and heat loss);
+– pose and solve problems involving maximization and minimization of measurements of geometric shapes and figures (e.g., determine the dimensions of the rectangular field with the maximum area that can be enclosed by a fixed amount of fencing, if the fencing is required on only three sides) (Sample problem: Determine the dimensions of a square-based, opentopped prism with a volume of 24 cm3 and with the minimum surface area.).
+
+Solving Problems Involving Perimeter, Area, Surface Area, and Volume
+
+By the end of this course, students will:
+
+– relate the geometric representation of the Pythagorean theorem and the algebraic representation a2 + b2 = c2;
+– solve problems using the Pythagorean theorem, as required in applications (e.g., calculate the height of a cone, given the radius and the slant height, in order to determine the volume of the cone);
+– solve problems involving the areas and perimeters of composite two-dimensional shapes (i.e., combinations of rectangles, triangles, parallelograms, trapezoids, and circles) (Sample problem: A new park is in the shape of an isosceles trapezoid with a square attached to the shortest side. The side lengths of the trapezoidal section are 200 m, 500 m, 500 m, and 800 m, and the side length of the square section is 200 m. If the park is to be fully fenced and sodded, how much fencing and sod are required?);
+– develop, through investigation (e.g., using concrete materials), the formulas for the volume of a pyramid, a cone, and a sphere.
+– determine, through investigation, the relationship for calculating the surface area of a pyramid (e.g., use the net of a squarebased pyramid to determine that the surface area is the area of the square base plus the areas of the four congruent triangles);
+– solve problems involving the surface areas and volumes of prisms, pyramids, cylinders, cones, and spheres, including composite figures (Sample problem: Break-bit Cereal is sold in a single-serving size, in a box in the shape of a rectangular prism of dimensions 5 cm by 4 cm by 10 cm. The manufacturer also sells the cereal in a larger size, in a box with dimensions double those of the smaller box. Compare the surface areas and the volumes of the two boxes, and explain the implications of your answers.).
+
+Investigating and Applying Geometric Relationships
+
+By the end of this course, students will:
+
+– determine, through investigation using a variety of tools (e.g., dynamic geometry software, concrete materials), and describe the properties and relationships of the interior and exterior angles of triangles, quadrilaterals, and other polygons, and apply the results to problems involving the
+angles of polygons (Sample problem:With the assistance of dynamic geometry software, determine the relationship between the sum of the interior angles of a polygon and the number of sides. Use your conclusion to determine the sum of the interior angles of a 20-sided polygon.);
+– determine, through investigation using a variety of tools (e.g., dynamic geometry software, paper folding), and describe some properties of polygons (e.g., the figure that results from joining the midpoints of the sides of a quadrilateral is a parallelogram; the diagonals of a rectangle bisect each other; the line segment joining the midpoints of two sides of a triangle is half the length of the third side), and apply the results in problem solving (e.g., given the width of the base of an A-frame tree house, determine the length of a horizontal support beam that is attached half way up the sloping sides);
+– pose questions about geometric relationships, investigate them, and present their findings, using a variety of mathematical forms (e.g., written explanations, diagrams, dynamic sketches, formulas, tables) (Sample problem: How many diagonals can be drawn from one vertex of a 20-sided polygon? How can I find out without counting them?);
+– illustrate a statement about a geometric property by demonstrating the statement with multiple examples, or deny the statement on the basis of a counter-example, with or without the use of dynamic geometry software (Sample problem: Confirm or deny the following statement: If a quadrilateral has perpendicular diagonals, then it is a square.).
+
+Foundations of Mathematics, Grade 9, Applied (MFM1P)
+
+This course enables students to develop an understanding of mathematical concepts related to introductory algebra, proportional reasoning, and measurement and geometry through investigation, the effective use of technology, and hands-on activities. Students will investigate real-life examples to develop various representations of linear relations, and will determine the connections between the representations. They will also explore certain relationships that emerge from the measurement of three-dimensional figures and two-dimensional shapes. Students will consolidate their mathematical skills as they solve problems and communicate their thinking.
+
+Mathematical process expectations. The mathematical processes are to be integrated into student learning in all areas of this course.
+
+Throughout this course, students will:
+
+PROBLEM SOLVING
+
+• develop, select, apply, and compare a variety of problem-solving strategies as they pose and solve problems and conduct investigations, to help deepen their mathematical understanding;
+
+REASONING AND PROVING
+
+• develop and apply reasoning skills (e.g., recognition of relationships, generalization through inductive reasoning, use of counter-examples) to make mathematical conjectures, assess conjectures, and justify conclusions, and plan and construct organized mathematical arguments;
+
+REFLECTING
+
+• demonstrate that they are reflecting on and monitoring their thinking to help clarify their understanding as they complete an investigation or solve a problem (e.g., by assessing the effectiveness of strategies and processes used, by proposing alternative approaches, by judging the reasonableness of results, by verifying solutions);
+
+SELECTING TOOLS AND COMPUTATIONAL STRATEGIES
+
+• select and use a variety of concrete, visual, and electronic learning tools and appropriate computational strategies to investigate mathematical ideas and to solve problems;
+
+
+CONNECTING
+
+• make connections among mathematical concepts and procedures, and relate mathematical ideas to situations or phenomena drawn from other contexts (e.g., other curriculum areas, daily life, current events, art and culture, sports);
+
+REPRESENTING 
+
+• create a variety of representations of mathematical ideas (e.g., numeric, geometric, algebraic, graphical, pictorial representations; onscreen dynamic representations), connect and compare them, and select and apply the appropriate representations to solve problems;
+
+COMMUNICATING
+
+• communicate mathematical thinking orally, visually, and in writing, using mathematical vocabulary and a variety of appropriate representations, and observing mathematical conventions.
+
+Number Sense and Algebra
+
+Overall Expectations
+
+By the end of this course, students will:
+
+• solve problems involving proportional reasoning;
+• simplify numerical and polynomial expressions in one variable, and solve simple first-degree equations.
+
+Specific Expectations
+
+Solving Problems Involving Proportional Reasoning
+
+By the end of this course, students will:
+
+– illustrate equivalent ratios, using a variety of tools (e.g., concrete materials, diagrams, dynamic geometry software) (e.g., show that 4:6 represents the same ratio as 2:3 by showing that a ramp with a height of 4 m and a base of 6 m and a ramp with a height of 2 m and a base of 3 m are
+equally steep);
+– represent, using equivalent ratios and proportions, directly proportional relationships arising from realistic situations (Sample problem:You are building a skateboard ramp whose ratio of height to base must be 2:3.Write a proportion that could be used to determine the base if the height is
+4.5 m.);
+– solve for the unknown value in a proportion, using a variety of methods (e.g., concrete materials, algebraic reasoning, equivalent ratios, constant of proportionality) (Sample problem: Solve x/4 = 15/20);
+– make comparisons using unit rates (e.g., if 500 mL of juice costs $2.29, the unit rate is 0.458ў/mL; this unit rate is less than for 750 mL of juice at $3.59, which has a unit rate of 0.479ў/mL);
+– solve problems involving ratios, rates, and directly proportional relationships in various contexts (e.g., currency conversions, scale drawings, measurement), using a variety of methods (e.g., using algebraic reasoning, equivalent ratios, a constant of proportionality; using dynamic geometry
+software to construct and measure scale drawings) (Sample problem: Simple interest is directly proportional to the amount invested. If Luis invests $84 for one year and earns $1.26 in interest, how much would he earn in interest if he invested $235 for one year?);
+– solve problems requiring the expression of percents, fractions, and decimals in their equivalent forms (e.g., calculating simple interest and sales tax; analysing data) (Sample problem: Of the 29 students in a Grade 9 math class, 13 are taking science this semester. If this class is representative
+of all the Grade 9 students in the school, estimate and calculate the percent of the 236 Grade 9 students who are taking science this semester. Estimate and calculate the number of Grade 9 students this percent represents.).
+
+Simplifying Expressions and Solving Equations
+
+By the end of this course, students will:
+
+– simplify numerical expressions involving integers and rational numbers, with and without the use of technology;*
+– relate their understanding of inverse operations to squaring and taking the square root, and apply inverse operations to simplify expressions and solve equations;
+
+[*The knowledge and skills described in this expectation are to be introduced as needed and applied and consolidated throughout the course.]
+
+– describe the relationship between the algebraic and geometric representations of a single-variable term up to degree three [i.e., length, which is one dimensional, can be represented by x; area, which is two dimensional, can be represented by (x)(x) or x2; volume, which is three dimensional,
+can be represented by (x)(x)(x), (x2)(x), or x3];
+– substitute into and evaluate algebraic expressions involving exponents (i.e., evaluate expressions involving natural-number exponents with rational-number bases) (Sample problem: A movie theatre wants to compare the volumes of popcorn in two containers, a cube with edge length 8.1 cm and a cylinder
+with radius 4.5 cm and height 8.0 cm. Which container holds more popcorn?);*
+– add and subtract polynomials involving the same variable up to degree three [e.g., (2x + 1) + (x2 – 3x + 4)], using a variety of tools (e.g., algebra tiles, computer algebra systems, paper and pencil);
+– multiply a polynomial by a monomial involving the same variable to give results up to degree three [e.g., (2x)(3x), 2x(x + 3)], using a variety of tools (e.g., algebra tiles, drawings, computer algebra systems, paper and pencil);
+– solve first-degree equations with nonfractional coefficients, using a variety of tools (e.g., computer algebra systems, paper and pencil) and strategies (e.g., the balance analogy, algebraic strategies) (Sample problem: Solve 2x + 7 = 6x – 1 using the balance analogy.);
+– substitute into algebraic equations and solve for one variable in the first degree (e.g., in relationships, in measurement) (Sample problem: The perimeter of a rectangle can be represented as P = 2l + 2w. If the perimeter of a rectangle is 59 cm and the width is 12 cm, determine the length.).
+
+[*The knowledge and skills described in this expectation are to be introduced as needed and applied and consolidated throughout the course.]
+
+
+Linear Relations
+
+Overall Expectations
+
+By the end of this course, students will:
+
+• apply data-management techniques to investigate relationships between two variables;
+• determine the characteristics of linear relations;
+• demonstrate an understanding of constant rate of change and its connection to linear relations;
+• connect various representations of a linear relation, and solve problems using the representations.
+
+Specific Expectations
+
+Using Data Management to Investigate Relationships
+
+By the end of this course, students will:
+
+– interpret the meanings of points on scatter plots or graphs that represent linear relations, including scatter plots or graphs in more than one quadrant [e.g., on a scatter plot of height versus age, interpret the point (13, 150) as representing a student who is 13 years old and 150 cm tall; identify points on the graph that represent students who are taller and younger than this student] (Sample problem: Given a graph that represents the relationship of the Celsius scale and the Fahrenheit scale, determine the Celsius equivalent of –5°F.);
+– pose problems, identify variables, and formulate hypotheses associated with relationships between two variables (Sample problem: Does the rebound height of a ball depend on the height from which it was dropped?);
+– carry out an investigation or experiment involving relationships between two variables, including the collection and organization of data, using appropriate methods, equipment, and/or technology (e.g., surveying; using measuring tools, scientific probes, the Internet) and techniques (e.g.,making tables, drawing graphs) (Sample problem: Perform an experiment to measure and record the temperature of ice water in a plastic cup and ice water in a thermal mug over a 30 min period, for the purpose of comparison. What factors might affect the outcome of this experiment? How could you change the experiment to account for them?);
+– describe trends and relationships observed in data, make inferences from data, compare the inferences with hypotheses about the data, and explain any differences between the inferences and the hypotheses (e.g., describe the trend observed in the data. Does a relationship seem to exist? Of what sort? Is the outcome consistent with your hypothesis? Identify and explain any outlying pieces of data. Suggest a formula that relates the variables. How  might you vary this experiment to examine other relationships?) (Sample problem: Hypothesize the effect of the length of a pendulum on the time required for the pendulum to make five full swings. Use data to make an inference. Compare the inference with the hypothesis. Are there other relationships you might investigate involving pendulums?).
+
+Determining Characteristics of Linear Relations
+
+By the end of this course, students will:
+
+– construct tables of values and graphs, using a variety of tools (e.g., graphing calculators, spreadsheets, graphing software, paper and pencil), to represent linear relations derived from descriptions of realistic situations (Sample problem: Construct a table of values and a graph to represent a
+monthly cellphone plan that costs $25, plus $0.10 per minute of airtime.);
+– construct tables of values, scatter plots, and lines or curves of best fit as appropriate, using a variety of tools (e.g., spreadsheets, graphing software, graphing calculators, paper and pencil), for linearly related and non-linearly related data collected from a variety of sources (e.g.,  experiments, electronic secondary sources, patterning with concrete materials) (Sample problem: Collect data, using concrete materials or dynamic geometry software, and construct a table of values, a scatter plot, and a line or curve of best fit to represent the following relationships: the volume and the height for a square-based prism with a fixed base; the volume and the side length of the base for a square-based prism with a fixed height.);
+– identify, through investigation, some properties of linear relations (i.e., numerically, the first difference is a constant, which represents a constant rate of change; graphically, a straight line represents the relation), and apply these properties to determine whether a relation is linear or
+non-linear. Investigating Constant Rate of Change By the end of this course, students will:
+– determine, through investigation, that the rate of change of a linear relation can be found by choosing any two points on the line that represents the relation, finding the vertical change between the points (i.e., the rise) and the horizontal change between the points (i.e., the run), and writing the ratio rise/run  (i.e., rate of change = rise/run);
+– determine, through investigation, connections among the representations of a constant rate of change of a linear relation (e.g., the cost of producing a book of photographs is $50, plus $5 per book, so an equation is C = 50 + 5p; a table of values provides the first difference of 5; the
+rate of change has a value of 5; and 5 is the coefficient of the independent variable, p, in this equation);
+– compare the properties of direct variation and partial variation in applications, and identify the initial value (e.g., for a relation described in words, or represented as a graph or an equation) (Sample problem: Yoga costs $20 for registration, plus $8 per class.Tai chi costs $12 per class. Which
+situation represents a direct variation, and which represents a partial variation? For each relation, what is the initial value? Explain your answers.);
+– express a linear relation as an equation in two variables, using the rate of change and the initial value (e.g., Mei is raising funds in a charity walkathon; the course measures 25 km, and Mei walks at a steady pace of 4 km/h; the distance she has left to walk can be expressed as d = 25 – 4t,
+where t is the number of hours since she started the walk);
+– describe the meaning of the rate of change and the initial value for a linear relation arising from a realistic situation (e.g., the cost to rent the community gym is $40 per evening, plus $2 per person for equipment rental; the vertical intercept, 40, represents the $40 cost of renting the gym; the value of the rate of change, 2, represents the $2 cost per person), and describe a situation that could be modelled by a given linear equation (e.g., the linear equation M = 50 + 6d could model the mass of a shipping package, including 50 g for the packaging material, plus 6 g per flyer added to the package).
+
+Connecting Various Representations of Linear Relations and Solving Problems Using the Representations
+
+By the end of this course, students will:
+
+– determine values of a linear relation by using a table of values, by using the equation of the relation, and by interpolating or extrapolating from the graph of the relation (Sample problem: The equation H = 300 – 60t represents the height of a hot air balloon that is initially at 300 m and is descending at a constant rate of 60 m/min. Determine algebraically and graphically its height after 3.5 min.);
+– describe a situation that would explain the events illustrated by a given graph of a relationship between two variables (Sample problem: The walk of an individual is illustrated in the given graph, produced by a motion detector and a graphing calculator. Describe the walk [e.g., the initial distance from the motion detector, the rate of walk].);
+– determine other representations of a linear relation arising from a realistic situation, given one representation (e.g., given a numeric model, determine a graphical model and an algebraic model; given a graph, determine some points on the graph and determine an algebraic model);
+– solve problems that can be modelled with first-degree equations, and compare the algebraic method to other solution methods (e.g., graphing) (Sample problem: Bill noticed it snowing and measured that 5 cm of snow had already fallen. During the next hour, an additional 1.5 cm of snow fell. If it continues to snow at this rate, how many more hours will it take until a total of 12.5 cm of snow has accumulated?);
+– describe the effects on a linear graph and make the corresponding changes to the linear equation when the conditions ofthe situation they represent are varied (e.g., given a partial variation graph and an equation representing the cost of producing a yearbook, describe how the graph changes if the cost per book is altered, describe how the graph changes if the fixed costs are altered, and make the corresponding changes to the equation);
+– determine graphically the point of intersection of two linear relations, and interpret the intersection point in the context of an application (Sample problem: A video rental company has two monthly plans. Plan A charges a flat fee of $30 for unlimited rentals; Plan B charges $9, plus $3 per video. Use a graphical model to determine the conditions under which you should choose Plan A or Plan B.);
+– select a topic involving a two-variable relationship (e.g., the amount of your pay cheque and the number of hours you work; trends in sports salaries over time; the time required to cool a cup of coffee), pose a question on the topic, collect data to answer the question, and present its solution using appropriate representations of the data (Sample problem: Individually or in a small group, collect data on the cost compared to the capacity of computer hard drives. Present the data numerically, graphically, and [if linear] algebraically. Describe the results and any trends orally or by making a poster display or by using presentation software.).
+
+
+Measurement and Geometry
+
+Overall Expectations
+
+By the end of this course, students will:
+
+• determine, through investigation, the optimal values of various measurements of rectangles;
+• solve problems involving the measurements of two-dimensional shapes and the volumes of three-dimensional figures;
+• determine, through investigation facilitated by dynamic geometry software, geometric properties and relationships involving two-dimensional shapes, and apply the results to solving problems.
+
+Specific Expectations
+
+Investigating the Optimal Values of Measurements of Rectangles
+
+By the end of this course, students will:
+
+– determine the maximum area of a rectangle with a given perimeter by constructing a variety of rectangles, using a variety of tools (e.g., geoboards, graph paper, toothpicks, a pre-made dynamic geometry sketch), and by examining various values of the area as the side lengths change and the perimeter remains constant;
+– determine the minimum perimeter of a rectangle with a given area by constructing a variety of rectangles, using a variety of tools (e.g., geoboards, graph paper, a premade dynamic geometry sketch), and by examining various values of the side lengths and the perimeter as the area stays constant;
+– solve problems that require maximizing the area of a rectangle for a fixed perimeter or minimizing the perimeter of a rectangle for a fixed area (Sample problem:You have 100 m of fence to enclose a rectangular area to be used for a snow sculpture competition. One side of the area is bounded
+by the school, so the fence is required for only three sides of the rectangle. Determine the dimensions of the maximum area that can be enclosed.).
+
+Solving Problems Involving Perimeter, Area, and Volume
+
+By the end of this course, students will:
+
+– relate the geometric representation of the Pythagorean theorem to the algebraic representation a2 + b2 = c2;
+– solve problems using the Pythagorean theorem, as required in applications (e.g., calculate the height of a cone, given the radius and the slant height, in order to determine the volume of the cone);
+– solve problems involving the areas and perimeters of composite two-dimensional shapes (i.e., combinations of rectangles, triangles, parallelograms, trapezoids, and circles) (Sample problem: A new park is in the shape of an isosceles trapezoid with a square attached to the shortest side.The side lengths of the trapezoidal section are 200 m, 500 m, 500 m, and 800 m, and the side length of the square section is 200 m. If the park is to be fully fenced and sodded, how much fencing and sod are required?);
+– develop, through investigation (e.g., using concrete materials), the formulas for the volume of a pyramid, a cone, and a sphere
+– solve problems involving the volumes of prisms, pyramids, cylinders, cones, and spheres (Sample problem: Break-bit Cereal is sold in a single-serving size, in a box in the shape of a rectangular prism of dimensions 5 cm by 4 cm by 10 cm. The manufacturer also sells the cereal in a larger size, in a box with dimensions double those of the smaller box. Make a hypothesis about the effect on the volume of doubling the dimensions.Test your hypothesis using the volumes of the two boxes, and discuss the result.).
+
+Investigating and Applying Geometric Relationships
+
+By the end of this course, students will:
+
+– determine, through investigation using a variety of tools (e.g., dynamic geometry software, concrete materials), and describe the properties and relationships of the interior and exterior angles of triangles, quadrilaterals, and other polygons, and apply the results to problems involving the
+angles of polygons (Sample problem:With the assistance of dynamic geometry software, determine the relationship between the sum of the interior angles of a polygon and the number of sides. Use your conclusion to determine the sum of the interior angles of a 20-sided polygon.);
+– determine, through investigation using a variety of tools (e.g., dynamic geometry software, concrete materials), and describe the properties and relationships of the angles formed by parallel lines cut by a transversal, and apply the results to problems involving parallel lines (e.g., given a diagram of a rectangular gate with a supporting diagonal beam, and given the measure of one angle in the diagram, use the angle properties of triangles and parallel lines to determine the measures of the other angles in the diagram);
+– create an original dynamic sketch, paperfolding design, or other illustration that incorporates some of the geometric properties from this section, or find and report on some real-life application(s) (e.g., in carpentry, sports, architecture) of the geometric properties.
+
+
+Principles of Mathematics, Grade 10, Academic (MPM2D)
+
+This course enables students to broaden their understanding of relationships and extend their problem-solving and algebraic skills through investigation, the effective use of technology, and abstract reasoning. Students will explore quadratic relations and their applications; solve and apply linear systems; verify properties of geometric figures using analytic geometry; and investigate the trigonometry of right and acute triangles. Students will reason mathematically and communicate their thinking as they solve multi-step problems.
+
+Mathematical process expectations. The mathematical processes are to be integrated into student learning in all areas of this course.
+
+Throughout this course, students will:
+
+PROBLEM SOLVING
+
+• develop, select, apply, and compare a variety of problem-solving strategies as they pose and solve problems and conduct investigations, to help deepen their mathematical understanding;
+
+REASONING AND PROVING
+
+• develop and apply reasoning skills (e.g., recognition of relationships, generalization through inductive reasoning, use of counter-examples) to make mathematical conjectures, assess conjectures, and justify conclusions, and plan and construct organized mathematical arguments;
+
+REFLECTING
+
+• demonstrate that they are reflecting on and monitoring their thinking to help clarify their understanding as they complete an investigation or solve a problem (e.g., by assessing the effectiveness of strategies and processes used, by proposing alternative approaches, by judging the reasonableness of results, by verifying solutions);
+
+SELECTING TOOLS AND COMPUTATIONAL STRATEGIES
+
+• select and use a variety of concrete, visual, and electronic learning tools and appropriate computational strategies to investigate mathematical ideas and to solve problems;
+
+CONNECTING
+
+• make connections among mathematical concepts and procedures, and relate mathematical ideas to situations or phenomena drawn from other contexts (e.g., other curriculum areas, daily life, current events, art and culture, sports);
+
+REPRESENTING
+
+• create a variety of representations of mathematical ideas (e.g., numeric, geometric, algebraic, graphical, pictorial representations; onscreen dynamic representations), connect and compare them, and select and apply the appropriate representations to solve problems;
+
+COMMUNICATING
+
+• communicate mathematical thinking orally, visually, and in writing, using mathematical vocabulary and a variety of appropriate representations, and observing mathematical conventions.
+
+
+Quadratic Relations of the Form y ax2 + bx + c
+
+Overall Expectations
+
+By the end of this course, students will:
+
+• determine the basic properties of quadratic relations;
+• relate transformations of the graph of y = x2 to the algebraic representation y = a(x – h)2 + k;
+• solve quadratic equations and interpret the solutions with respect to the corresponding relations;
+• solve problems involving quadratic relations.
+
+Specific Expectations
+
+Investigating the Basic Properties of Quadratic Relations
+
+By the end of this course, students will:
+
+– collect data that can be represented as a quadratic relation, from experiments using appropriate equipment and technology (e.g., concrete materials, scientific probes, graphing calculators), or from secondary sources (e.g., the Internet, Statistics Canada); graph the data and draw a curve of best fit, if appropriate, with or without the use of technology (Sample problem: Make a 1 m ramp that makes a 15° angle with the floor. Place a can 30 cm up the ramp. Record the time it takes for the can to roll to the bottom. Repeat by placing the can 40 cm, 50 cm, and 60 cm up the ramp, and so on. Graph the data and draw the curve of best fit.);
+– determine, through investigation with and without the use of technology, that a quadratic relation of the form y = ax2 + bx + c (a ? 0) can be graphically represented as a parabola, and that the table of values yields a constant second difference (Sample problem: Graph the relation y = x2 – 4x by developing a table of values and plotting points. Observe the shape of the graph. Calculate first and second differences. Repeat for different
+quadratic relations. Describe your observations and make conclusions, using the appropriate terminology.);
+– identify the key features of a graph of a parabola (i.e., the equation of the axis of symmetry, the coordinates of the vertex, the y-intercept, the zeros, and the maximum or minimum value), and use the appropriate terminology to describe them;
+– compare, through investigation using technology, the features of the graph of y = x2 and the graph of y = 2x, and determine the meaning of a negative exponent and of zero as an exponent (e.g., by examining patterns in a table of values for y = 2x; by applying the exponent rules for multiplication
+and division).
+
+Relating the Graph of y=x2 and Its Transformations
+
+By the end of this course, students will:
+
+– identify, through investigation using technology, the effect on the graph of y = x2 of transformations (i.e., translations, reflections in the x-axis, vertical stretches or compressions) by considering separately each parameter a, h, and k [i.e., investigate the effect on the graph of y = x2 of a, h, and k in y = x2 + k, y = (x – h)2, and y = ax2];
+– explain the roles of a, h, and k in y = a(x – h )2 + k, using the appropriate terminology to describe the transformations, and identify the vertex and the equation of the axis of symmetry;
+– sketch, by hand, the graph of y = a(x – h )2 + k by applying transformations to the graph of y = x2
+– determine the equation, in the form y = a(x – h)2 + k, of a given graph of a parabola.
+
+Solving Quadratic Equations
+
+By the end of this course, students will:
+
+– expand and simplify second-degree polynomial expressions [e.g., (2x + 5)2, (2x – y)(x + 3y)], using a variety of tools (e.g., algebra tiles, diagrams, computer algebra systems, paper and pencil) and strategies (e.g., patterning);
+– factor polynomial expressions involving common factors, trinomials, and differences of squares [e.g., 2x2 + 4x, 2x – 2y + ax – ay, x2 – x – 6,
+2a2 + 11a + 5, 4x2 – 25], using a variety of tools (e.g., concrete materials, computer algebra systems, paper and pencil) and strategies (e.g., patterning);
+– determine, through investigation, and describe the connection between the factors of a quadratic expression and the x-intercepts (i.e., the zeros) of the graph of the corresponding quadratic relation, expressed in the form y = a(x – r)(x – s);
+– interpret real and non-real roots of quadratic equations, through investigation using graphing technology, and relate the roots to the x-intercepts of the corresponding relations;
+– express y = ax2 + bx + c in the form y = a(x – h)2 + k by completing the square in situations involving no fractions, using a variety of tools (e.g. concrete materials, diagrams, paper and pencil);
+– sketch or graph a quadratic relation whose equation is given in the form y = ax2 + bx + c, using a variety of methods (e.g., sketching y = x2 – 2x – 8 using intercepts and symmetry; sketching y = 3x2 – 12x + 1 by completing the square and applying transformations; graphing h = –4.9t2 + 50t + 1.5 using technology);
+– explore the algebraic development of the quadratic formula (e.g., given the algebraic development, connect the steps to a numerical example; follow a demonstration of the algebraic development [student reproduction of the development of the general case is not required]);
+– solve quadratic equations that have real roots, using a variety of methods (i.e., factoring, using the quadratic formula, graphing) (Sample problem: Solve x2 + 10x + 16 = 0 by factoring, and verify algebraically. Solve x2 + x – 4 = 0 using the quadratic formula, and verify graphically using technology. Solve –4.9t2 + 50t + 1.5 = 0 by graphing h = –4.9t2 + 50t + 1.5 using technology.).
+
+Solving Problems Involving Quadratic Relations
+
+By the end of this course, students will:
+
+– determine the zeros and the maximum or minimum value of a quadratic relation from its graph (i.e., using graphing calculators or graphing software) or from its defining equation (i.e., by applying algebraic techniques);
+– solve problems arising from a realistic situation represented by a graph or an equation of a quadratic relation, with and without the use of technology (e.g., given the graph or the equation of a quadratic relation representing the height of a ball over elapsed time, answer questions such
+as the following: What is the maximum height of the ball? After what length of time will the ball hit the ground? Over what time interval is the height of the ball greater than 3 m?).
+
+Analytic Geometry
+
+Overall Expectations
+
+By the end of this course, students will:
+• model and solve problems involving the intersection of two straight lines;
+• solve problems using analytic geometry involving properties of lines and line segments;
+• verify geometric properties of triangles and quadrilaterals, using analytic geometry.Specific Expectations
+
+Using Linear Systems to Solve Problems
+
+By the end of this course, students will:
+
+– solve systems of two linear equations involving two variables, using the algebraic method of substitution or elimination
+– solve problems that arise from realistic situations described in words or represented by linear systems of two equations involving two variables, by choosing an appropriate algebraic or graphical method (Sample problem: The Robotics Club raised $5000 to build a robot for a future competition. The club invested part of the money in an account that paid 4% annual interest, and the rest in a government bond that paid 3.5% simple interest per year.
+After one year, the club earned a total of $190 in interest. How much was invested at each rate? Verify your result.).
+
+Solving Problems Involving Properties of Line Segments
+
+By the end of this course, students will:
+
+– develop the formula for the midpoint of a line segment, and use this formula to solve problems (e.g., determine the coordinates of the midpoints of the sides of a triangle, given the coordinates of the vertices, and verify concretely or by using dynamic geometry software);
+– develop the formula for the length of a line segment, and use this formula to solve problems (e.g., determine the lengths of the line segments joining the midpoints of the sides of a triangle, given the coordinates of the vertices of the triangle, and verify using dynamic geometry software);
+– develop the equation for a circle with centre (0, 0) and radius r, by applying the formula for the length of a line segment;
+– determine the radius of a circle with centre (0, 0), given its equation; write the equation of a circle with centre (0, 0), given the radius; and sketch the circle, given the equation in the form x2 + y2 = r 2;
+– solve problems involving the slope, length, and midpoint of a line segment (e.g., determine the equation of the right bisector of a line segment, given the coordinates of the endpoints; determine the distance from a given point to a line whose equation is given, and verify using dynamic
+geometry software).
+
+Using Analytic Geometry to Verify Geometric Properties
+
+By the end of this course, students will:
+
+– determine, through investigation (e.g., using dynamic geometry software, by paper folding), some characteristics and properties of geometric figures (e.g., medians in a triangle, similar figures constructed on the sides of a right triangle);
+– verify, using algebraic techniques and analytic geometry, some characteristics of geometric figures (e.g., verify that two lines are perpendicular, given the coordinates of two points on each line; verify, by determining side length, that a triangle is equilateral, given the coordinates of the
+vertices);
+– plan and implement a multi-step strategy that uses analytic geometry and algebraic techniques to verify a geometric property (e.g., given the coordinates of the vertices of a triangle, verify that the line segment joining the midpoints of two sides of the triangle is parallel to the third side and half its length, and check using dynamic geometry software; given the coordinates of the vertices of a rectangle, verify that the diagonals of the rectangle bisect each other).
+
+Trigonometry
+
+Overall Expectations
+
+By the end of this course, students will:
+
+• use their knowledge of ratio and proportion to investigate similar triangles and solve problems related to similarity;
+• solve problems involving right triangles, using the primary trigonometric ratios and the Pythagorean theorem;
+• solve problems involving acute triangles, using the sine law and the cosine law.
+
+Specific Expectations
+
+Investigating Similarity and Solving Problems Involving Similar Triangles
+
+By the end of this course, students will:
+
+– verify, through investigation (e.g., using dynamic geometry software, concrete materials), the properties of similar triangles (e.g., given similar triangles, verify the equality of corresponding angles and the proportionality of corresponding sides);
+– describe and compare the concepts of similarity and congruence;
+– solve problems involving similar triangles in realistic situations (e.g., shadows, reflections, scale models, surveying) (Sample problem: Use a metre stick to determine the height of a tree, by means of the similar triangles formed by the tree, the metre stick, and their shadows.).
+
+Solving Problems Involving the Trigonometry of Right Triangles
+
+By the end of this course, students will:
+
+– determine, through investigation (e.g., using dynamic geometry software, concrete materials), the relationship between the ratio of two sides in a right triangle and the ratio of the two corresponding sides in a similar right triangle, and define the sine, cosine, and tangent ratios (e.g., sin A = ); opposite hypotenuse
+– determine the measures of the sides and angles in right triangles, using the primary trigonometric ratios and the Pythagorean theorem;
+– solve problems involving the measures of sides and angles in right triangles in reallife applications (e.g., in surveying, in navigating, in determining the height of an inaccessible object around the school), using the primary trigonometric ratios and the Pythagorean theorem.
+
+Solving Problems Involving the Trigonometry of Acute Triangles
+
+By the end of this course, students will:
+
+– explore the development of the sine law within acute triangles (e.g., use dynamic geometry software to determine that the ratio of the side lengths equals the ratio of the sines of the opposite angles; follow the algebraic development of the sine law and identify the application of solving systems
+of equations [student reproduction of the development of the formula is not required]);
+– explore the development of the cosine law within acute triangles (e.g., use dynamic geometry software to verify the cosine law; follow the algebraic development of the cosine law and identify its relationship to the Pythagorean theorem and the cosine ratio [student reproduction of the development of the formula is not required]);
+– determine the measures of sides and angles in acute triangles, using the sine law and the cosine law ;
+– solve problems involving the measures of sides and angles in acute triangles.
+
+
+Foundations of Mathematics, Grade 10, Applied (MFM2P)
+
+This course enables students to consolidate their understanding of linear relations and extend their problem-solving and algebraic skills through investigation, the effective use of technology, and hands-on activities. Students will develop and graph equations in analytic geometry; solve and apply linear systems, using real-life examples; and explore and interpret graphs of quadratic relations. Students will investigate similar triangles, the trigonometry of right triangles, and the measurement of three-dimensional figures. Students will consolidate their mathematical skills as they solve problems and communicate their thinking.
+
+Mathematical process expectations. The mathematical processes are to be integrated into student learning in all areas of this course.
+
+Throughout this course, students will:
+
+PROBLEM SOLVING
+
+• develop, select, apply, and compare a variety of problem-solving strategies as they pose and solve problems and conduct investigations, to help deepen their mathematical understanding;
+
+REASONING AND PROVING
+
+• develop and apply reasoning skills (e.g., recognition of relationships, generalization through inductive reasoning, use of counter-examples) to make mathematical conjectures, assess conjectures, and justify conclusions, and plan and construct organized mathematical arguments;
+
+REFLECTING
+
+• demonstrate that they are reflecting on and monitoring their thinking to help clarify their understanding as they complete an investigation or solve a problem (e.g., by assessing the effectiveness of strategies and processes used, by proposing alternative approaches, by judging the reasonableness of results, by verifying solutions);
+
+SELECTING TOOLS AND COMPUTATIONAL STRATEGIES
+
+• select and use a variety of concrete, visual, and electronic learning tools and appropriate computational strategies to investigate mathematical ideas and to solve problems;
+
+CONNECTING
+
+• make connections among mathematical concepts and procedures, and relate mathematical ideas to situations or phenomena drawn from other contexts (e.g., other curriculum areas, daily life, current events, art and culture, sports);
+
+REPRESENTING
+
+• create a variety of representations of mathematical ideas (e.g., numeric, geometric, algebraic, graphical, pictorial representations; onscreen dynamic representations), connect and compare them, and select and apply the appropriate representations to solve problems;
+
+COMMUNICATING
+
+• communicate mathematical thinking orally, visually, and in writing, using mathematical vocabulary and a variety of appropriate representations, and observing mathematical conventions.
+
+Measurement and Trigonometry
+
+Overall Expectations
+
+By the end of this course, students will:
+
+• use their knowledge of ratio and proportion to investigate similar triangles and solve problems related to similarity;
+• solve problems involving right triangles, using the primary trigonometric ratios and the Pythagorean theorem;
+• solve problems involving the surface areas and volumes of three-dimensional figures, and use the imperial and metric systems of measurement.
+
+Specific Expectations
+
+Solving Problems Involving Similar Triangles
+
+By the end of this course, students will:
+
+– verify, through investigation (e.g., using dynamic geometry software, concrete materials), properties of similar triangles (e.g., given similar triangles, verify the equality of corresponding angles and the proportionality of corresponding sides);
+– determine the lengths of sides of similar triangles, using proportional reasoning;
+– solve problems involving similar triangles in realistic situations (e.g., shadows, reflections, scale models, surveying) (Sample problem: Use a metre stick to determine the height of a tree, by means of the similar triangles formed by the tree, the metre stick, and their shadows.).
+
+Solving Problems Involving the Trigonometry of Right Triangles
+
+By the end of this course, students will:
+
+– determine, through investigation (e.g., using dynamic geometry software, concrete materials), the relationship between the ratio of two sides in a right triangle and the ratio of the two corresponding sides in a similar right triangle, and define the sine, cosine, and tangent ratios (e.g., sin A = );
+– determine the measures of the sides and angles in right triangles, using the primary opposite hypotenuse trigonometric ratios and the Pythagorean
+theorem;
+– solve problems involving the measures of sides and angles in right triangles in reallife applications (e.g., in surveying, in navigation, in determining the height of an inaccessible object around the school), using the primary trigonometric ratios and the Pythagorean theorem (Sample
+problem: Build a kite, using imperial measurements, create a clinometer to determine the angle of elevation when the kite is flown, and use the tangent ratio to calculate the height attained.);
+– describe, through participation in an activity, the application of trigonometry in an occupation (e.g., research and report on how trigonometry is applied in astronomy; attend a career fair that includes a surveyor, and describe how a surveyor applies trigonometry to calculate distances; job shadow a carpenter for a few hours, and describe how a carpenter uses trigonometry).
+
+Solving Problems Involving Surface Area and Volume, Using the Imperial and Metric Systems of Measurement
+
+By the end of this course, students will:
+
+– use the imperial system when solving measurement problems (e.g., problems involving dimensions of lumber, areas of carpets, and volumes of soil or concrete);
+– perform everyday conversions between the imperial system and the metric system (e.g., millilitres to cups, centimetres to inches) and within these systems (e.g., cubic metres to cubic centimetres, square feet to square yards), as necessary to solve problems involving measurement (Sample problem: A vertical post is to be supported by a wooden pole, secured on the ground at an angle of elevation of 60°, and reaching 3 m up the post from its base. If wood is sold by the foot, how many feet of wood are needed to make the pole?);
+– determine, through investigation, the relationship for calculating the surface area of a pyramid (e.g., use the net of a squarebased pyramid to determine that the surface area is the area of the square base plus the areas of the four congruent triangles);
+– solve problems involving the surface areas of prisms, pyramids, and cylinders, and the volumes of prisms, pyramids, cylinders, cones, and spheres, including problems involving combinations of these figures, using the metric system or the imperial system, as appropriate (Sample problem: How many cubic yards of concrete are required to pour a concrete pad measuring 10 feet by 10 feet by 1 foot? If poured concrete costs $110 per cubic yard, how
+much does it cost to pour a concrete driveway requiring 6 pads?).
+
+Modelling Linear Relations
+
+Overall Expectations
+
+By the end of this course, students will:
+
+• manipulate and solve algebraic equations, as needed to solve problems;
+• graph a line and write the equation of a line from given information;
+• solve systems of two linear equations, and solve related problems that arise from realistic situations.
+
+Manipulating and Solving Algebraic Equations
+
+By the end of this course, students will:
+
+– solve first-degree equations involving one variable, including equations with fractional coefficients (e.g. using the balance analogy, computer algebra systems, paper and pencil)
+– determine the value of a variable in the first degree, using a formula (i.e., by isolating the variable and then substituting known values; by substituting known values and then solving for the variable) (e.g., in analytic geometry, in measurement) (Sample problem: A cone has a volume of
+100 cm3. The radius of the base is 3 cm. What is the height of the cone?);
+– express the equation of a line in the form y = mx + b, given the form Ax + By + C = 0.
+
+Graphing and Writing Equations of Lines
+
+By the end of this course, students will:
+
+– connect the rate of change of a linear relation to the slope of the line, and define the slope as the ratio m = rise/run
+– identify, through investigation, y = mx + b as a common form for the equation of a straight line, and identify the special cases x = a, y = b;
+– identify, through investigation with technology, the geometric significance of m and b in the equation y = mx + b;
+– identify, through investigation, properties of the slopes of lines and line segments (e.g., direction, positive or negative rate of change, steepness, parallelism), using graphing technology to facilitate investigations, where appropriate;
+– graph lines by hand, using a variety of techniques
+– determine the equation of a line, given its graph, the slope and y-intercept, the slope and a point on the line, or two points on the line.
+
+Solving and Interpreting Systems of Linear Equations
+
+By the end of this course, students will:
+
+– determine graphically the point of intersection of two linear relations (e.g., using graph paper, using technology)
+– solve systems of two linear equations involving two variables with integral coefficients, using the algebraic method of substitution or elimination (Sample problem: Solve y = 2x + 1, 3x + 2y = 16 for x and y algebraically, and verify algebraically and graphically.);
+– solve problems that arise from realistic situations described in words or represented by given linear systems of two equations involving two variables, by choosing an appropriate algebraic or graphical method (Sample problem: Maria has been hired by Company A with an annual salary,
+S dollars, given by S = 32 500 + 500a, where a represents the number of years she has been employed by this company. Ruth has been hired by Company B with an annual salary, S dollars, given by S = 28 000 + 1000a, where a represents the number of years she has been employed by that company. Describe what the solution of this system would represent in terms of Maria’s salary and Ruth’s salary. After how many years will their salaries be the same? What will their salaries be at that time?).
+
+Quadratic Relations of the Form y = ax2 + bx + c 
+
+Overall Expectations
+
+By the end of this course, students will:
+
+• manipulate algebraic expressions, as needed to understand quadratic relations;
+• identify characteristics of quadratic relations;
+• solve problems by interpreting graphs of quadratic relations.
+
+Specific Expectations
+
+Manipulating Quadratic Expressions
+
+By the end of this course, students will:
+
+– expand and simplify second-degree polynomial expressions involving one variable that consist of the product of two binomials [e.g., (2x + 3)(x + 4)] or the square of a binomial [e.g., (x + 3)2], using a variety of tools (e.g., algebra tiles, diagrams, computer algebra systems, paper and pencil) and
+strategies (e.g. patterning);
+– factor binomials (e.g., 4x2 + 8x) and trinomials (e.g., 3x2 + 9x – 15) involving one variable up to degree two, by determining a common factor using a variety of tools (e.g., algebra tiles, computer algebra systems, paper and pencil) and strategies (e.g., patterning);
+– factor simple trinomials of the form x2 + bx + c (e.g., x2 + 7x + 10, x2 + 2x – 8), using a variety of tools (e.g., algebra tiles, computer algebra systems, paper and pencil) and strategies (e.g., patterning);
+– factor the difference of squares of the form x2 – a2 (e.g., x2 – 16).
+
+Identifying Characteristics of Quadratic Relations
+
+By the end of this course, students will:
+
+– collect data that can be represented as a quadratic relation, from experiments using appropriate equipment and technology (e.g., concrete materials, scientific probes, graphing calculators), or from secondary sources (e.g., the Internet, Statistics Canada); graph the data and draw a curve of best fit, if appropriate,with or without the use of technology (Sample problem: Make a 1 m ramp that makes a 15° angle with the floor. Place a can 30 cm up the ramp. Record the time it takes for the can to roll to the bottom. Repeat by placing the can 40 cm, 50 cm, and 60 cm up the ramp, and so on. Graph the data and draw the curve of best fit.);
+– determine, through investigation using technology, that a quadratic relation of the form y = ax2 + bx + c (a ? 0) can be graphically represented as a parabola, and determine that the table of values yields a constant second difference (Sample problem: Graph the quadratic relation y = x2 – 4, using technology. Observe the shape of the graph. Consider the corresponding table of values, and calculate the first and second differences. Repeat for a different quadratic relation. Describe your observations and make conclusions.);
+– identify the key features of a graph of a parabola (i.e., the equation of the axis of symmetry, the coordinates of the vertex, the y-intercept, the zeros, and the maximum or minimum value), using a given graph or a graph generated with technology from its equation, and use the appropriate terminology to describe the features;
+– compare, through investigation using technology, the graphical representations of a quadratic relation in the form y = x2 + bx + c and the same relation in the factored form y = (x – r)(x – s) (i.e., the graphs are the same), and describe the connections between each algebraic representation and the graph [e.g., the y-intercept is c in the form y = x2 + bx + c; the x-intercepts are r and s in the form y = (x – r)(x – s)] (Sample problem: Use a graphing calculator to compare the graphs of y = x2 + 2x – 8 and y = (x + 4)(x – 2). In what way(s) are the equations related? What information about the graph can you identify by looking at each equation? Make some conclusions from your observations, and check your conclusions with a different
+quadratic equation.).
+
+Solving Problems by Interpreting Graphs of Quadratic Relations
+
+By the end of this course, students will:
+
+– solve problems involving a quadratic relation by interpreting a given graph or a graph generated with technology from its equation (e.g., given an equation representing the height of a ball over elapsed time, use a graphing calculator or graphing software to graph the relation, and answer questions such as the following: What is the maximum height of the ball? After what length of time will the ball hit the ground? Over what time interval is the height of the ball greater than 3 m?);
+– solve problems by interpreting the significance of the key features of graphsobtained by collecting experimental data involving quadratic relations (Sample problem: Roll a can up a ramp. Using a motion detector and a graphing calculator, record the motion of the can until it returns to its starting position, graph the distance from the starting position versus time, and draw the curve of best fit. Interpret the meanings of the vertex and the intercepts in terms of the experiment. Predict how the graph would change if you gave the can a harder push.Test your prediction.).
+
+
+Glossary
+
+The following definitions of terms are intended to help teachers and parents/guardians use this document. It should be noted that, where examples are provided, they are suggestions and are not meant to be exhaustive.
+
+acute triangle. A triangle in which each of the three interior angles measures less than 90є.
+
+algebra tiles. Manipulatives that can be used to model operations involving integers, polynomials,  and equations. Each tile represents a particular monomial, such as 1, x, or x2.
+
+algebraic expression. A collection of symbols, including one or more variables and possibly numbers and operation symbols. For example, 3x + 6, x, 5x, and 21 – 2w are all algebraic expressions.
+
+algebraic modelling. The process of representing a relationship by an equation or a formula, or representing a pattern of numbers by an algebraic expression.
+
+algorithm. A specific set of instructions for carrying out a procedure.
+
+altitude. A line segment giving the height of a geometric figure. In a triangle, an altitude is found by drawing the perpendicular from a vertex to the side opposite.
+
+analytic geometry. A geometry that uses the xy-plane to determine equations that represent lines and curves.
+
+angle bisector. A line that divides an angle into two equal parts. angle of elevation. The angle formed by the horizontal and the line of sight (to an object above the horizontal).
+
+application. The use of mathematical concepts and skills to solve problems drawn from a variety of areas.
+
+binomial. An algebraic expression containing two terms; for example, 3x + 2.
+
+chord. A line segment joining two points on a curve.
+
+coefficient. The factor by which a variable is multiplied. For example, in the term 5x, the coefficient is 5; in the term ax, the coefficient is a.
+
+computer algebra system (CAS). A software program that manipulates and displays mathematical expressions (and equations) symbolically.
+
+congruence. The property of being congruent. Two geometric figures are congruent if they are equal in all respects.
+
+conjecture. A guess or prediction based on limited evidence.
+
+constant rate of change. A relationship between two variables illustrates a constant rate of change when equal intervals of the first variable are associated with equal intervals of the second variable. For example, if a car travels at 100 km/h, in the first hour it travels 100 km, in the second hour it travels 100 km, and so on.
+
+cosine law. The relationship, for any triangle, involving the cosine of one of the angles and the lengths of the three sides; used to determine
+unknown sides and angles in triangles. If a triangle has sides a, b, and c, and if the angle A is opposite side a, then: a2 = b2 + c 2 – 2bc cos A.
+
+cosine ratio. For either of the two acute angles in a right triangle, the ratio of the length of the adjacent side to the length of the hypotenuse.
+
+counter-example. An example that proves that a hypothesis or conjecture is false.
+
+curve of best fit. The curve that best describes the distribution of points in a scatter plot.
+
+deductive reasoning. The process of reaching a conclusion by applying arguments that have already been proved and using evidence that is known to be true.
+
+diagonal. In a polygon, a line segment joining two vertices that are not next to each other (i.e., not joined by one side).
+
+difference of squares. An expression of the form a2 – b2, which involves the subtraction of two squares.
+
+direct variation. A relationship between two variables in which one variable is a constant multiple of the other.
+
+dynamic geometry software. Computer software that allows the user to plot points and create graphs on a coordinate system, measure line segments and angles, construct twodimensional shapes, create two-dimensional representations of three-dimensional objects, and transform constructed figures by moving parts of them.
+
+evaluate. To determine a value for.
+
+exponent. A special use of a superscript in mathematics. For example, in 32, the exponent is 2. An exponent is used to denote repeated multiplication. For example, 54 means 5 x 5 x 5 x 5.
+
+extrapolate. To estimate values lying outside the range of given data. For example, to extrapolate from a graph means to estimate coordinates of points beyond those that are plotted.
+
+factor. To express a number as the product of two or more numbers, or an algebraic expression as the product of two or more other algebraic expressions. Also, the individual numbers or algebraic expressions in such a product.
+
+finite differences. Given a table of values in which the x-coordinates are evenly spaced, the first differences are calculated by subtracting
+consecutive y-coordinates. The second differences are calculated by subtracting consecutive first differences, and so on. In a linear relation,
+the first differences are constant; in a quadratic relation of the form y = ax2 + bx + c (a ? 0), the second differences are constant. 
+
+first-degree equation. An equation in which the variable has the exponent 1; for example, 5(3x – 1) + 6 = –20 + 7x + 5.
+
+first-degree polynomial. A polynomial in which the variable has the exponent 1; for example, 4x + 20.
+
+first differences. See finite differences.
+
+generalize. To determine a general rule or make a conclusion from examples. Specifically, to determine a general rule to represent a pattern or relationship between variables.
+
+graphing calculator. A hand-held device capable of a wide range of mathematical operations, including graphing from an equation, constructing a scatter plot, determining the equation of a curve of best fit for a scatter plot, making statistical calculations, performing symbolic manipulation. Many graphing calculators will attach to scientific probes that can be used to gather data involving physical measurements (e.g., position, temperature, force).
+
+graphing software. Computer software that provides features similar to those of a graphing calculator.
+
+hypothesis. A proposed explanation or position that has yet to be tested.
+
+imperial system. A system of weights and measures built on the basic units of measure of the yard (length), the pound (mass), the gallon (capacity), and the second (time). Also called the British system.
+
+inductive reasoning. The process of reaching a conclusion or making a generalization on the basis of specific cases or examples.
+
+inference. A conclusion based on a relationship identified between variables in a set of data.
+
+integer. Any one of the numbers ..., –4, –3, –2, –1, 0, +1, +2, +3, +4,... .
+
+intercept. See x-intercept, y-intercept.
+
+interpolate. To estimate values lying between elements of given data. For example, to interpolate from a graph means to estimate coordinates of points between those that are plotted.
+
+inverse operations. Two operations that “undo” or “reverse” each other. For example, addition and subtraction are inverse operations, since a + b = c means that c – a = b. “Squaring” and “taking the square root” are inverse operations, since, for example, 52 = 25 and the (principal) square root of 25 is 5.
+
+linear relation. A relation between two variables that appears as a straight line when graphed on a coordinate system. May also be referred to as a linear function.
+
+line of best fit. The straight line that best describes the distribution of points in a scatter plot.
+
+manipulate.To apply operations, such as addition,multiplication, or factoring, on algebraic expressions.
+
+mathematical model. A mathematical description (e.g., a diagram, a graph, a table of values, an equation, a formula, a physical model, a computer model) of a situation.
+
+mathematical modelling. The process of describing a situation in a mathematical form. See also mathematical model.
+
+median. Geometry. The line drawn from a vertex of a triangle to the midpoint of the opposite side. Statistics. The middle number in a set, such that half the numbers in the set are less and half are greater when the numbers are arranged in order.
+
+method of elimination. In solving systems of linear equations, a method in which the coefficients of one variable are matched through multiplication and then the equations are added or subtracted to eliminate that variable.
+
+method of substitution. In solving systems of linear equations, a method in which one equation is rearranged and substituted into the other.
+
+model. See mathematical model.
+
+monomial. An algebraic expression with one term; for example, 5x2.
+
+motion detector. A hand-held device that uses ultrasound to measure distance.The data from motion detectors can be transmitted to graphing calculators.
+
+multiple trials. A technique used in experimentation in which the same experiment is done several times and the results are combined through a measure such as averaging. The use of multiple trials “smooths out” some of the random occurrences that can affect the outcome of an individual trial of an
+experiment.
+
+non-linear relation. A relationship between two variables that does not fit a straight line when graphed.
+
+non-real root of an equation. A solution to an equation that is not an element of the set of real numbers
+
+optimal value.The maximum or minimum value of a variable.
+
+parabola. The graph of a quadratic relation of the form y = ax2 + bx + c (a ? 0). The graph, which resembles the letter “U”, is symmetrical.
+
+partial variation. A relationship between two variables in which one variable is a multiple of the other, plus some constant number. For example, the cost of a taxi fare has two components, a flat fee and a fee per kilometre driven. A formula representing the situation of a flat fee of $2.00 and a fee rate of $0.50/km would be F = 0.50d + 2.00, where F is the total fare and d is the number of kilometres driven.
+
+polygon. A closed figure formed by three or more line segments. Examples of polygons are triangles, quadrilaterals, pentagons, and octagons.
+
+polynomial. See polynomial expression.
+
+polynomial expression. An algebraic expression taking the form a + bx + cx2 + . . . , where a, b, and c are numbers.
+
+population. Statistics. The total number of individuals or items under consideration in a surveying or sampling activity.
+
+primary trigonometric ratios. The basic ratios of trigonometry (i.e., sine, cosine, and tangent).
+
+prism. A three-dimensional figure with two parallel, congruent polygonal bases. A prism is named by the shape of its bases; for example, rectangular prism, triangular prism.
+
+proportional reasoning. Reasoning or problem solving based on the examination of equal ratios.
+
+Pythagorean theorem. The conclusion that, in a right triangle, the square of the length of the longest side is equal to the sum of the squares of the lengths of the other two sides.
+
+quadratic equation. An equation that contains at least one term whose exponent is 2, and no term with an exponent greater than 2; for example, x2 + 7x + 10 = 0.
+
+quadratic formula. A formula for determining the roots of a quadratic equation of the form ax2 + bx + c = 0. The formula is phrased in terms of the coefficients of the quadratic equation: x ={– b +-(vb2 – 4ac) }/2a.
+
+quadratic relation. A relation whose equation is in quadratic form; for example, y = x2 + 7x + 10.
+
+quadrilateral. A polygon with four sides.
+
+rate of change. The change in one variable relative to the change in another. The slope of a line represents rate of change.
+
+rational number. A number that can be expressed as the quotient of two integers where the divisor is not 0.
+
+realistic situation. A description of an event or events drawn from real life or from an experiment that provides experience with such an event.
+
+real root of an equation. A solution to an equation that is an element of the set of real numbers. The set of real numbers includes all numbers commonly used in daily life: all fractions, all decimals, all negative and positive numbers.
+
+regression. A method for determining the equation of a curve (not necessarily a straight line) that fits the distribution of points on a scatter plot.
+
+relation. An identified relationship between variables that may be expressed as a table of values, a graph, or an equation.
+
+representivity. A principle of data analysis that involves selecting a sample that is typical of the characteristics of the population from which it is drawn.
+
+right bisector. The line that is perpendicular to a given line segment and that passes through its midpoint.
+
+right triangle. A triangle containing one 90є angle
+
+sample. A small group chosen from a population and examined in order to make predictions about the population.
+
+sampling technique. A process for collecting a sample of data.
+
+scatter plot. A graph that attempts to show a relationship between two variables by means of points plotted on a coordinate grid. Also called scatter diagram.
+
+scientific probe. A device that may be attached to a graphing calculator or to a computer in order to gather data involving measurement (e.g., position, temperature, force).
+
+second-degree polynomial. A polynomial in which the variable in at least one term has an exponent 2, and no variable has an exponent greater than 2; for example, 4x2 + 20 or x2 + 7x + 10.
+
+second differences. See finite differences.
+
+similar triangles. Triangles in which corresponding sides are proportional.
+
+simulation. A probability experiment to estimate the likelihood of an event. For example, tossing a coin is a simulation of whether the next person you meet will be male or female.
+
+sine law. The relationships, for any triangle, involving the sines of two of the angles and the lengths of the opposite sides; used to determine unknown sides and angles in triangles. If a triangle has sides a, b, and c, and if the angles opposite each side are A,B, and C, respectively, then:  a/sinA = b/sinB = c/sinC
+
+sine ratio. For either of the two acute angles in a right triangle, the ratio of the length of the opposite side to the length of the hypotenuse.
+
+slope. A measure of the steepness of a line, calculated as the ratio of the rise (vertical change between two points) to the run (horizontal change between the same two points).
+
+spreadsheet. Computer software that allows the entry of formulas for repeated calculation.
+
+stretch factor. A coefficient in an equation of a relation that causes stretching of the corresponding graph. For example, the graph of y = 3x2 appears to be narrower than the graph of y = x2 because its y-coordinates are three times as great for the same x-coordinate. (In this example, the coefficient 3 causes the graph to stretch vertically, and is referred to as a vertical stretch factor.)
+
+substitution. The process of replacing a variable by a value. See also method of substitution.
+
+system of linear equations.Two or more linear equations involving two or more variables. The solution to a system of linear equations involving two variables is the point of intersection of two straight lines.
+
+table of values. A table used to record the coordinates of points in a relation.
+
+tangent ratio. For either of the two acute angles in a right triangle, the ratio of the length of the opposite side to the length of the adjacent side.
+
+transformation. A change in a figure that results in a different position, orientation, or size. The transformations include translation, reflection, rotation, compression, and stretch.
+
+trapezoid. A quadrilateral with one pair of parallel sides.
+
+variable. A symbol used to represent an unspecified number. For example, x and y are variables in the expression x + 2y.
+
+vertex. The point at which two sides of a polygon meet.
+
+x-intercept. The x-coordinate of a point at which a line or curve intersects the x-axis.
+
+xy-plane. A coordinate system based on the intersection of two straight lines called axes, which are usually perpendicular. The horizontal axis is the x-axis, and the vertical axis is the y-axis. The point of intersection of the axes is
+called the origin.
+
+y-intercept. The y-coordinate of a point at which a line or curve intersects the y-axis.
+
+zeros of a relation. The values of x for which a relation has a value of zero. The zeros of a relation correspond to the x-intercepts of its graph. See also x-intercept.

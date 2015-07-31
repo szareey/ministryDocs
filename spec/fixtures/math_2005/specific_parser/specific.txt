@@ -1,0 +1,5 @@
+– substitute into and evaluate algebraic expressions involving exponents (i.e., evaluate expressions involving natural-number exponents with rational-number bases (Sample problem: A movie theatre wants to compare the volumes of popcorn in two containers, a cube with edge length 8.1 cm and a cylinder 
+with radius 4.5 cm and height 8.0 cm. Which container holds more popcorn?); 
+– describe the relationship between the algebraic and geometric representations of a single-variable term up to degree three [i.e., length, which is one dimensional, can be represented by x; area, which is two dimensional, can be represented by (x)(x) or x2; volume, which is three dimensional, can be represented by (x)(x)(x), (x2)(x), or x3]; 
+– derive, through the investigation and examination of patterns, the exponent rules for multiplying and dividing monomials, and apply these rules in expressions involving one and two variables with positive exponents; 
+– extend the multiplication rule to derive and understand the power of a power rule, and apply it to simplify expressions involving one and two variables with positive exponents.

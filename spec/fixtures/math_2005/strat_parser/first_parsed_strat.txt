@@ -1,0 +1,26 @@
+Number Sense and Algebra 
+Overall Expectations 
+By the end of this course, students will: 
+• demonstrate an understanding of the exponent rules of multiplication and division, and apply them to simplify expressions; 
+• manipulate numerical and polynomial expressions, and solve first-degree equations. 
+Specific Expectations 
+Operating with Exponents 
+By the end of this course, students will: 
+– substitute into and evaluate algebraic expressions involving exponents (i.e., evaluate expressions involving natural-number exponents with rational-number bases (Sample problem: A movie theatre wants to compare the volumes of popcorn in two containers, a cube with edge length 8.1 cm and a cylinder 
+with radius 4.5 cm and height 8.0 cm. Which container holds more popcorn?); 
+– describe the relationship between the algebraic and geometric representations of a single-variable term up to degree three [i.e., length, which is one dimensional, can be represented by x; area, which is two dimensional, can be represented by (x)(x) or x2; volume, which is three dimensional, can be represented by (x)(x)(x), (x2)(x), or x3]; 
+– derive, through the investigation and examination of patterns, the exponent rules for multiplying and dividing monomials, and apply these rules in expressions involving one and two variables with positive exponents; 
+– extend the multiplication rule to derive and understand the power of a power rule, and apply it to simplify expressions involving one and two variables with positive exponents. 
+Manipulating Expressions and Solving Equations 
+By the end of this course, students will: 
+– simplify numerical expressions involving integers and rational numbers, with and without the use of technology;* 
+– solve problems requiring the manipulation of expressions arising from applications of percent, ratio, rate, and proportion;* 
+– relate their understanding of inverse operations to squaring and taking the square root, and apply inverse operations to simplify expressions and solve equations; 
+– add and subtract polynomials with up to two variables [e.g., (2x – 5) + (3x + 1), (3x2y + 2xy2) + (4x2y – 6xy2)], using a variety of tools (e.g., algebra tiles, computer algebra systems, paper and pencil); 
+– multiply a polynomial by a monomial involving the same variable [e.g., 2x(x + 4), 2x2(3x2 – 2x + 1)], using a variety of tools (e.g., algebra tiles, diagrams, computer algebra systems, paper and pencil); 
+– expand and simplify polynomial expressions involving one variable [e.g., 2x(4x + 1) – 3x(x + 2)], using a variety of tools (e.g., algebra tiles, 
+computer algebra systems, paper and pencil); 
+[*The knowledge and skills described in this expectation are to be introduced as needed and applied and consolidated throughout the course.] 
+– solve first-degree equations, including equations with fractional coefficients, using a variety of tools (e.g., computer algebra systems, paper and pencil) and strategies (e.g., the balance analogy, algebraic strategies); 
+– rearrange formulas involving variables in the first degree, with and without substitution (e.g., in analytic geometry, in measurement) (Sample problem: A circular garden has a circumference of 30 m. What is the length of a straight path that goes through the centre of this garden?); 
+– solve problems that can be modelled with first-degree equations, and compare algebraic methods to other solution methods (Sample problem: Solve the following problem in more than one way: Jonah is involved in a walkathon. His goal is to walk 25 km. He begins at 9:00 a.m. and walks at a steady rate of 4 km/h. How many kilometres does he still have left to walk at 1:15 p.m. if he is to achieve his goal?).

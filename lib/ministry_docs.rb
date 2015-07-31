@@ -1,11 +1,23 @@
 require 'ministry_docs/version'
 require 'ostruct'
 
-require 'ministry_docs/base_doc/doc_parser'
-require 'ministry_docs/base_doc/course_parser'
-require 'ministry_docs/base_doc/expectation_parser'
-require 'ministry_docs/base_doc/strand_parser'
-require 'ministry_docs/base_doc/specific_parser'
+require 'ministry_docs/base_doc/base_parser'
+['base', 'math_2007', 'math_2005'].each do |type|
+  [
+    'doc_parser', 
+    'course_parser', 
+    'expectation_parser', 
+    'strand_parser',
+    'specific_parser'
+  ].each do |parser|
+    file = "ministry_docs/#{type}_doc/#{parser}.rb"
+    begin
+      require file
+    rescue LoadError
+
+    end
+  end
+end
 
 require 'ministry_docs/base'
 

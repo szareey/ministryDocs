@@ -7,7 +7,7 @@ module MinistryDocs
     private
 
     def doc_parser
-      @doc_parser || BaseDoc::DocParser.new
+      raise NotImplementedError
     end
     
     def agent

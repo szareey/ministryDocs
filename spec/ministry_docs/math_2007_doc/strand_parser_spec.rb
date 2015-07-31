@@ -1,7 +1,7 @@
 require 'spec_helper'
 
-describe MinistryDocs::BaseDoc::StrandParser do
-  subject(:parser) { MinistryDocs::BaseDoc::StrandParser.new }
+describe MinistryDocs::Math2007Doc::StrandParser do
+  subject(:parser) { MinistryDocs::Math2007Doc::StrandParser.new }
 
   let(:course_txt) { get_txt 'strat_parser/strats' }
   let(:first_strat) { get_txt 'strat_parser/first_parsed_strat' }

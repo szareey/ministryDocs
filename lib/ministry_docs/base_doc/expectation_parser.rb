@@ -1,9 +1,6 @@
 module MinistryDocs
   module BaseDoc
-    class ExpectationParser
-      OVERALL = /^OVERALL EXPECTATIONS/
-      SPECIFIC = /^SPECIFIC EXPECTATIONS/
-
+    class ExpectationParser < BaseParser
       attr_writer :specific_parser
 
       def parse(strat)
@@ -13,23 +10,24 @@ module MinistryDocs
             title: short[:title],
             description: overall[index][:value],
             part: short[:part],
-            specifics: specific_parser.parse(short[:content])
+            specifics: specific_parser.parse(short[:content], short[:part])
           )
         end
       end
 
-      def specific_parser
-        @specific_parser || SpecificParser.new
-      end
+      protected
 
-      private
+      def normalize(strat)
+        strat
+      end
 
       def parse_sections(strat)
         strat = normalize(strat)
 
-        strat.index(OVERALL)
+        strat.index(self.class::OVERALL)
         overall_pos = Regexp.last_match.end(0)
-        specific = strat.index(SPECIFIC)
+        specific = strat.index(self.class::SPECIFIC)
+        
         specific_pos = Regexp.last_match.end(0)
 
         [
@@ -38,51 +36,8 @@ module MinistryDocs
         ]
       end
 
-      def parse_shorthand(specific)
-        sections = specific
-                   .enum_for(:scan, /^(([0-9])\. (.*))$/)
-                   .collect do |spec|
-          {
-            title: spec[2],
-            part:  spec[1],
-            pos: {
-              from: Regexp.last_match.begin(0),
-              to: Regexp.last_match.end(0)
-            }
-          }
-        end
-        get_content_by_pos specific, sections
-      end
-
-      def get_content_by_pos(specific, sections)
-        sections.each_with_index.collect do |section, index|
-          second_pos = if index == sections.count - 1
-                         -1
-                       else
-                         sections[index + 1][:pos][:from] - 1
-                       end
-          {
-            title: section[:title].strip,
-            part: section[:part],
-            content: specific[section[:pos][:to]..second_pos].strip
-          }
-        end
-      end
-
-      def parse_overall(overall)
-        list = overall.scan(/^([0-9])\.(.*)$/)
-        list.collect do |section|
-          {
-            part: section[0],
-            value: section[1].strip.chop
-          }
-        end
-      end
-
-      def normalize(text)
-        text
-          .gsub('By the end of this course, students will:', '')
-          .gsub(/^(\*.*)$/, '')
+      def specific_parser
+        raise NotImplementedError
       end
     end
   end

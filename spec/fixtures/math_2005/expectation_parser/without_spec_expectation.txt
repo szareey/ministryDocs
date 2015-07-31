@@ -1,0 +1,26 @@
+Modelling Linear Relations 
+Overall Expectations 
+By the end of this course, students will: 
+• manipulate and solve algebraic equations, as needed to solve problems; 
+• graph a line and write the equation of a line from given information; 
+• solve systems of two linear equations, and solve related problems that arise from realistic situations. 
+Manipulating and Solving Algebraic Equations 
+By the end of this course, students will: 
+– solve first-degree equations involving one variable, including equations with fractional coefficients (e.g. using the balance analogy, computer algebra systems, paper and pencil) 
+– determine the value of a variable in the first degree, using a formula (i.e., by isolating the variable and then substituting known values; by substituting known values and then solving for the variable) (e.g., in analytic geometry, in measurement) (Sample problem: A cone has a volume of 
+100 cm3. The radius of the base is 3 cm. What is the height of the cone?); 
+– express the equation of a line in the form y = mx + b, given the form Ax + By + C = 0. 
+Graphing and Writing Equations of Lines 
+By the end of this course, students will: 
+– connect the rate of change of a linear relation to the slope of the line, and define the slope as the ratio m = rise/run 
+– identify, through investigation, y = mx + b as a common form for the equation of a straight line, and identify the special cases x = a, y = b; 
+– identify, through investigation with technology, the geometric significance of m and b in the equation y = mx + b; 
+– identify, through investigation, properties of the slopes of lines and line segments (e.g., direction, positive or negative rate of change, steepness, parallelism), using graphing technology to facilitate investigations, where appropriate; 
+– graph lines by hand, using a variety of techniques 
+– determine the equation of a line, given its graph, the slope and y-intercept, the slope and a point on the line, or two points on the line. 
+Solving and Interpreting Systems of Linear Equations 
+By the end of this course, students will: 
+– determine graphically the point of intersection of two linear relations (e.g., using graph paper, using technology) 
+– solve systems of two linear equations involving two variables with integral coefficients, using the algebraic method of substitution or elimination (Sample problem: Solve y = 2x + 1, 3x + 2y = 16 for x and y algebraically, and verify algebraically and graphically.); 
+– solve problems that arise from realistic situations described in words or represented by given linear systems of two equations involving two variables, by choosing an appropriate algebraic or graphical method (Sample problem: Maria has been hired by Company A with an annual salary, 
+S dollars, given by S = 32 500 + 500a, where a represents the number of years she has been employed by this company. Ruth has been hired by Company B with an annual salary, S dollars, given by S = 28 000 + 1000a, where a represents the number of years she has been employed by that company. Describe what the solution of this system would represent in terms of Maria’s salary and Ruth’s salary. After how many years will their salaries be the same? What will their salaries be at that time?).
