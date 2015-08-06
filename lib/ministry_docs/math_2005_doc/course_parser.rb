@@ -26,9 +26,8 @@ module MinistryDocs
         course.lines[0].split(',')[1].strip
       end
 
-      #I think this is the best way
       def parse_pre_req(course)
-        ''
+        ''#2005 don't have any pre_req
       end
 
       def parse_title(course)
