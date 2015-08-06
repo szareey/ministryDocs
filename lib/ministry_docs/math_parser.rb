@@ -6,7 +6,11 @@ module MinistryDocs
       page = agent.get URL + 'math.html'
       file = page.search(selector)
                  .attribute('href').value
-      parse(open(URL + file).read.encode('UTF-8', 'Windows-1251'))
+      courses = parse(open(URL + file).read.encode('UTF-8', 'Windows-1251'))
+      {
+        courses: courses,
+        subject: 'math'
+      }.merge(addable_info(page))
     end
 
     protected
