@@ -9,7 +9,8 @@ module MinistryDocs
       courses = parse(open(URL + file).read.encode('UTF-8', 'Windows-1251'))
       doc = {
               courses: courses,
-              subject: 'math'
+              subject: 'math',
+              province: 'Ontario'
             }.merge(addable_info(page))
       OpenStruct.new(doc)
     end
