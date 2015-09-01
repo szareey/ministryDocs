@@ -21,9 +21,8 @@ end
 
 require 'ministry_docs/base'
 
-require 'ministry_docs/math_parser'
-require 'ministry_docs/math_2005_parser'
-require 'ministry_docs/math_2007_parser'
+require 'ministry_docs/file_parser'
+require 'ministry_docs/site_parser'
 
 require 'mechanize'
 require 'open-uri'

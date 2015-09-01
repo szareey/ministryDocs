@@ -13,5 +13,9 @@ describe MinistryDocs::Math2005Doc::DocParser do
       parser.parse_course(full_txt)
       expect(course_parser).to have_received(:parse).with(courses_section)
     end
+
+    it 'contains info about doc' do
+      expect(parser.parse_course(full_txt)[:year]).to eq '2005'
+    end
   end
 end

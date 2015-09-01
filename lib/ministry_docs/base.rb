@@ -1,17 +1,9 @@
 module MinistryDocs
   class Base
-    def parse(doc)
-      doc_parser.parse_course(doc)
-    end
-    
-    private
+    protected
 
-    def doc_parser
-      raise NotImplementedError
-    end
-    
-    def agent
-      @agent || Mechanize.new
+    def open_doc(path)
+      open(path).read.encode('UTF-8', 'Windows-1251')
     end
   end
 end

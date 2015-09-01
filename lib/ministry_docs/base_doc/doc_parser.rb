@@ -4,10 +4,16 @@ module MinistryDocs
       attr_writer :course_parser
 
       def parse_course(text)
-        course_parser.parse(get_courses_section(text))
+        OpenStruct.new(info(
+          course_parser.parse(get_courses_section(text))
+        ))
       end
 
       protected
+
+      def info(courses)
+        raise NotImplementedError
+      end
 
       def course_parser
         raise NotImplementedError
